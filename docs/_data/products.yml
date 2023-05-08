@@ -1,10 +1,12 @@
 products:
-  - title: Subscription
+  - id: subscription
+    title: Subscription
     price: 20
     currency: "USD"
     recurring:
       every: 1
       unit: month
-  - title: Sample One-time purchase
+  - id: one-time
+    title: Sample One-time purchase
     price: 20
     currency: "USD"
