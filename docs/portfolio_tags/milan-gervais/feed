@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Milan Gervais &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/milan-gervais/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>Milan Gervais &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Performance &#124; Human Playground</title>
+		<link>https://racheletmichel.com/portfolio-items/performance-human-playground</link>
+				<comments>https://racheletmichel.com/portfolio-items/performance-human-playground#respond</comments>
+				<pubDate>Tue, 09 Dec 2014 20:07:22 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11019</guid>
+				<description><![CDATA[Concours Créa 2014 Pour INFOPRESSE Performance – ouverture de gala Rendez-vous annuel des meilleures publicités québécoises, à sa neuvième édition de remise des prix Créa. Performance sur mesure à l’occasion de l’ouverture du concours, présenté à la Place des Arts de Montréal. L’événement à rassemblé près de 1500 personnes de l’industrie de la communication et [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><strong>Concours Créa 2014</strong><br />
+<strong>Pour INFOPRESSE </strong><br />
+Performance – ouverture de gala</p>
+<p>Rendez-vous annuel des meilleures publicités québécoises, à sa neuvième édition de remise des prix Créa. Performance sur mesure à l’occasion de l’ouverture du concours, présenté à la Place des Arts de Montréal. L’événement à rassemblé près de 1500 personnes de l’industrie de la communication et de la publicité du Québec afin de souligner et valoriser la créativité d’ici.</p>
+<p>DURÉE<br />
+Performance de 2 minutes<br />
+&amp; autres interventions ponctuelles</p>
+<p>NOMBRE D’INTERVENANTS<br />
+4 danseurs contemporains</p>
+<p>CRÉDITS<br />
+La chrégraphie est une adaptation de l’oeuvre originale Densité d’un Moment par Tonik &amp; Floor Rider<br />
+Danseurs : Geneviève Gagné, Emily Honegger, Joe Danny Aurélien, Jean- François Légaré<br />
+Composition musicale : Thomas Pintal<br />
+Vidéo : Rachel et Michel</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/performance-human-playground/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

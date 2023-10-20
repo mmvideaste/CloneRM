@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bûcheron &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/bucheron/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>bûcheron &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Érablière Panache et bois rond</title>
+		<link>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond</link>
+				<comments>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond#respond</comments>
+				<pubDate>Thu, 09 Oct 2014 19:06:33 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10619</guid>
+				<description><![CDATA[L’Érablière Panache et bois rond accueille une quinzaine de restaurateurs qui offrent leur interprétation de mets typiques d’une Cabane à Sucre, entre les rues De l’Église et Gordon, à Verdun.Tire sur neige et menu gastronomique, préparé spécialement pour l’occasion par les chefs de la Promenade Wellington (Blackstrap BBQ, Tripes &#38; Caviar, restaurant Wellington, Boulangerie Sweet [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><span style="color: #a0a0a0;">L’Érablière Panache et bois rond accueille une quinzaine de restaurateurs qui offrent leur interprétation de mets typiques d’une Cabane à Sucre, entre les rues De l’Église et Gordon, à Verdun.</span><br style="color: #a0a0a0;" /><span style="color: #a0a0a0;">Tire sur neige et menu gastronomique, préparé spécialement pour l’occasion par les chefs de la Promenade Wellington (Blackstrap BBQ, Tripes &amp; Caviar, restaurant Wellington, Boulangerie Sweet Lee’s…) et leurs invités, ont su combler les bucherons les plus affamés. Fèves et bacon confit à l’érable, sucre à la crème, cretons de bœuf Wagyu du Québec, charcuteries et moutarde à l’érable ne sont qu’un bref aperçu de la trentaine de bouchées qui ont été offertes au format dégustation pour 2$ ou 4$.</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

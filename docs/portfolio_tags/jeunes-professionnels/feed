@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jeunes professionnels &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/jeunes-professionnels/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>jeunes professionnels &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Faites-vous partie des 300 ?</title>
+		<link>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300</link>
+				<comments>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300#respond</comments>
+				<pubDate>Mon, 24 Nov 2014 21:22:04 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=10829</guid>
+				<description><![CDATA[Le Cercle des jeunes philanthropes du Musée des beaux-arts de Montréal, c&#8217;est un groupe de jeunes professionnels passionnés comme vous par la culture et la philanthropie qui se réunissent dans le cadre de diverses activités branchées sur l&#8217;art leur permettant d&#8217;acquérir des connaissances en art et en philanthropie, tout en s&#8217;amusant et en réseautant. Visitez [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Le Cercle des jeunes philanthropes du Musée des beaux-arts de Montréal, c&rsquo;est un groupe de jeunes professionnels passionnés comme vous par la culture et la philanthropie qui se réunissent dans le cadre de diverses activités branchées sur l&rsquo;art leur permettant d&rsquo;acquérir des connaissances en art et en philanthropie, tout en s&rsquo;amusant et en réseautant.</p>
+<p>Visitez : http://www.mbam.qc.ca/cjp</p>
+<p>Vidéo réalisée par http://racheletmichel.com</p>
+<p>Musique :<br />
+Something Shiny par The Gulf Stream<br />
+http://thegulfstream.bandcamp.com</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Formation-tutoriel &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_category/formation-tutoriel/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>Formation-tutoriel &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ensemble neuf mois &#124; Présentation</title>
+		<link>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois</link>
+				<comments>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois#respond</comments>
+				<pubDate>Mon, 24 Aug 2015 14:41:17 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11076</guid>
+				<description><![CDATA[Rachel et Michel ont collaboré avec Ensemble neuf mois, etc., afin de réaliser 45 capsules vidéos de formation permettant d&#8217;accompagner les parents de la grossesse aux premiers mois suivant l&#8217;accouchement.  D&#8217;une durée entre 10 et 45 minutes, les vidéos abordent plusieurs thèmes, tels que l&#8217;allaitement, le bain du bébé, le massage pour femmes enceintes ou le soulagement [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Rachel et Michel ont collaboré avec Ensemble neuf mois, etc., afin de réaliser 45 capsules vidéos de formation permettant d&rsquo;accompagner les parents de la grossesse aux premiers mois suivant l&rsquo;accouchement.  D&rsquo;une durée entre 10 et 45 minutes, les vidéos abordent plusieurs thèmes, tels que l&rsquo;allaitement, le bain du bébé, le massage pour femmes enceintes ou le soulagement de la douleur sans médication.</p>
+<p>La mission de Jihane et de Pedro est d&rsquo;accompagner et d’aider les futurs parents à avoir accès à de l’information juste et actuelle, une touche de réalité, une touche d’expérience.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>The John Molson Executive Centre Experience – Centre de perfectionnement</title>
+		<link>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
+				<comments>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
+				<pubDate>Thu, 09 Oct 2014 19:22:46 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10632</guid>
+				<description><![CDATA[Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo pour vous faire part de leur expérience avec le Centre de perfectionnement John-Molson!</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

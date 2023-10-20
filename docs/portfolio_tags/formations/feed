@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>formations &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/formations/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>formations &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>École des entrepreneurs de Mtl</title>
+		<link>https://racheletmichel.com/portfolio-items/11430</link>
+				<comments>https://racheletmichel.com/portfolio-items/11430#respond</comments>
+				<pubDate>Wed, 30 Nov 2016 15:25:44 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11430</guid>
+				<description><![CDATA[École des entrepreneurs I Mtl &#8211; EEMtl s&#8217;appuie sur l&#8217;expertise développée par le SAJE au fil de ses 30 ans d&#8217;existence et s&#8217;inscrit dans le réseau PME MTL. Découvrez cette toute nouvelle École..une École pas comme les autres! visitez-la au www.eemtl.com Merci aux entrepreneurs : Pierre-Emmanuel Messier de Minimal, Eric Giroux de TRAF, Yan Cordeau et [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a class="profileLink" href="https://www.facebook.com/eemtl/" data-hovercard="/ajax/hovercard/page.php?id=335768596757308" data-hovercard-prefer-more-content-show="1">École des entrepreneurs I Mtl &#8211; EEMtl</a> s&rsquo;appuie sur l&rsquo;expertise dévelo<span class="text_exposed_show">ppée par le SAJE au fil de ses 30 ans d&rsquo;existence et s&rsquo;inscrit dans le réseau <a class="profileLink" href="https://www.facebook.com/PMEMTL/" data-hovercard="/ajax/hovercard/page.php?id=1680731095489102" data-hovercard-prefer-more-content-show="1">PME MTL</a>.</span></p>
+<div class="text_exposed_show">
+<p>Découvrez cette toute nouvelle École..une École pas comme les autres!</p>
+<p>visitez-la au <a href="http://www.eemtl.com/" target="_blank" rel="nofollow">www.eemtl.com</a></p>
+<p>Merci aux entrepreneurs : Pierre-Emmanuel Messier de <a class="profileLink" href="https://www.facebook.com/minimalmtl/" data-hovercard="/ajax/hovercard/page.php?id=188229758866" data-hovercard-prefer-more-content-show="1">Minimal</a>, Eric Giroux de TRAF, Yan Cordeau et André Batalon de <a class="profileLink" href="https://www.facebook.com/LNDMRKproductions/" data-hovercard="/ajax/hovercard/page.php?id=331419133611323" data-hovercard-prefer-more-content-show="1">Lndmrk</a> ainsi que Martine Gariépy de <a class="profileLink" href="https://www.facebook.com/epicerieloco/" data-hovercard="/ajax/hovercard/page.php?id=964778723585979" data-hovercard-prefer-more-content-show="1">LOCO</a> de leur témoignages.</p>
+<p>-Une vidéo réalisée par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991" data-hovercard-prefer-more-content-show="1">Rachel et Michel</a></p>
+</div>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11430/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

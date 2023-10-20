@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cuisine &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/cuisine/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>cuisine &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Merci et joyeuses fêtes à nos clients</title>
+		<link>https://racheletmichel.com/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients</link>
+				<comments>https://racheletmichel.com/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients#respond</comments>
+				<pubDate>Mon, 24 Nov 2014 21:40:22 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=10835</guid>
+				<description><![CDATA[Rachel et Michel ont voulu remercier leur clientèle de la dernière année en faisant des truffes. Une petite attention qui serait l&#8217;occasion, pour nous, de faire une activité ensemble qui n&#8217;est pas relié à la vidéo. Une nuit blanche plus tard à 6h du matin les truffes et les boîtes étaient terminées. On aurait voulu [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Rachel et Michel ont voulu remercier leur clientèle de la dernière année en faisant des truffes. Une petite attention qui serait l&rsquo;occasion, pour nous, de faire une activité ensemble qui n&rsquo;est pas relié à la vidéo. Une nuit blanche plus tard à 6h du matin les truffes et les boîtes étaient terminées. On aurait voulu remercier tous nos clients mais déjà trop nombreux on vous offre cette petite dégustation pour les yeux. Joyeux Noël et bonne année 2014</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

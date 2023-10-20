@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>abstrait &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/abstrait/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>abstrait &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pascale Dupré &#124; Artiste-peintre</title>
+		<link>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre</link>
+				<comments>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre#respond</comments>
+				<pubDate>Thu, 09 Oct 2014 14:46:55 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10526</guid>
+				<description><![CDATA[L’artiste-peintre Pascale Dupré présente sa démarche qui s’inspire principalement de la Nature qui l’entoure et de la lumière s’y projetant, avec une touche impressionniste. S’intéressant principalement aux pins, elle leur dédie son exposition actuelle. Découvrez là davantage en visitant son site Internet : pascaledupre.com Réalisation : www.racheletmichel.com]]></description>
+								<content:encoded><![CDATA[<p style="color: #7d7d7d;">L’artiste-peintre Pascale Dupré présente sa démarche qui s’inspire principalement de la Nature qui l’entoure et de la lumière s’y projetant, avec une touche impressionniste. S’intéressant principalement aux pins, elle leur dédie son exposition actuelle.</p>
+<p style="color: #7d7d7d;">Découvrez là davantage en visitant son site Internet :<br />
+<a style="font-weight: inherit; font-style: inherit; color: #111111;" href="http://www.pascaledupre.com/" target="_blank" rel="nofollow">pascaledupre.com</a></p>
+<p style="color: #7d7d7d;">Réalisation : www.racheletmichel.com</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

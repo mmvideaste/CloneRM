@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>marketing &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/marketing/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>marketing &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tournée universitaire des Lions de Cannes 2015</title>
+		<link>https://racheletmichel.com/portfolio-items/lionscannes</link>
+				<comments>https://racheletmichel.com/portfolio-items/lionscannes#respond</comments>
+				<pubDate>Tue, 24 Nov 2015 17:54:44 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11092</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lionscannes/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>D&#8217;où viennent les Greniers d&#8217;or?</title>
+		<link>https://racheletmichel.com/portfolio-items/dou-viennent-les-greniers-dor</link>
+				<comments>https://racheletmichel.com/portfolio-items/dou-viennent-les-greniers-dor#respond</comments>
+				<pubDate>Tue, 10 Feb 2015 14:05:50 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11040</guid>
+				<description><![CDATA[Rachel &#38; Michel a réalisé la vidéo rétrospective de la soirée de la 22e édition des Greniers d’or qui s’est déroulée à L’Astral le 21 janvier dernier. Vous aurez du plaisir à découvrir les différentes versions de l’histoire des Greniers d’or, racontées par quelques participants de cette soirée haute en couleurs. Et vous, savez-vous d&#8217;où [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><a class="external_link" title="" href="http://www.racheletmichel.com/" target="_blank"><strong>Rachel &amp; Michel</strong></a> a réalisé la vidéo rétrospective de la soirée de la 22<sup>e</sup> édition des <strong>Greniers d’or</strong> qui s’est déroulée à L’Astral le 21 janvier dernier.</p>
+<p>Vous aurez du plaisir à découvrir les différentes versions de l’histoire des <strong>Greniers d’or</strong>, racontées par quelques participants de cette soirée haute en couleurs.</p>
+<p>Et vous, savez-vous d&rsquo;où viennent les <strong>Greniers d&rsquo;or</strong>?</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/dou-viennent-les-greniers-dor/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Bande démo</title>
+		<link>https://racheletmichel.com/portfolio-items/demo-2014</link>
+				<comments>https://racheletmichel.com/portfolio-items/demo-2014#respond</comments>
+				<pubDate>Thu, 25 Sep 2014 19:52:38 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10451</guid>
+				<description><![CDATA[Voici notre démo pour l’année 2014, résumant en une minute nos projets.]]></description>
+								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Voici notre démo résumant en une minute nos projets.</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/demo-2014/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

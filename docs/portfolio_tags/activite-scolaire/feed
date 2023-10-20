@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>activité scolaire &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/activite-scolaire/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>activité scolaire &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Tangente &#124; Activité scolaire</title>
+		<link>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire</link>
+				<comments>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire#respond</comments>
+				<pubDate>Thu, 09 Oct 2014 18:28:40 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10601</guid>
+				<description><![CDATA[Depuis plus de 20 ans, Tangente invite les élèves et étudiants de tous niveaux à découvrir la danse contemporaine. Encadrés par une équipe d’éducateurs passionnés, les jeunes s’initient au travail du chorégraphe, découvrent la pièce puis s’entretiennent avec les artistes. Une expérience kinesthésique unique ! Pour information et réservation: http://www.tangente.qc.ca/index.php?o… Crédit vidéo: Rachel+Michel http://racheletmichel.com/ “DENSITÉ [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div id="post-402" class="post-402 mtheme_portfolio type-mtheme_portfolio status-publish has-post-thumbnail hentry" style="color: #7d7d7d;">
+<div class="entry-content-wrapper" style="font-weight: inherit; font-style: inherit;">
+<div class="entry-content" style="font-weight: inherit; font-style: inherit;">
+<p style="font-weight: inherit; font-style: inherit;">Depuis plus de 20 ans, Tangente invite les élèves et étudiants de tous niveaux à découvrir la danse contemporaine. Encadrés par une équipe d’éducateurs passionnés, les jeunes s’initient au travail du chorégraphe, découvrent la pièce puis s’entretiennent avec les artistes. Une expérience kinesthésique unique !</p>
+<p style="font-weight: inherit; font-style: inherit;">Pour information et réservation:<br />
+<a dir="ltr" style="font-weight: inherit; font-style: inherit; color: #111111;" title="http://www.tangente.qc.ca/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=8&amp;lang=fr" href="http://www.tangente.qc.ca/index.php?option=com_content&amp;view=article&amp;id=5&amp;Itemid=8&amp;lang=fr" target="_blank" rel="nofollow">http://www.tangente.qc.ca/index.php?o…</a></p>
+<p style="font-weight: inherit; font-style: inherit;">Crédit vidéo: Rachel+Michel<br />
+<a dir="ltr" style="font-weight: inherit; font-style: inherit; color: #111111;" title="http://racheletmichel.com/" href="http://racheletmichel.com/" target="_blank" rel="nofollow">http://racheletmichel.com/</a></p>
+<p style="font-weight: inherit; font-style: inherit;">“DENSITÉ D’UN MOMENT”<br />
+Chorégraphes et interprètes: Geneviève Gagné et Emily Honegger</p>
+<p style="font-weight: inherit; font-style: inherit;">Interprètes: David Albert Toth, Joe Danny Aurélien, Julie Tymchuk, Jean-François Légaré<br />
+Compositeur: Jacques Poulin-Denis<br />
+Concepteur d’éclairage: Paul Chambers</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

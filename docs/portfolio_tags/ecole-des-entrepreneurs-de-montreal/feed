@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ecole des entrepreneurs de Montréal &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/ecole-des-entrepreneurs-de-montreal/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>ecole des entrepreneurs de Montréal &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lancement de l&#8217;école des entrepreneurs de Montréal</title>
+		<link>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
+				<comments>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
+				<pubDate>Mon, 12 Dec 2016 16:14:57 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11440</guid>
+				<description><![CDATA[Le 29 novembre 2016, l&#8217; École des entrepreneurs I Mtl &#8211; EEMtl était inaugurée par le SAJE et avec ses partenaires et quelques personnalités du milieu entrepreneurial montréalais. Vivez ce moment marquant comme si vous y étiez!]]></description>
+								<content:encoded><![CDATA[<p>Le 29 novembre 2016, l&rsquo; <a class="profileLink" href="https://www.facebook.com/eemtl/" data-hovercard="/ajax/hovercard/page.php?id=335768596757308" data-hovercard-prefer-more-content-show="1">École des entrepreneurs I Mtl &#8211; EEMtl</a> était inaugurée par le SAJE et avec ses partenaires et quelques personnalités du milieu entrepreneurial montréalais.</p>
+<p>Vivez ce moment marquant comme si vous y étiez!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

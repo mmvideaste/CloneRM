@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>je fais montréal &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/je-fais-montreal/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>je fais montréal &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Concours Je fais Mtl avec La Ruche</title>
+		<link>https://racheletmichel.com/portfolio-items/concours-je-fais-mtl-avec-la-ruche</link>
+				<comments>https://racheletmichel.com/portfolio-items/concours-je-fais-mtl-avec-la-ruche#respond</comments>
+				<pubDate>Mon, 12 Dec 2016 16:01:59 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11436</guid>
+				<description><![CDATA[Rachel et Michel s&#8217;est associé à la plateforme québécoise de financement participatif de proximité La Ruche, en  partenariat avec la Ville de Montréal, par le biais d’un concours spécialement dédié aux projets et futurs projets issus de l’initiative de Je Fais Montréal. Le projet ayant le plus de mentions « j’aime » s&#8217;est mérité une [&#8230;]]]></description>
+								<content:encoded><![CDATA[<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p>Rachel et Michel s&rsquo;est associé à la plateforme québécoise de financement participatif de proximité La Ruche, en  partenariat avec la Ville de Montréal, par le biais d’un concours spécialement dédié aux projets et futurs projets issus de l’initiative de Je Fais Montréal.</p>
+<p>Le projet ayant le plus de mentions « j’aime » s&rsquo;est mérité une vidéo professionnelle, d&rsquo;une valeur de 1000 $, livrée clef en main par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991" data-hovercard-prefer-more-content-show="1">Rachel et Michel</a>.</p>
+<p>Cliquez ici pour voir toutes les vidéos du concours : https://www.facebook.com/pg/LaRucheQuebec/videos/?ref=page_internal</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/concours-je-fais-mtl-avec-la-ruche/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

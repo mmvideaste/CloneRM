@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>book-CD &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/book-cd/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>book-CD &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Listen to the Birds &#8211; An Introduction to Classical Music</title>
+		<link>https://racheletmichel.com/portfolio-items/listen-to-the-birds-an-introduction-to-classical-music</link>
+				<comments>https://racheletmichel.com/portfolio-items/listen-to-the-birds-an-introduction-to-classical-music#respond</comments>
+				<pubDate>Thu, 25 Sep 2014 20:17:16 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10471</guid>
+				<description><![CDATA[Author Ana Gerhard discusses the inspiration behind recent release, Listen to the Birds: An Introduction to Classical Music. This thematic picture book-CD is a beautifully illustrated, non-fiction guide to classical music inspired by bird song. Discover the patterns of bird song found throughout works by artists such as Vivaldi, Tchaikovsky, Mozart, Saint-Saëns, Handel, Pasquini, Schubert [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Author Ana Gerhard discusses the inspiration behind recent release, Listen to the Birds: An Introduction to Classical Music. This thematic picture book-CD is a beautifully illustrated, non-fiction guide to classical music inspired by bird song. Discover the patterns of bird song found throughout works by artists such as Vivaldi, Tchaikovsky, Mozart, Saint-Saëns, Handel, Pasquini, Schubert and more.<br />
+Réalisation de la vidéo : www.racheletmichel.com</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/listen-to-the-birds-an-introduction-to-classical-music/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

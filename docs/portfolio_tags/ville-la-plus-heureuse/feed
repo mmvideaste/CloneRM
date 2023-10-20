@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ville la plus heureuse &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/ville-la-plus-heureuse/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>Ville la plus heureuse &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Montréal, la ville la plus heureuse au monde</title>
+		<link>https://racheletmichel.com/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde</link>
+				<comments>https://racheletmichel.com/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde#respond</comments>
+				<pubDate>Wed, 07 Jun 2017 14:40:49 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11461</guid>
+				<description><![CDATA[Capsule de sociofinancement pour le projet #Mtllaplusheureuse, qui vise à réaliser un documentaire dans lequel plusieurs personnes expliquent pourquoi elles sont heureuses à Montréal. Le but c&#8217;est de se auto-proclamer, tous ensemble, la ville la plus heureuse au monde.]]></description>
+								<content:encoded><![CDATA[<p>Capsule de sociofinancement pour le projet #Mtllaplusheureuse, qui vise à réaliser un documentaire dans lequel plusieurs personnes expliquent pourquoi elles sont heureuses à Montréal. Le but c&rsquo;est de se auto-proclamer, tous ensemble, la ville la plus heureuse au monde.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

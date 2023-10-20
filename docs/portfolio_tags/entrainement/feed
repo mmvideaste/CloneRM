@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>entraînement &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/entrainement/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>entraînement &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pro-Actif Santé : le personnel</title>
+		<link>https://racheletmichel.com/portfolio-items/pro-actif-sante-le-personnel</link>
+				<comments>https://racheletmichel.com/portfolio-items/pro-actif-sante-le-personnel#respond</comments>
+				<pubDate>Thu, 09 Oct 2014 17:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10588</guid>
+				<description><![CDATA[Réalisation de huit capsules présentant des membres du personnel de Pro-Actif Santé. Sonia Duquette – Zumba et cross training Aude Rioland – Pilates et yoga Jean-Pierre Saulnier, Kinesiologue – Cross Training Cynthia Desrochers – Yoga et yoga maman-bébé Francine Tremblay – Maman-Bébé Pauline St-Pierre – Pilates et yoga]]></description>
+								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Réalisation de huit capsules présentant des membres du personnel de Pro-Actif Santé.</span></p>
+<h3>Sonia Duquette – Zumba et cross training<br />
+<iframe src="//www.youtube.com/embed/ZRZu-k09_c0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+<h3>Aude Rioland – Pilates et yoga<br />
+<iframe src="//www.youtube.com/embed/WHCmi9FfC7I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+<h3>Jean-Pierre Saulnier, Kinesiologue – Cross Training<br />
+<iframe src="//www.youtube.com/embed/hUl2ukBC5Qw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+<h3>Cynthia Desrochers – Yoga et yoga maman-bébé<br />
+<iframe src="//www.youtube.com/embed/FroudBJYv6I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+<h3>Francine Tremblay – Maman-Bébé<br />
+<iframe src="//www.youtube.com/embed/Z_P7doOLRjk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+<h3>Pauline St-Pierre – Pilates et yoga<br />
+<iframe src="//www.youtube.com/embed/mjNP2WB8HRo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/pro-actif-sante-le-personnel/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

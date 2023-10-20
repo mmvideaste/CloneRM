@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>moustache &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/moustache/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>moustache &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Le secret de la moustache RÉVÉLÉ</title>
+		<link>https://racheletmichel.com/portfolio-items/le-secret-de-la-moustache-revele</link>
+				<comments>https://racheletmichel.com/portfolio-items/le-secret-de-la-moustache-revele#respond</comments>
+				<pubDate>Mon, 24 Nov 2014 21:44:58 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=10838</guid>
+				<description><![CDATA[Pour ceux qui m&#8217;ont posé la question en chair et en os, il ne s&#8217;agissait pas d&#8217;un secret mais quand même pour la postérité en guise de petit remerciement pour nos 100 mentions j&#8217;aime sur notre page Facebook.]]></description>
+								<content:encoded><![CDATA[<p>Pour ceux qui m&rsquo;ont posé la question en chair et en os, il ne s&rsquo;agissait pas d&rsquo;un secret mais quand même pour la postérité en guise de petit remerciement pour nos 100 mentions j&rsquo;aime sur notre page Facebook.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-secret-de-la-moustache-revele/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

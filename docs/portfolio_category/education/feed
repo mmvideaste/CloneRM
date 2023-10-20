@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Éducation &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_category/education/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>Éducation &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Professional Scrum Product Owner &#8211; Formation Pyxis</title>
+		<link>https://racheletmichel.com/portfolio-items/professional-scrum-product-owner-formation-pyxis</link>
+				<comments>https://racheletmichel.com/portfolio-items/professional-scrum-product-owner-formation-pyxis#respond</comments>
+				<pubDate>Wed, 16 Nov 2016 19:52:53 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11426</guid>
+				<description><![CDATA[Maximisez le rendement de vos investissements en produits et systèmes et optimisez le coût total de propriété de ceux-ci.]]></description>
+								<content:encoded><![CDATA[<p>Maximisez le rendement de vos investissements en produits et systèmes et optimisez le coût total de propriété de ceux-ci.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/professional-scrum-product-owner-formation-pyxis/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Professional Scrum Master &#8211; Formation Pyxis</title>
+		<link>https://racheletmichel.com/portfolio-items/professional-scrum-master-formation-pyxis</link>
+				<comments>https://racheletmichel.com/portfolio-items/professional-scrum-master-formation-pyxis#respond</comments>
+				<pubDate>Wed, 16 Nov 2016 19:45:21 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11423</guid>
+				<description><![CDATA[Acquérez les compétences et connaissances du Scrum Master afin d&#8217;optimiser la valeur et la productivité de votre équipe. Une formation Pyxis!]]></description>
+								<content:encoded><![CDATA[<p>Acquérez les compétences et connaissances du Scrum Master afin d&rsquo;optimiser la valeur et la productivité de votre équipe. Une formation Pyxis!</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/professional-scrum-master-formation-pyxis/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>JMSB Advanced Management Program</title>
+		<link>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program</link>
+				<comments>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program#respond</comments>
+				<pubDate>Fri, 01 Apr 2016 15:14:05 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11198</guid>
+				<description><![CDATA[]]></description>
+								<content:encoded><![CDATA[]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

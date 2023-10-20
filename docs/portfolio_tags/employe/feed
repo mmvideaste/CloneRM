@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>employé &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/employe/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>employé &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Série de capsules pour la turquoise</title>
+		<link>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise</link>
+				<comments>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise#respond</comments>
+				<pubDate>Thu, 09 Oct 2014 16:44:46 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10571</guid>
+				<description><![CDATA[Rachel et Michel ont été mandatés pour réaliser une série de huit capsules vidéos pour la turquoise, un cabinet en assurance de dommages œuvrant au Québec et dans l’Est de l’Ontario. Ces capsules présentent des témoignages d’employés et de clients. En voici quelques-unes. Découvrez la série complète ici. &#160; Choisir la carrière de courtier – travailler [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Rachel et Michel ont été mandatés pour réaliser une série de huit capsules vidéos pour la turquoise, un cabinet en assurance de dommages œuvrant au Québec et dans l’Est de l’Ontario.<br />
+Ces capsules présentent des témoignages d’employés et de clients. En voici quelques-unes.</p>
+<p style="color: #7d7d7d;">Découvrez la série complète <a style="font-weight: inherit; font-style: inherit; color: #111111;" href="http://www.youtube.com/channel/UC-vp6tG9jHERe2trhbR1tmw?feature=watch" target="_blank">ici</a>.</p>
+<p>&nbsp;</p>
+<h2 id="watch-headline-title" style="font-weight: inherit; font-style: italic; color: #3d3d3d;">Choisir la carrière de courtier – travailler à la turquoise</h2>
+<p>Deux jeunes courtiers en assurance de dommages nous expliquent pourquoi il est intéressant de travailler à la turquoise et en quoi le métier de courtier est intéressant.<br />
+<iframe src="//www.youtube.com/embed/zuBJ5mneLuI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2 id="watch-headline-title" style="font-weight: inherit; font-style: italic; color: #3d3d3d;">Client service aux entreprise – sinistre Donat Piette</h2>
+<p>Un client du service des entreprises, M. Alain Lozeau, propriétaire de chez Donat Piette Luminaires, nous fait part de son expérience en gestion des sinistres. Il décrit son épreuve ainsi que le bon support qu’il a reçu par la turquoise.<br />
+<iframe src="//www.youtube.com/embed/oTbIuqKrjdg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2 id="watch-headline-title" style="font-weight: inherit; font-style: italic; color: #3d3d3d;">Faire carrière à la turquoise &#8211; Courtier sénior</h2>
+<p><iframe width="853" height="480" src="//www.youtube.com/embed/1xo28DBlV9A" frameborder="0" allowfullscreen></iframe></p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

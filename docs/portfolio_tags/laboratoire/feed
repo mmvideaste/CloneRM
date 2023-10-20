@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>laboratoire &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/laboratoire/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>laboratoire &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>3² = LES DUOS</title>
+		<link>https://racheletmichel.com/portfolio-items/3%c2%b2-les-duos</link>
+				<comments>https://racheletmichel.com/portfolio-items/3%c2%b2-les-duos#respond</comments>
+				<pubDate>Thu, 09 Oct 2014 14:51:39 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10529</guid>
+				<description><![CDATA[Aguiche réalisé pour le spectacle 3² = LES DUOS, diffusé par Tangente, laboratoire de mouvements contemporains.Réalisation de l’aguiche : racheletmichel.com3² = LES DUOSChorégraphes et interprètes : Élise Bergeron et Philippe PoirierConception musicale : Gabriel LedouxConception des éclairages : Stéphanie BeaubienetDavid PoissonRépétitrice : Christine CharlesStrictement {a}statique met en scène deux êtres, face à face, yeux dans [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Aguiche réalisé pour le spectacle 3² = LES DUOS, diffusé par Tangente, laboratoire de mouvements contemporains.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Réalisation de l’aguiche : racheletmichel.com</span><br style="color: #7d7d7d;" /><strong style="color: #7d7d7d;">3² = LES DUOS</strong><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Chorégraphes et interprètes : Élise Bergeron et Philippe Poirier</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Conception musicale : Gabriel Ledoux</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Conception des éclairages : Stéphanie BeaubienetDavid Poisson</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Répétitrice : Christine Charles</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Strictement {a}statique met en scène deux êtres, face à face, yeux dans les yeux. Deux corps apprivoisant leur proximité.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Le temps s’écoule, s’allonge, se densifie. Rien. Et tout en même temps.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">La tension monte, les pulsions se font sentir. De l’envie jaillit un sentiment d’interdit.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Le dialogue physique entre les deux êtres s’établit à partir de ce désir inassouvi.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Les mouvements, à peine perceptibles, deviennent omniprésents et font naître une tension insoutenable. Les corps s’enveloppent, se fusionnent et s’embrassent sans pour autant se toucher, alors que l’esprit se trouve confronté à la volonté de s’évader, de fuir, d’éclater dans l’espace. La symbiose hermétique et les explosions évasives s’alternent dans une proximité sans cesse changeante.</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/3%c2%b2-les-duos/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

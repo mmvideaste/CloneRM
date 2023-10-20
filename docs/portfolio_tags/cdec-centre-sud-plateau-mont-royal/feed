@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CDEC centre-sud plateau Mont-Royal &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/cdec-centre-sud-plateau-mont-royal/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>CDEC centre-sud plateau Mont-Royal &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Gala Entrepreneurs audacieux recherchés</title>
+		<link>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches</link>
+				<comments>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches#respond</comments>
+				<pubDate>Mon, 07 Dec 2015 16:25:20 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11098</guid>
+				<description><![CDATA[Revivez en 1mn le Gala de remise de bourses du concours Entrepreneurs audacieux recherchés, une initiative de la CDEC CSPMR, coordonné par la CDEC et PME MTL Centre-Ville. Lauréats et finalistes de l&#8217;édition 2015 : Potloc, Pépinière &#38; Co., PRIM Productions Réalisations Indépendantes de Montréal, Boswell Brasserie Artisanale, Monad, Les mémés O, Arte &#38; Farina, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Revivez en 1mn le Gala de remise de bourses du concours Entrepreneurs audacieux recherchés, une initiative de la CDEC CSPMR, coordonné par la CDEC et PME MTL Centre-Ville.</p>
+<p>Lauréats et finalistes de l&rsquo;édition 2015 :<br />
+Potloc, Pépinière &amp; Co., PRIM Productions Réalisations Indépendantes de Montréal, Boswell Brasserie Artisanale, Monad, Les mémés O, Arte &amp; Farina, Bec Cola &#8211; Le Cola du Québec au siropd&rsquo;érable, BOOM, Chic Marie, CityBird, Les musicos, Löcö, MuCity, Pon-Cho, Wappiti.</p>
+<p>Animateur de la soirée de Gala : MC Gillesinternational inc.<br />
+Émoticône wink</p>
+<p>Partenaires :<br />
+Partenaire principal : Mouvement Desjardins<br />
+Soutenu par : Arrondissement de Ville-Marie, centre-ville, Arrondissement du Plateau-Mont-Royal<br />
+Partenaires de prix : Les Industries Poly Inc., Brouillette + Associés, Communauto</p>
+<p>Vidéo réalisée par : Rachel et Michel</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Gala de remise de bourses du concours &#171;&#160;Entrepreneurs audacieux recherchés&#160;&#187;</title>
+		<link>https://racheletmichel.com/portfolio-items/gala-cdec</link>
+				<comments>https://racheletmichel.com/portfolio-items/gala-cdec#respond</comments>
+				<pubDate>Thu, 01 Oct 2015 19:53:32 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11081</guid>
+				<description><![CDATA[C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.]]></description>
+								<content:encoded><![CDATA[<p>C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/gala-cdec/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

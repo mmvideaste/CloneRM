@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alan Mills &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/alan-mills/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>Alan Mills &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>L&#8217;alphabet des animaux (Thomas Hellman &#038; Emilie Clepper)</title>
+		<link>https://racheletmichel.com/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper</link>
+				<comments>https://racheletmichel.com/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper#respond</comments>
+				<pubDate>Mon, 24 Nov 2014 21:30:45 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=10832</guid>
+				<description><![CDATA[Enregistrement live avec Thomas Hellman et Emilie Clepper de la chanson « L&#8217;alphabet des animaux » d&#8217;Alan Mills. L&#8217;enregistrement en studio de cette chanson fait partie du livre-disque LA MÉMÉ ET LA MOUCHE &#8211; CHANSONS D&#8217;ALAN MILLS, illustré par PisHier et édité par La Montagne secrète en septembre 2014. lamontagnesecrete.com Il s&#8217;agit d&#8217;un hommage à [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Enregistrement live avec Thomas Hellman et Emilie Clepper de la chanson « L&rsquo;alphabet des animaux » d&rsquo;Alan Mills.<br />
+L&rsquo;enregistrement en studio de cette chanson fait partie du livre-disque LA MÉMÉ ET LA MOUCHE &#8211; CHANSONS D&rsquo;ALAN MILLS, illustré par PisHier et édité par La Montagne secrète en septembre 2014.</p>
+<p>lamontagnesecrete.com</p>
+<p>Il s&rsquo;agit d&rsquo;un hommage à l’auteur-compositeur-interprète montréalais Alan Mills (1913-1977), qui a enregistré plus de vingt disques pour Folkways Records, l’une des plus prestigieuses maisons de disques folk américaines. Des chansons pétillantes et drôles qui invitent les enfants à apprendre les chiffres, les lettres de l’alphabet, les mois de l’année, les animaux de la ferme ou encore les instruments de musique. Les interprètes Thomas Hellman et Emilie Clepper renouvellent avec panache ce répertoire intemporel qui ne manquera pas d’amuser toute la famille. Un petit trésor !</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

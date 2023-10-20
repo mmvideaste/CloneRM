@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Main forte &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/main-forte/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>Main forte &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>25e anniversaire de Main-Forte et Amalgame</title>
+		<link>https://racheletmichel.com/portfolio-items/mainforte</link>
+				<comments>https://racheletmichel.com/portfolio-items/mainforte#respond</comments>
+				<pubDate>Tue, 31 Mar 2015 18:29:30 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11062</guid>
+				<description><![CDATA[Cette vidéo met en valeur l&#8217;histoire, l&#8217;originalité et les accomplissements des modules autogérés, Main-forte et Amalgame Montréal, depuis leur création en 1989.]]></description>
+								<content:encoded><![CDATA[<div id="action-panel-details" class="action-panel-content yt-card yt-card-has-padding yt-uix-expander yt-uix-expander-collapsed">
+<div id="watch-description" class="yt-uix-button-panel">
+<div id="watch-description-content">
+<div id="watch-description-clip">
+<div id="watch-description-text" class="">
+<p id="eow-description">Cette vidéo met en valeur l&rsquo;histoire, l&rsquo;originalité et les accomplissements des modules autogérés, Main-forte et Amalgame Montréal, depuis leur création en 1989.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="watch-discussion" class="yt-card branded-page-box scrolldetect" data-scrolldetect-callback="comments-delay-load"></div>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/mainforte/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

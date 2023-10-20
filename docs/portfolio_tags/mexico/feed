@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mexico &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/mexico/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>Mexico &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Lancement du N°2 de CITTÀ MAGAZINE</title>
+		<link>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine</link>
+				<comments>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine#respond</comments>
+				<pubDate>Thu, 09 Oct 2014 19:03:14 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10616</guid>
+				<description><![CDATA[Lancement du N°2 de CITTÀ MAGAZINE Montréal/Mexico à l’espace MASSIVART, Montréal. Fondé en 2012, CITTÀ est un magazine imprimé photographie + culture citadine ayant pour but de mettre Montréal en parallèle avec d’autres métropoles du monde. Par le biais de collaborations inédites avec des rédacteurs, des photographes et des artistes à Montréal et à l’étranger, [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p style="color: #7d7d7d;"><span style="font-weight: inherit; font-style: inherit; color: #000000;">Lancement du N°2 de CITTÀ MAGAZINE Montréal/Mexico à l’espace MASSIVART, Montréal.</span></p>
+<p style="color: #7d7d7d;">Fondé en 2012, CITTÀ est un magazine imprimé photographie + culture citadine ayant pour but de mettre Montréal en parallèle avec d’autres métropoles du monde. Par le biais de collaborations inédites avec des rédacteurs, des photographes et des artistes à Montréal et à l’étranger, CITTÀ révèle de nouveaux talents et propose un regard à la fois neuf et inspirant sur le multiculturalisme.</p>
+<p style="color: #7d7d7d;"><span style="font-weight: inherit; font-style: inherit; color: #000000;">Rachel et Michel font partie des fiers partenaires.</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>

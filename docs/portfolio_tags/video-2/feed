@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>video &#8211; Michel et Michel, vidéaste</title>
+	<atom:link href="https://racheletmichel.com/portfolio_tags/video-2/feed" rel="self" type="application/rss+xml" />
+	<link>https://racheletmichel.com</link>
+	<description>Boutique de production vidéo</description>
+	<lastBuildDate>
+	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.17</generator>
+
+<image>
+	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<title>video &#8211; Michel et Michel, vidéaste</title>
+	<link>https://racheletmichel.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Le Prix Élaine-Tanguay</title>
+		<link>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay</link>
+				<comments>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay#respond</comments>
+				<pubDate>Wed, 07 Jun 2017 13:57:46 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11456</guid>
+				<description><![CDATA[Ce prix remis aux années impaires est offert conjointement par SPORTSQUÉBEC et l’Institut national du sport du Québec (INS Québec)  en collaboration avec l’Association canadienne des entraîneurs (ACE) et le Ministère de l’Éducation, de l’Enseignement supérieur (MEES). Il est attribué pour souligner la contribution particulière d’une personne qui s’est distinguée au Québec dans la formation [&#8230;]]]></description>
+								<content:encoded><![CDATA[<p>Ce prix remis aux années impaires est offert conjointement par <a href="http://www.sportsquebec.com/" target="_blank" rel="noopener noreferrer">SPORTSQUÉBEC</a> et l’<a href="https://www.insquebec.org/" target="_blank" rel="noopener noreferrer">Institut national du sport du Québec</a> (INS Québec)  en collaboration avec l’<a href="http://coach.ca/?language=fr" target="_blank" rel="noopener noreferrer">Association canadienne des entraîneurs</a> (ACE) et le <a href="http://www.education.gouv.qc.ca/" target="_blank" rel="noopener noreferrer">Ministère de l’Éducation, de l’Enseignement supérieur (MEES)</a>. Il est attribué pour souligner la contribution particulière d’une personne qui s’est distinguée au Québec dans la formation d’intervenants sportifs à divers niveaux.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Bande démo</title>
+		<link>https://racheletmichel.com/portfolio-items/demo-2014</link>
+				<comments>https://racheletmichel.com/portfolio-items/demo-2014#respond</comments>
+				<pubDate>Thu, 25 Sep 2014 19:52:38 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10451</guid>
+				<description><![CDATA[Voici notre démo pour l’année 2014, résumant en une minute nos projets.]]></description>
+								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Voici notre démo résumant en une minute nos projets.</span></p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/demo-2014/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+		<item>
+		<title>Concours québécois en entrepreneuriat</title>
+		<link>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
+				<comments>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
+				<pubDate>Thu, 25 Sep 2014 19:55:58 +0000</pubDate>
+		<dc:creator><![CDATA[test_admin]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10458</guid>
+				<description><![CDATA[Capsule promotionnelle pour le Concours québécois en entrepreneuriat &#124; Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.]]></description>
+								<content:encoded><![CDATA[<p>Capsule promotionnelle pour le Concours québécois en entrepreneuriat | Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.</p>
+]]></content:encoded>
+							<wfw:commentRss>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+							</item>
+	</channel>
+</rss>
