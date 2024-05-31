@@ -17,3 +17,7 @@
   line-height: 50px;
   color: black;
 }
+
+video {
+  width: 100%;
+}
