@@ -27,15 +27,15 @@
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Démo &#124; Graphisme animé</title>
 		<link>https://racheletmichel.com/portfolio-items/demo-graphisme-anime</link>
 				<comments>https://racheletmichel.com/portfolio-items/demo-graphisme-anime#respond</comments>
 				<pubDate>Fri, 13 Mar 2015 16:23:19 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
-		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11057</guid>
+
+		<guid isPermaLink="false">/?post_type=avada_portfolio&#038;p=11057</guid>
 				<description><![CDATA[Aperçu de projets avec graphisme animé réalisés par Rachel et Michel. Réalisation : www.racheletmichel.com]]></description>
 								<content:encoded><![CDATA[<p>Aperçu de projets avec graphisme animé réalisés par Rachel et Michel.</p>
 <p>Réalisation : www.racheletmichel.com</p>
@@ -49,8 +49,8 @@
 				<comments>https://racheletmichel.com/portfolio-items/medilumine#respond</comments>
 				<pubDate>Tue, 03 Mar 2015 14:31:05 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
-		<guid isPermaLink="false">http://racheletmichel.com/?post_type=avada_portfolio&#038;p=11049</guid>
+
+		<guid isPermaLink="false">/?post_type=avada_portfolio&#038;p=11049</guid>
 				<description><![CDATA[MediLumine, a privately held company based in Montreal, Canada, provides Fenestra® LC and Fenestra® VC nano-emulsions used for a wide array of applications in preclinical computed tomography and molecular imaging.]]></description>
 								<content:encoded><![CDATA[<p>MediLumine, a privately held company based in Montreal, Canada, provides Fenestra® LC and Fenestra® VC nano-emulsions used for a wide array of applications in preclinical computed tomography and molecular imaging.</p>
 ]]></content:encoded>
@@ -63,7 +63,7 @@
 				<comments>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:55:58 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10458</guid>
 				<description><![CDATA[Capsule promotionnelle pour le Concours québécois en entrepreneuriat &#124; Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.]]></description>
 								<content:encoded><![CDATA[<p>Capsule promotionnelle pour le Concours québécois en entrepreneuriat | Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.</p>
@@ -77,7 +77,7 @@
 				<comments>https://racheletmichel.com/portfolio-items/10476#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:27:07 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10476</guid>
 				<description><![CDATA[Vidéo présentant les services de l’entreprise HighriseIn, qui permet aux chercheurs d’emploi de publier une vidéo de leur parcours professionnel.]]></description>
 								<content:encoded><![CDATA[<p>Vidéo présentant les services de l’entreprise HighriseIn, qui permet aux chercheurs d’emploi de publier une vidéo de leur parcours professionnel.</p>
