@@ -7,6 +7,8 @@ jQuery( document ).ready(function() {
       jQuery('.my-counter-group').unbind('inview');
     }
   });
+
+  jQuery('.my-year').html(new Date().getFullYear());
 });
 
 function countUpBy1(elem, max) {
