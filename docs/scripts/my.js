@@ -1,18 +1,18 @@
 jQuery( document ).ready(function() {
-  // See https://inorganik.github.io/countUp.js/
-  // See https://remysharp.com/2009/01/26/element-in-view-event-plugin/?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library
-  console.log(jQuery('.my-counter-group'));
-  jQuery(".my-counter-group").on('inview',function(event,isInView) {
-    if (isInView) {
-      alert(' hello ');
-    }
-  }); // Do not use if statement
 
-  jQuery('.my-counter-group').bind('inview', function (event, visible) {
-    console.log('a');
-    if (visible == true) {
+  respondToVisibility = function(element, callback) {
+    var observer = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        callback(entry.intersectionRatio > 0);
+      });
+    });
+
+    observer.observe(element);
+  }
+
+  respondToVisibility(document.getElementById("my-counter-group"), visible => {
+    if(visible) {
       countUp();
-      jQuery('.my-counter-group').unbind('inview');
     }
   });
 
@@ -33,12 +33,14 @@ function countUpBy1(elem, max) {
 }
 
 function countUp() {
-  jQuery('.my-counter').each(function () {
-    var $this = jQuery(this);
-    var countTo = $this.html();
-    $this.html('0');
-    setTimeout(function() {
-      countUpBy1($this, countTo);
-    }, 5);
-  });
+  jQuery('.my-counter')
+    .removeClass('my-counter')
+    .each(function () {
+      var $this = jQuery(this);
+      var countTo = $this.html();
+      $this.html('0');
+      setTimeout(function() {
+        countUpBy1($this, countTo);
+      }, 5);
+    });
 }
