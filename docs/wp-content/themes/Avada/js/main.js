@@ -1,7 +1,6 @@
 /**
  * jQuery Equal Heights
  */
-console.log(' h');
 (function($) {
 	$.fn.equalHeights = function(minHeight, maxHeight) {
 		tallest = (minHeight) ? minHeight : 0;

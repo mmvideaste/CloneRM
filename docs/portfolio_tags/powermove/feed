@@ -10,7 +10,7 @@
 <channel>
 	<title>powermove &#8211; Michel et Michel, vidéaste</title>
 	<atom:link href="/portfolio_tags/powermove/feed" rel="self" type="application/rss+xml" />
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
 	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
@@ -24,7 +24,7 @@
 <image>
 	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>powermove &#8211; Michel et Michel, vidéaste</title>
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image>
@@ -40,7 +40,7 @@
 								<content:encoded><![CDATA[<p>Pilier de la scène b-boy montréalaise, Omegatron Jonas Napoléon Gédéon se livre brièvement lors d’un entrevue avant la pratique de Breakdance du mercredi soir au Café Graffiti.</p>
 <p>Danseur hors-pair, humain généreux et rassembleur, wikipédia vivant du breakdance, docteur du powermove, instituteur du talk real, conteur du old school, gran moune de la culture hip hop, moine du Café Graffiti, dessinateur exceptionnel, freestyleur, rappeur et machine à parole en général, ami des animaux, fan de kung fu et de street fighter, sage de rue, les épithètes sont nombreuses pour cerner cet énergumène de Montréal.</p>
 <p>Partagez si vous avez été touchés de près ou de loin par Jonas « Omegatron » Napoléon.</p>
-<p>Réalisation : www.racheletmichel.com</p>
+<p>Réalisation : www.mmvideaste.com</p>
 ]]></content:encoded>
 							<wfw:commentRss>/portfolio-items/b-boy-montreal-jonas/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>

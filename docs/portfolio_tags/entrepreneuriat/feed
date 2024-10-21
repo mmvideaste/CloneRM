@@ -10,7 +10,7 @@
 <channel>
 	<title>entrepreneuriat &#8211; Michel et Michel, vidéaste</title>
 	<atom:link href="/portfolio_tags/entrepreneuriat/feed" rel="self" type="application/rss+xml" />
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
 	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
@@ -24,7 +24,7 @@
 <image>
 	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>entrepreneuriat &#8211; Michel et Michel, vidéaste</title>
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image>
@@ -125,7 +125,7 @@ Moment fort, marqué par ces témoignages, nous remercions vivement Véronique, 
 								<content:encoded><![CDATA[<p>Rétrospective de l’édition 2014 du Startup Festival à Montréal.</p>
 <p>Depuis 2011, le Festival international du startup est un événement axé sur l&rsquo;entrepreneuriat, l’éducation et les startups. Chaque année, plus de 2 000 entrepreneurs, investisseurs et analystes convergent à Montréal provenant de plus d&rsquo;une douzaine de pays. Le Festival international du startup propose une série d’activités de pointe qui se déroulent à un rythme effréné, le tout dans une ambiance festive incomparable.</p>
 <p>L’événement comprend des conférences, des sessions interactives, des leçons enrichissantes, et une bonne dose d&rsquo;irrévérence. Nous faisons partie des gens qui déplorent les conférences d&rsquo;affaires ennuyeuses. C&rsquo;est pour cette raison que nous avons soigneusement conçu une ambiance qui encourage l’interaction &#8211; avec des hamacs sur le site, plusieurs lieux de rencontres et un Village de tentes &#8211; tout en profitant de la délicieuse bouffe de rue, accompagnée d’une bière pour vous garder au frais dans la chaleur estivale de Montréal.</p>
-<p>Réalisation : www.racheletmichel.com</p>
+<p>Réalisation : www.mmvideaste.com</p>
 ]]></content:encoded>
 							<wfw:commentRss>/portfolio-items/startupfest-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>

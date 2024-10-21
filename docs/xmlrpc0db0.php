@@ -2,7 +2,7 @@
 	<service>
 		<engineName>WordPress</engineName>
 		<engineLink>https://wordpress.org/</engineLink>
-		<homePageLink>https://racheletmichel.com</homePageLink>
+		<homePageLink>/</homePageLink>
 		<apis>
 			<api name="WordPress" blogID="1" preferred="true" apiLink="/xmlrpc.php" />
 			<api name="Movable Type" blogID="1" preferred="false" apiLink="/xmlrpc.php" />

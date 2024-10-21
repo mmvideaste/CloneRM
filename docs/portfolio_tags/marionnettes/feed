@@ -10,7 +10,7 @@
 <channel>
 	<title>marionnettes &#8211; Michel et Michel, vidéaste</title>
 	<atom:link href="/portfolio_tags/marionnettes/feed" rel="self" type="application/rss+xml" />
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
 	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
@@ -24,7 +24,7 @@
 <image>
 	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>marionnettes &#8211; Michel et Michel, vidéaste</title>
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image>
@@ -36,10 +36,10 @@
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10553</guid>
-				<description><![CDATA[Un aperçu de cette troisième édition haute en couleurs! Festival Marionnettes Plein la Rue 24 et 25 août 2013, Promenade Wellington, Verdun, Montréal. Réalisé par racheletmichel.com]]></description>
+				<description><![CDATA[Un aperçu de cette troisième édition haute en couleurs! Festival Marionnettes Plein la Rue 24 et 25 août 2013, Promenade Wellington, Verdun, Montréal. Réalisé par mmvideaste.com]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Un aperçu de cette troisième édition haute en couleurs!</p>
 <p style="color: #7d7d7d;">Festival Marionnettes Plein la Rue 24 et 25 août 2013, Promenade Wellington, Verdun, Montréal.</p>
-<p style="color: #7d7d7d;">Réalisé par racheletmichel.com</p>
+<p style="color: #7d7d7d;">Réalisé par mmvideaste.com</p>
 ]]></content:encoded>
 							<wfw:commentRss>/portfolio-items/festival-marionnettes-plein-la-rue-2013/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>

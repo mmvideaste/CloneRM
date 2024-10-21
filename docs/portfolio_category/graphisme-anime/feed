@@ -10,7 +10,7 @@
 <channel>
 	<title>Graphisme animé &#8211; Michel et Michel, vidéaste</title>
 	<atom:link href="/portfolio_category/graphisme-anime/feed" rel="self" type="application/rss+xml" />
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
 	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
@@ -24,7 +24,7 @@
 <image>
 	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Graphisme animé &#8211; Michel et Michel, vidéaste</title>
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image>
@@ -36,9 +36,9 @@
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
 		<guid isPermaLink="false">/?post_type=avada_portfolio&#038;p=11057</guid>
-				<description><![CDATA[Aperçu de projets avec graphisme animé réalisés par Rachel et Michel. Réalisation : www.racheletmichel.com]]></description>
+				<description><![CDATA[Aperçu de projets avec graphisme animé réalisés par Rachel et Michel. Réalisation : www.mmvideaste.com]]></description>
 								<content:encoded><![CDATA[<p>Aperçu de projets avec graphisme animé réalisés par Rachel et Michel.</p>
-<p>Réalisation : www.racheletmichel.com</p>
+<p>Réalisation : www.mmvideaste.com</p>
 ]]></content:encoded>
 							<wfw:commentRss>/portfolio-items/demo-graphisme-anime/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>

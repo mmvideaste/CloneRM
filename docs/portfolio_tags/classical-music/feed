@@ -10,7 +10,7 @@
 <channel>
 	<title>classical music &#8211; Michel et Michel, vidéaste</title>
 	<atom:link href="/portfolio_tags/classical-music/feed" rel="self" type="application/rss+xml" />
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
 	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
@@ -24,7 +24,7 @@
 <image>
 	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>classical music &#8211; Michel et Michel, vidéaste</title>
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image>
@@ -38,7 +38,7 @@
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10471</guid>
 				<description><![CDATA[Author Ana Gerhard discusses the inspiration behind recent release, Listen to the Birds: An Introduction to Classical Music. This thematic picture book-CD is a beautifully illustrated, non-fiction guide to classical music inspired by bird song. Discover the patterns of bird song found throughout works by artists such as Vivaldi, Tchaikovsky, Mozart, Saint-Saëns, Handel, Pasquini, Schubert [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Author Ana Gerhard discusses the inspiration behind recent release, Listen to the Birds: An Introduction to Classical Music. This thematic picture book-CD is a beautifully illustrated, non-fiction guide to classical music inspired by bird song. Discover the patterns of bird song found throughout works by artists such as Vivaldi, Tchaikovsky, Mozart, Saint-Saëns, Handel, Pasquini, Schubert and more.<br />
-Réalisation de la vidéo : www.racheletmichel.com</p>
+Réalisation de la vidéo : www.mmvideaste.com</p>
 ]]></content:encoded>
 							<wfw:commentRss>/portfolio-items/listen-to-the-birds-an-introduction-to-classical-music/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>

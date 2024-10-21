@@ -10,7 +10,7 @@
 <channel>
 	<title>théâtre &#8211; Michel et Michel, vidéaste</title>
 	<atom:link href="/portfolio_tags/theatre/feed" rel="self" type="application/rss+xml" />
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
 	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
@@ -24,7 +24,7 @@
 <image>
 	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>théâtre &#8211; Michel et Michel, vidéaste</title>
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image>
@@ -36,10 +36,10 @@
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
 		<guid isPermaLink="false">/?post_type=avada_portfolio&#038;p=11011</guid>
-				<description><![CDATA[Capsule vidéo présentant un résumé des spectacles des étudiants de l’école Robert-Gravel, à Montréal. Rachel et Michel a effectué la captation complète des spectacles. Réalisation : www.racheletmichel.com]]></description>
+				<description><![CDATA[Capsule vidéo présentant un résumé des spectacles des étudiants de l’école Robert-Gravel, à Montréal. Rachel et Michel a effectué la captation complète des spectacles. Réalisation : www.mmvideaste.com]]></description>
 								<content:encoded><![CDATA[<p>Capsule vidéo présentant un résumé des spectacles des étudiants de l’école Robert-Gravel, à Montréal.</p>
 <p>Rachel et Michel a effectué la captation complète des spectacles.</p>
-<p>Réalisation : www.racheletmichel.com</p>
+<p>Réalisation : www.mmvideaste.com</p>
 ]]></content:encoded>
 							<wfw:commentRss>/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>

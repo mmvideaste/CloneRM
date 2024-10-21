@@ -10,7 +10,7 @@
 <channel>
 	<title>CJE Jamésie &#8211; Michel et Michel, vidéaste</title>
 	<atom:link href="/portfolio_tags/cje-jamesie/feed" rel="self" type="application/rss+xml" />
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
 	Fri, 18 Aug 2023 21:10:07 +0000	</lastBuildDate>
@@ -24,7 +24,7 @@
 <image>
 	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>CJE Jamésie &#8211; Michel et Michel, vidéaste</title>
-	<link>https://racheletmichel.com</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image>
@@ -40,7 +40,7 @@
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Bienvenue à Place aux jeunes de la Jamésie. Région de démesure qui couvre près du tiers de la superficie du Québec, la Jamésie, par sa nature sauvage et ses grands espaces, est la destination par excellence pour l’aventurier moderne ou celui qui veut laisser sa marque. À cela s’ajoute une grande variété d’emplois, des salaires plus élevés que la moyenne, des services de qualités accessibles et des communautés tissées serrées. En Jamésie, vous êtes la seule limite à vos ambitions…</p>
 <p style="color: #7d7d7d;">Découvrez ici le séjour exploratoire à Matagami et Lebel-sur-Quévillon, organisé par le CJE de la Jamésie.</p>
 <p style="color: #7d7d7d;">Plus d’informations : <a style="font-weight: inherit; font-style: inherit; color: #111111;" href="http://www.placeauxjeunes.qc.ca/mrc-991" target="_blank" rel="nofollow">placeauxjeunes.qc.ca/mrc-991</a></p>
-<p style="color: #7d7d7d;">Réalisation : www.racheletmichel.com</p>
+<p style="color: #7d7d7d;">Réalisation : www.mmvideaste.com</p>
 ]]></content:encoded>
 							<wfw:commentRss>/portfolio-items/sejour-exploratoire-en-jamesie/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
