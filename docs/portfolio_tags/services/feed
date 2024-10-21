@@ -9,7 +9,7 @@
 
 <channel>
 	<title>services &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/services/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/services/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,24 +22,24 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>services &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>HighriseIn</title>
-		<link>https://racheletmichel.com/portfolio-items/10476</link>
-				<comments>https://racheletmichel.com/portfolio-items/10476#respond</comments>
+		<link>/portfolio-items/10476</link>
+				<comments>/portfolio-items/10476#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:27:07 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10476</guid>
 				<description><![CDATA[Vidéo présentant les services de l’entreprise HighriseIn, qui permet aux chercheurs d’emploi de publier une vidéo de leur parcours professionnel.]]></description>
 								<content:encoded><![CDATA[<p>Vidéo présentant les services de l’entreprise HighriseIn, qui permet aux chercheurs d’emploi de publier une vidéo de leur parcours professionnel.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/10476/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/10476/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>crudessence &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/crudessence/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/crudessence/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>crudessence &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Rumble &#038; Shake Végétalien</title>
-		<link>https://racheletmichel.com/portfolio-items/rumble-shake-vegetalien</link>
-				<comments>https://racheletmichel.com/portfolio-items/rumble-shake-vegetalien#respond</comments>
+		<link>/portfolio-items/rumble-shake-vegetalien</link>
+				<comments>/portfolio-items/rumble-shake-vegetalien#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 15:52:31 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -48,7 +48,7 @@
 </div>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/rumble-shake-vegetalien/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/rumble-shake-vegetalien/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

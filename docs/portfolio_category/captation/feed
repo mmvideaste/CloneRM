@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Captation &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/captation/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/captation/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Captation &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Captations des spectacles à l&#8217;école Robert-Gravel</title>
-		<link>https://racheletmichel.com/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel</link>
-				<comments>https://racheletmichel.com/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel#respond</comments>
+		<link>/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel</link>
+				<comments>/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel#respond</comments>
 				<pubDate>Fri, 28 Nov 2014 20:57:53 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -41,7 +41,7 @@
 <p>Rachel et Michel a effectué la captation complète des spectacles.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

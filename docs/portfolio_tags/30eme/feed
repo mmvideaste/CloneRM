@@ -9,7 +9,7 @@
 
 <channel>
 	<title>30eme &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/30eme/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/30eme/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>30eme &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>30e anniversaire de la CDEC CSPMR</title>
-		<link>https://racheletmichel.com/portfolio-items/cdec</link>
-				<comments>https://racheletmichel.com/portfolio-items/cdec#respond</comments>
+		<link>/portfolio-items/cdec</link>
+				<comments>/portfolio-items/cdec#respond</comments>
 				<pubDate>Mon, 13 Jul 2015 18:57:53 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,7 +40,7 @@
 								<content:encoded><![CDATA[<p>C&rsquo;est le 16 juin 2015 que se sont réunis plus d&rsquo;une centaine de membres, partenaires, entrepreneurs, citoyens et élus pour célébrer les 30 ans de la CDEC et assister à l&rsquo;assemblée générale annuelle.<br />
 Moment fort, marqué par ces témoignages, nous remercions vivement Véronique, Ron, Louise, Linda, Marise, Christine, Céline, Gilles et Marie-France !</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/cdec/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/cdec/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

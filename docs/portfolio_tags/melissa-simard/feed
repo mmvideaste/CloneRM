@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Mélissa Simard &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/melissa-simard/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/melissa-simard/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Mélissa Simard &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Coffee Tour for the SIAL Canada</title>
-		<link>https://racheletmichel.com/portfolio-items/coffee-tour-for-the-sial-canada</link>
-				<comments>https://racheletmichel.com/portfolio-items/coffee-tour-for-the-sial-canada#respond</comments>
+		<link>/portfolio-items/coffee-tour-for-the-sial-canada</link>
+				<comments>/portfolio-items/coffee-tour-for-the-sial-canada#respond</comments>
 				<pubDate>Tue, 09 Dec 2014 20:00:15 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,7 +39,7 @@
 				<description><![CDATA[Come and check-out our customized corporate gastronomic tours. We can create learning, leisure, networking or business opportunities for your clients, team or spouses.]]></description>
 								<content:encoded><![CDATA[<p>Come and check-out our customized corporate gastronomic tours. We can create learning, leisure, networking or business opportunities for your clients, team or spouses.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/coffee-tour-for-the-sial-canada/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/coffee-tour-for-the-sial-canada/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

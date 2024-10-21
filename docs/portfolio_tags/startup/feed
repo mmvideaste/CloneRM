@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Startup &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/startup/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/startup/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Startup &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Aguiche &#124; StartupFest 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/startupfest-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/startupfest-2014#respond</comments>
+		<link>/portfolio-items/startupfest-2014</link>
+				<comments>/portfolio-items/startupfest-2014#respond</comments>
 				<pubDate>Tue, 10 Feb 2015 14:56:19 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -42,7 +42,7 @@
 <p>L’événement comprend des conférences, des sessions interactives, des leçons enrichissantes, et une bonne dose d&rsquo;irrévérence. Nous faisons partie des gens qui déplorent les conférences d&rsquo;affaires ennuyeuses. C&rsquo;est pour cette raison que nous avons soigneusement conçu une ambiance qui encourage l’interaction &#8211; avec des hamacs sur le site, plusieurs lieux de rencontres et un Village de tentes &#8211; tout en profitant de la délicieuse bouffe de rue, accompagnée d’une bière pour vous garder au frais dans la chaleur estivale de Montréal.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/startupfest-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/startupfest-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

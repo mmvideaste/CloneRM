@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Entrevue &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/entrevue/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/entrevue/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Entrevue &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>SAJE : portraits d&#8217;entrepreneurs</title>
-		<link>https://racheletmichel.com/portfolio-items/saje-entrepreneurs</link>
-				<comments>https://racheletmichel.com/portfolio-items/saje-entrepreneurs#respond</comments>
+		<link>/portfolio-items/saje-entrepreneurs</link>
+				<comments>/portfolio-items/saje-entrepreneurs#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 16:38:28 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -44,13 +44,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>vidéo réalisé par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>The John Molson Executive Centre Experience – Centre de perfectionnement</title>
-		<link>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
-				<comments>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
+		<link>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
+				<comments>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:22:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -58,13 +58,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo pour vous faire part de leur expérience avec le Centre de perfectionnement John-Molson!</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>D&#8217;où viennent les Greniers d&#8217;or?</title>
-		<link>https://racheletmichel.com/portfolio-items/dou-viennent-les-greniers-dor</link>
-				<comments>https://racheletmichel.com/portfolio-items/dou-viennent-les-greniers-dor#respond</comments>
+		<link>/portfolio-items/dou-viennent-les-greniers-dor</link>
+				<comments>/portfolio-items/dou-viennent-les-greniers-dor#respond</comments>
 				<pubDate>Tue, 10 Feb 2015 14:05:50 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -75,13 +75,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>Et vous, savez-vous d&rsquo;où viennent les <strong>Greniers d&rsquo;or</strong>?</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/dou-viennent-les-greniers-dor/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/dou-viennent-les-greniers-dor/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>B-Boy Montréal, Jonas &#171;&#160;Omegatron&#160;&#187; Napoleon Gédéon</title>
-		<link>https://racheletmichel.com/portfolio-items/b-boy-montreal-jonas</link>
-				<comments>https://racheletmichel.com/portfolio-items/b-boy-montreal-jonas#respond</comments>
+		<link>/portfolio-items/b-boy-montreal-jonas</link>
+				<comments>/portfolio-items/b-boy-montreal-jonas#respond</comments>
 				<pubDate>Tue, 10 Feb 2015 13:59:52 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -92,13 +92,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>Partagez si vous avez été touchés de près ou de loin par Jonas « Omegatron » Napoléon.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/b-boy-montreal-jonas/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/b-boy-montreal-jonas/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>JMSB &#8211; Executive Certificate in Advanced Business Analytics</title>
-		<link>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics</link>
-				<comments>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics#respond</comments>
+		<link>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics</link>
+				<comments>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:19:10 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -106,13 +106,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[En avril 2014, l’École de gestion John-Molson de l’Université Concordia a été le premier établissement universitaire à lancer un programme de Certification pour cadres en analytique d’affaires avancée. Offert via le Centre de perfectionnement de l’École, ce programme est destiné aux gestionnaires de tous les niveaux et œuvrant dans tous les secteurs d’activité. Cette courte [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">En avril 2014, l’École de gestion John-Molson de l’Université Concordia a été le premier établissement universitaire à lancer un programme de Certification pour cadres en analytique d’affaires avancée. Offert via le Centre de perfectionnement de l’École, ce programme est destiné aux gestionnaires de tous les niveaux et œuvrant dans tous les secteurs d’activité. Cette courte vidéo résume l’expérience de ce programme enseigné par Jean-Paul Isson, un des meilleurs experts au monde en analytique d’affaires avancée.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Roulotte du Chic Frigo Sans Fric par Judith Portier Design</title>
-		<link>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design</link>
-				<comments>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design#respond</comments>
+		<link>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design</link>
+				<comments>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:09:50 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -120,13 +120,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Capsule présentant l’aménagement de la roulotte du Chic Frigo Sans Fric par Judith Portier Design]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Capsule présentant l’aménagement de la roulotte du Chic Frigo Sans Fric par Judith Portier Design</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>le plancher &#124; profil compagnie artistique</title>
-		<link>https://racheletmichel.com/portfolio-items/le-plancher-profil-compagnie-artistique</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-plancher-profil-compagnie-artistique#respond</comments>
+		<link>/portfolio-items/le-plancher-profil-compagnie-artistique</link>
+				<comments>/portfolio-items/le-plancher-profil-compagnie-artistique#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:46:41 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -144,13 +144,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 </div>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-plancher-profil-compagnie-artistique/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-plancher-profil-compagnie-artistique/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Série de capsules pour la turquoise</title>
-		<link>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise</link>
-				<comments>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise#respond</comments>
+		<link>/portfolio-items/serie-de-capsules-pour-la-turquoise</link>
+				<comments>/portfolio-items/serie-de-capsules-pour-la-turquoise#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:44:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -169,13 +169,13 @@ Ces capsules présentent des témoignages d’employés et de clients. En voici 
 <h2 id="watch-headline-title" style="font-weight: inherit; font-style: italic; color: #3d3d3d;">Faire carrière à la turquoise &#8211; Courtier sénior</h2>
 <p><iframe width="853" height="480" src="//www.youtube.com/embed/1xo28DBlV9A" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/serie-de-capsules-pour-la-turquoise/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Studio Artease</title>
-		<link>https://racheletmichel.com/portfolio-items/studio-artease</link>
-				<comments>https://racheletmichel.com/portfolio-items/studio-artease#respond</comments>
+		<link>/portfolio-items/studio-artease</link>
+				<comments>/portfolio-items/studio-artease#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:31:22 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -184,13 +184,13 @@ Ces capsules présentent des témoignages d’employés et de clients. En voici 
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012.</p>
 <p style="color: #7d7d7d;">Dans cette capsule,  Érika Doyon nous parle de sa passion pour l’art et les tatouages, de son parcours et de sa vision pour le futur de son entreprise.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/studio-artease/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/studio-artease/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>La Station W</title>
-		<link>https://racheletmichel.com/portfolio-items/la-station-w</link>
-				<comments>https://racheletmichel.com/portfolio-items/la-station-w#respond</comments>
+		<link>/portfolio-items/la-station-w</link>
+				<comments>/portfolio-items/la-station-w#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:24:06 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -199,7 +199,7 @@ Ces capsules présentent des témoignages d’employés et de clients. En voici 
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012.</p>
 <p style="color: #7d7d7d;">Dans cette capsule, Simon Defoy et Philippe Lortie nous parlent de leur café, La Station W, de la qualité de leurs produits et de l’ambiance qu’on y retrouve.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/la-station-w/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/la-station-w/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

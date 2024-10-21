@@ -9,7 +9,7 @@
 
 <channel>
 	<title>rencontre annuelle &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/rencontre-annuelle/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/rencontre-annuelle/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,24 +22,24 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>rencontre annuelle &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>la turquoise &#124; rencontre annuelle 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/la-turquoise-rencontre-annuelle-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/la-turquoise-rencontre-annuelle-2014#respond</comments>
+		<link>/portfolio-items/la-turquoise-rencontre-annuelle-2014</link>
+				<comments>/portfolio-items/la-turquoise-rencontre-annuelle-2014#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:23:56 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10598</guid>
 				<description><![CDATA[Une capsule souvenir des dernières rencontres annuelles qui ont eu lieu en février dernier à Gatineau et Joliette.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Une capsule souvenir des dernières rencontres annuelles qui ont eu lieu en février dernier à Gatineau et Joliette.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/la-turquoise-rencontre-annuelle-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/la-turquoise-rencontre-annuelle-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

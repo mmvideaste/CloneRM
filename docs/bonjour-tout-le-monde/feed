@@ -3,13 +3,13 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
+
 	>
 <channel>
 	<title>
 	Commentaires sur : Bonjour tout le monde&#160;!	</title>
-	<atom:link href="https://racheletmichel.com/bonjour-tout-le-monde/feed" rel="self" type="application/rss+xml" />
-	<link>https://racheletmichel.com/bonjour-tout-le-monde</link>
+	<atom:link href="/bonjour-tout-le-monde/feed" rel="self" type="application/rss+xml" />
+	<link>/bonjour-tout-le-monde</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
 	Fri, 20 Oct 2023 21:55:23 +0000	</lastBuildDate>

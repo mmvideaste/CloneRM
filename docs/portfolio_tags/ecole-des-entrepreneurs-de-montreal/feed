@@ -9,7 +9,7 @@
 
 <channel>
 	<title>ecole des entrepreneurs de Montréal &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/ecole-des-entrepreneurs-de-montreal/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/ecole-des-entrepreneurs-de-montreal/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>ecole des entrepreneurs de Montréal &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Lancement de l&#8217;école des entrepreneurs de Montréal</title>
-		<link>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
-				<comments>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
+		<link>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
+				<comments>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
 				<pubDate>Mon, 12 Dec 2016 16:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,7 +40,7 @@
 								<content:encoded><![CDATA[<p>Le 29 novembre 2016, l&rsquo; <a class="profileLink" href="https://www.facebook.com/eemtl/" data-hovercard="/ajax/hovercard/page.php?id=335768596757308" data-hovercard-prefer-more-content-show="1">École des entrepreneurs I Mtl &#8211; EEMtl</a> était inaugurée par le SAJE et avec ses partenaires et quelques personnalités du milieu entrepreneurial montréalais.</p>
 <p>Vivez ce moment marquant comme si vous y étiez!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>événement &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/evenement/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/evenement/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>événement &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>30e anniversaire de la CDEC CSPMR</title>
-		<link>https://racheletmichel.com/portfolio-items/cdec</link>
-				<comments>https://racheletmichel.com/portfolio-items/cdec#respond</comments>
+		<link>/portfolio-items/cdec</link>
+				<comments>/portfolio-items/cdec#respond</comments>
 				<pubDate>Mon, 13 Jul 2015 18:57:53 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,13 +40,13 @@
 								<content:encoded><![CDATA[<p>C&rsquo;est le 16 juin 2015 que se sont réunis plus d&rsquo;une centaine de membres, partenaires, entrepreneurs, citoyens et élus pour célébrer les 30 ans de la CDEC et assister à l&rsquo;assemblée générale annuelle.<br />
 Moment fort, marqué par ces témoignages, nous remercions vivement Véronique, Ron, Louise, Linda, Marise, Christine, Céline, Gilles et Marie-France !</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/cdec/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/cdec/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Gala de remise de bourses du concours &#171;&#160;Entrepreneurs audacieux recherchés&#160;&#187;</title>
-		<link>https://racheletmichel.com/portfolio-items/gala-cdec</link>
-				<comments>https://racheletmichel.com/portfolio-items/gala-cdec#respond</comments>
+		<link>/portfolio-items/gala-cdec</link>
+				<comments>/portfolio-items/gala-cdec#respond</comments>
 				<pubDate>Thu, 01 Oct 2015 19:53:32 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -54,13 +54,13 @@ Moment fort, marqué par ces témoignages, nous remercions vivement Véronique, 
 				<description><![CDATA[C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.]]></description>
 								<content:encoded><![CDATA[<p>C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/gala-cdec/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/gala-cdec/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Érablière Wellington 2013</title>
-		<link>https://racheletmichel.com/portfolio-items/erabliere-wellington-2013</link>
-				<comments>https://racheletmichel.com/portfolio-items/erabliere-wellington-2013#respond</comments>
+		<link>/portfolio-items/erabliere-wellington-2013</link>
+				<comments>/portfolio-items/erabliere-wellington-2013#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 00:48:11 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -71,13 +71,13 @@ Moment fort, marqué par ces témoignages, nous remercions vivement Véronique, 
 Musique : Patrick Bouchard</p>
 <p style="color: #7d7d7d;">Plus d’informations : www.promenadewellington.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/erabliere-wellington-2013/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/erabliere-wellington-2013/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Scent Stories</title>
-		<link>https://racheletmichel.com/portfolio-items/10535</link>
-				<comments>https://racheletmichel.com/portfolio-items/10535#respond</comments>
+		<link>/portfolio-items/10535</link>
+				<comments>/portfolio-items/10535#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 15:05:40 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -97,7 +97,7 @@ Animatrice de la soirée : Marianna Simeone</p>
 Musique : Quatuor Orphée<br />
 Vêtements : Isabelle Élie Designer</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/10535/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/10535/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

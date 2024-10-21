@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Felix Leclerc &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/felix-leclerc/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/felix-leclerc/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Felix Leclerc &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Le petit ours gris de la Mauricie</title>
-		<link>https://racheletmichel.com/portfolio-items/le-petit-ours-gris-de-la-mauricie</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-petit-ours-gris-de-la-mauricie#respond</comments>
+		<link>/portfolio-items/le-petit-ours-gris-de-la-mauricie</link>
+				<comments>/portfolio-items/le-petit-ours-gris-de-la-mauricie#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:01:59 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -41,7 +41,7 @@
 <p style="color: #7d7d7d;">Pour plus de détails : <a style="font-weight: inherit; font-style: inherit; color: #111111;" href="http://www.lamontagnesecrete.com/SortiePetitOursGris" target="_blank" rel="nofollow">lamontagnesecrete.com/SortiePetitOursGris</a></p>
 <p style="color: #7d7d7d;">Réalisation de la vidéo : <a style="font-weight: inherit; font-style: inherit; color: #111111;" href="/" target="_blank" rel="nofollow">racheletmichel.com</a></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-petit-ours-gris-de-la-mauricie/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-petit-ours-gris-de-la-mauricie/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

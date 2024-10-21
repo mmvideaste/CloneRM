@@ -9,7 +9,7 @@
 
 <channel>
 	<title>concours &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/concours/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/concours/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>concours &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Gala de remise de bourses du concours &#171;&#160;Entrepreneurs audacieux recherchés&#160;&#187;</title>
-		<link>https://racheletmichel.com/portfolio-items/gala-cdec</link>
-				<comments>https://racheletmichel.com/portfolio-items/gala-cdec#respond</comments>
+		<link>/portfolio-items/gala-cdec</link>
+				<comments>/portfolio-items/gala-cdec#respond</comments>
 				<pubDate>Thu, 01 Oct 2015 19:53:32 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,13 +39,13 @@
 				<description><![CDATA[C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.]]></description>
 								<content:encoded><![CDATA[<p>C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/gala-cdec/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/gala-cdec/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Concours québécois en entrepreneuriat</title>
-		<link>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
-				<comments>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
+		<link>/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
+				<comments>/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:55:58 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -53,13 +53,13 @@
 				<description><![CDATA[Capsule promotionnelle pour le Concours québécois en entrepreneuriat &#124; Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.]]></description>
 								<content:encoded><![CDATA[<p>Capsule promotionnelle pour le Concours québécois en entrepreneuriat | Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Le secret de la moustache RÉVÉLÉ</title>
-		<link>https://racheletmichel.com/portfolio-items/le-secret-de-la-moustache-revele</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-secret-de-la-moustache-revele#respond</comments>
+		<link>/portfolio-items/le-secret-de-la-moustache-revele</link>
+				<comments>/portfolio-items/le-secret-de-la-moustache-revele#respond</comments>
 				<pubDate>Mon, 24 Nov 2014 21:44:58 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -67,7 +67,7 @@
 				<description><![CDATA[Pour ceux qui m&#8217;ont posé la question en chair et en os, il ne s&#8217;agissait pas d&#8217;un secret mais quand même pour la postérité en guise de petit remerciement pour nos 100 mentions j&#8217;aime sur notre page Facebook.]]></description>
 								<content:encoded><![CDATA[<p>Pour ceux qui m&rsquo;ont posé la question en chair et en os, il ne s&rsquo;agissait pas d&rsquo;un secret mais quand même pour la postérité en guise de petit remerciement pour nos 100 mentions j&rsquo;aime sur notre page Facebook.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-secret-de-la-moustache-revele/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-secret-de-la-moustache-revele/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

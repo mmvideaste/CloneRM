@@ -9,7 +9,7 @@
 
 <channel>
 	<title>lancement &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/lancement/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/lancement/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>lancement &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>École des entrepreneurs de Mtl</title>
-		<link>https://racheletmichel.com/portfolio-items/11430</link>
-				<comments>https://racheletmichel.com/portfolio-items/11430#respond</comments>
+		<link>/portfolio-items/11430</link>
+				<comments>/portfolio-items/11430#respond</comments>
 				<pubDate>Wed, 30 Nov 2016 15:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -45,13 +45,13 @@
 <p>-Une vidéo réalisée par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991" data-hovercard-prefer-more-content-show="1">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11430/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11430/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Lancement de la Micra de Nissan</title>
-		<link>https://racheletmichel.com/portfolio-items/lancement-de-la-micra-de-nissan</link>
-				<comments>https://racheletmichel.com/portfolio-items/lancement-de-la-micra-de-nissan#respond</comments>
+		<link>/portfolio-items/lancement-de-la-micra-de-nissan</link>
+				<comments>/portfolio-items/lancement-de-la-micra-de-nissan#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:17:30 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -60,7 +60,7 @@
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Rachel et Michel ont été mandatés par SPEED Marketing afin de réaliser une courte capsule présentant le lancement de la Micra, la nouvelle voiture de Nissan.</p>
 <p style="color: #7d7d7d;">Cette vidéo présente les moments forts de la soirée, du cocktail au dévoilement.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-de-la-micra-de-nissan/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/lancement-de-la-micra-de-nissan/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

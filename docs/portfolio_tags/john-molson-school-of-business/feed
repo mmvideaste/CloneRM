@@ -9,7 +9,7 @@
 
 <channel>
 	<title>John Molson School of Business &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/john-molson-school-of-business/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/john-molson-school-of-business/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>John Molson School of Business &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,21 +30,21 @@
 </image>
 	<item>
 		<title>JMSB Advanced Management Program</title>
-		<link>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program</link>
-				<comments>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program#respond</comments>
+		<link>/portfolio-items/jmsb-advanced-management-program</link>
+				<comments>/portfolio-items/jmsb-advanced-management-program#respond</comments>
 				<pubDate>Fri, 01 Apr 2016 15:14:05 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
 		<guid isPermaLink="false">/?post_type=avada_portfolio&#038;p=11198</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/jmsb-advanced-management-program/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>The John Molson Executive Centre Experience – Centre de perfectionnement</title>
-		<link>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
-				<comments>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
+		<link>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
+				<comments>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:22:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -52,7 +52,7 @@
 				<description><![CDATA[Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo pour vous faire part de leur expérience avec le Centre de perfectionnement John-Molson!</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

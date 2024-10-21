@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Graphisme animé &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/graphisme-anime/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/graphisme-anime/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Graphisme animé &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Démo &#124; Graphisme animé</title>
-		<link>https://racheletmichel.com/portfolio-items/demo-graphisme-anime</link>
-				<comments>https://racheletmichel.com/portfolio-items/demo-graphisme-anime#respond</comments>
+		<link>/portfolio-items/demo-graphisme-anime</link>
+				<comments>/portfolio-items/demo-graphisme-anime#respond</comments>
 				<pubDate>Fri, 13 Mar 2015 16:23:19 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,13 +40,13 @@
 								<content:encoded><![CDATA[<p>Aperçu de projets avec graphisme animé réalisés par Rachel et Michel.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/demo-graphisme-anime/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/demo-graphisme-anime/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>MediLumine</title>
-		<link>https://racheletmichel.com/portfolio-items/medilumine</link>
-				<comments>https://racheletmichel.com/portfolio-items/medilumine#respond</comments>
+		<link>/portfolio-items/medilumine</link>
+				<comments>/portfolio-items/medilumine#respond</comments>
 				<pubDate>Tue, 03 Mar 2015 14:31:05 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -54,13 +54,13 @@
 				<description><![CDATA[MediLumine, a privately held company based in Montreal, Canada, provides Fenestra® LC and Fenestra® VC nano-emulsions used for a wide array of applications in preclinical computed tomography and molecular imaging.]]></description>
 								<content:encoded><![CDATA[<p>MediLumine, a privately held company based in Montreal, Canada, provides Fenestra® LC and Fenestra® VC nano-emulsions used for a wide array of applications in preclinical computed tomography and molecular imaging.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/medilumine/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/medilumine/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Concours québécois en entrepreneuriat</title>
-		<link>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
-				<comments>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
+		<link>/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
+				<comments>/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:55:58 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -68,13 +68,13 @@
 				<description><![CDATA[Capsule promotionnelle pour le Concours québécois en entrepreneuriat &#124; Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.]]></description>
 								<content:encoded><![CDATA[<p>Capsule promotionnelle pour le Concours québécois en entrepreneuriat | Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>HighriseIn</title>
-		<link>https://racheletmichel.com/portfolio-items/10476</link>
-				<comments>https://racheletmichel.com/portfolio-items/10476#respond</comments>
+		<link>/portfolio-items/10476</link>
+				<comments>/portfolio-items/10476#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:27:07 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -82,7 +82,7 @@
 				<description><![CDATA[Vidéo présentant les services de l’entreprise HighriseIn, qui permet aux chercheurs d’emploi de publier une vidéo de leur parcours professionnel.]]></description>
 								<content:encoded><![CDATA[<p>Vidéo présentant les services de l’entreprise HighriseIn, qui permet aux chercheurs d’emploi de publier une vidéo de leur parcours professionnel.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/10476/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/10476/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

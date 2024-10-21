@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Non classé &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portefolio/non-classe/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portefolio/non-classe/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,16 +22,16 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Non classé &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Bonjour tout le monde&#160;!</title>
-		<link>https://racheletmichel.com/bonjour-tout-le-monde</link>
-				<comments>https://racheletmichel.com/bonjour-tout-le-monde#respond</comments>
+		<link>/bonjour-tout-le-monde</link>
+				<comments>/bonjour-tout-le-monde#respond</comments>
 				<pubDate>Thu, 21 Aug 2014 16:49:37 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Non classé]]></category>
@@ -40,7 +40,7 @@
 				<description><![CDATA[Bienvenue dans WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis lancez-vous&#160;!]]></description>
 								<content:encoded><![CDATA[<p>Bienvenue dans WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis lancez-vous&nbsp;!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/bonjour-tout-le-monde/feed</wfw:commentRss>
+							<wfw:commentRss>/bonjour-tout-le-monde/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

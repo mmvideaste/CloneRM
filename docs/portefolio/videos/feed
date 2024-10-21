@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Videos &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portefolio/videos/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portefolio/videos/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,16 +22,16 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Videos &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Class Aptent Taciti Soci Ad Litora</title>
-		<link>https://racheletmichel.com/class-aptent-taciti-sociosqu-ad-litora</link>
-				<comments>https://racheletmichel.com/class-aptent-taciti-sociosqu-ad-litora#respond</comments>
+		<link>/class-aptent-taciti-sociosqu-ad-litora</link>
+				<comments>/class-aptent-taciti-sociosqu-ad-litora#respond</comments>
 				<pubDate>Tue, 31 Jul 2012 17:24:55 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Design]]></category>
@@ -49,7 +49,7 @@
 <p>Nunc tincidunt, elit non cursus euismod, lacus augue ornare metus, egestas imperdiet nulla nisl quis mauris. Suspendisse a pharetra urna. Morbi dui lectus, pharetra nec elementum eget, vulputate ut nisi. Aliquam accumsan, nulla sed feugiat vehicula, lacus justo semper libero, quis porttitor turpis odio sit amet ligula. Duis dapibus fermentum orci, nec malesuada libero vehicula ut. Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dignissim mauris dolor eget mi. Donec at mauris enim. Duis nisi tellus, adipiscing a convallis quis, tristique vitae risus. Nullam molestie gravida lobortis. Proin ut nibh quis felis auctor ornare. Cras ultricies, nibh at mollis faucibus, justo eros porttitor mi, quis auctor lectus arcu sit amet nunc. Vivamus gravida vehicula arcu, vitae vulputate augue lacinia faucibus.</p>
 <p>Ut porttitor euismod cursus. Mauris suscipit, turpis ut dapibus rhoncus, odio erat egestas orci, in sollicitudin enim erat id est. Sed auctor gravida arcu, nec fringilla orci aliquet ut. Nullam eu pretium purus. Maecenas fermentum posuere sem vel posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ornare convallis lectus a faucibus. Praesent et urna turpis. Fusce tincidunt augue in velit tincidunt sed tempor felis porta. Nunc sodales, metus ut vestibulum ornare, est magna laoreet lectus, ut adipiscing massa odio sed turpis. In nec lorem porttitor urna consequat sagittis. Nullam eget elit ante. Pellentesque justo urna, semper nec faucibus sit amet, aliquam at mi. Maecenas eget diam nec mi dignissim pharetra.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/class-aptent-taciti-sociosqu-ad-litora/feed</wfw:commentRss>
+							<wfw:commentRss>/class-aptent-taciti-sociosqu-ad-litora/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

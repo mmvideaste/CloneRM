@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Démo &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/demo/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/demo/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Démo &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Démo &#124; Graphisme animé</title>
-		<link>https://racheletmichel.com/portfolio-items/demo-graphisme-anime</link>
-				<comments>https://racheletmichel.com/portfolio-items/demo-graphisme-anime#respond</comments>
+		<link>/portfolio-items/demo-graphisme-anime</link>
+				<comments>/portfolio-items/demo-graphisme-anime#respond</comments>
 				<pubDate>Fri, 13 Mar 2015 16:23:19 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,13 +40,13 @@
 								<content:encoded><![CDATA[<p>Aperçu de projets avec graphisme animé réalisés par Rachel et Michel.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/demo-graphisme-anime/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/demo-graphisme-anime/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Bande démo</title>
-		<link>https://racheletmichel.com/portfolio-items/demo-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/demo-2014#respond</comments>
+		<link>/portfolio-items/demo-2014</link>
+				<comments>/portfolio-items/demo-2014#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:52:38 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -54,7 +54,7 @@
 				<description><![CDATA[Voici notre démo pour l’année 2014, résumant en une minute nos projets.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Voici notre démo résumant en une minute nos projets.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/demo-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/demo-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

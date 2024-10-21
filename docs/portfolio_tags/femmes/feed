@@ -9,7 +9,7 @@
 
 <channel>
 	<title>femmes &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/femmes/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/femmes/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>femmes &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Entrepreneures de demain &#8211; Automne 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/ydesfemmes</link>
-				<comments>https://racheletmichel.com/portfolio-items/ydesfemmes#respond</comments>
+		<link>/portfolio-items/ydesfemmes</link>
+				<comments>/portfolio-items/ydesfemmes#respond</comments>
 				<pubDate>Tue, 03 Mar 2015 14:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,7 +39,7 @@
 				<description><![CDATA[Les services jeunesse du Y des femmes de Montréal sont fiers de présenter cette vidéo au sujet de la formation Entrepreneures de demain. Cet atelier vise à diversifier le choix de carrières des participantes et à promouvoir la place des femmes dans les métiers à majorité masculine. Réalisation : Rachel et Michel]]></description>
 								<content:encoded><![CDATA[<p>Les services jeunesse du Y des femmes de Montréal sont fiers de présenter cette vidéo au sujet de la formation Entrepreneures de demain. Cet atelier vise à diversifier le choix de carrières des participantes et à promouvoir la place des femmes dans les métiers à majorité masculine. Réalisation : Rachel et Michel</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/ydesfemmes/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/ydesfemmes/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

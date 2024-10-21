@@ -9,7 +9,7 @@
 
 <channel>
 	<title>entrepreneuriat &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/entrepreneuriat/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/entrepreneuriat/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>entrepreneuriat &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>École des entrepreneurs de Mtl</title>
-		<link>https://racheletmichel.com/portfolio-items/11430</link>
-				<comments>https://racheletmichel.com/portfolio-items/11430#respond</comments>
+		<link>/portfolio-items/11430</link>
+				<comments>/portfolio-items/11430#respond</comments>
 				<pubDate>Wed, 30 Nov 2016 15:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -45,13 +45,13 @@
 <p>-Une vidéo réalisée par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991" data-hovercard-prefer-more-content-show="1">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11430/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11430/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Elle faisait quoi la CDEC ? Ils racontent leur expérience&#8230;</title>
-		<link>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience</link>
-				<comments>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience#respond</comments>
+		<link>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience</link>
+				<comments>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience#respond</comments>
 				<pubDate>Wed, 16 Nov 2016 19:36:07 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -60,13 +60,13 @@
 								<content:encoded><![CDATA[<p>La CDEC a fermé ses portes en 2015 après 30 ans de travail sur le terrain. Des entrepreneurs, partenaires et employés racontent l&rsquo;expérience CDEC.<br />
 Découvrez l&rsquo;approche CDEC grâce à la publication : &nbsp;&raquo;L&rsquo; audace de développer autrement. Quand l&rsquo;économie sort de sa boîte&nbsp;&raquo; : bit.ly/2dXmCix</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Portraits d&#8217;entrepreneurs en sociofinancement</title>
-		<link>https://racheletmichel.com/portfolio-items/sociofinancement</link>
-				<comments>https://racheletmichel.com/portfolio-items/sociofinancement#respond</comments>
+		<link>/portfolio-items/sociofinancement</link>
+				<comments>/portfolio-items/sociofinancement#respond</comments>
 				<pubDate>Mon, 27 Jun 2016 17:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -81,13 +81,13 @@ Découvrez l&rsquo;approche CDEC grâce à la publication : &nbsp;&raquo;L&rsquo
 <p class="watch-title-container"><strong><span id="eow-title" class="watch-title" dir="ltr" title="Sociofinancement : le cas d'Ubios">Sociofinancement : le cas d&rsquo;Ubios</span></strong></p>
 <p><iframe src="https://www.youtube.com/embed/2Y4dZHHyv9g" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/sociofinancement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/sociofinancement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Soirée 30e anniversaire au SAJE</title>
-		<link>https://racheletmichel.com/portfolio-items/30anssaje</link>
-				<comments>https://racheletmichel.com/portfolio-items/30anssaje#respond</comments>
+		<link>/portfolio-items/30anssaje</link>
+				<comments>/portfolio-items/30anssaje#respond</comments>
 				<pubDate>Tue, 24 Nov 2015 17:38:11 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -95,13 +95,13 @@ Découvrez l&rsquo;approche CDEC grâce à la publication : &nbsp;&raquo;L&rsquo
 				<description><![CDATA[Le SAJE célébrait ses 30 ans d&#8217;accompagnement et de formation le 21 octobre 2015 avec ses partenaires, entrepreneurs et autres collaborateurs. Une belle soirée pour souligner nos réussites et parler de grands projets d&#8217;avenir!]]></description>
 								<content:encoded><![CDATA[<p>Le SAJE célébrait ses 30 ans d&rsquo;accompagnement et de formation le 21 octobre 2015 avec ses partenaires, entrepreneurs et autres collaborateurs. Une belle soirée pour souligner nos réussites et parler de grands projets d&rsquo;avenir!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/30anssaje/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/30anssaje/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>30e anniversaire de la CDEC CSPMR</title>
-		<link>https://racheletmichel.com/portfolio-items/cdec</link>
-				<comments>https://racheletmichel.com/portfolio-items/cdec#respond</comments>
+		<link>/portfolio-items/cdec</link>
+				<comments>/portfolio-items/cdec#respond</comments>
 				<pubDate>Mon, 13 Jul 2015 18:57:53 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -110,13 +110,13 @@ Découvrez l&rsquo;approche CDEC grâce à la publication : &nbsp;&raquo;L&rsquo
 								<content:encoded><![CDATA[<p>C&rsquo;est le 16 juin 2015 que se sont réunis plus d&rsquo;une centaine de membres, partenaires, entrepreneurs, citoyens et élus pour célébrer les 30 ans de la CDEC et assister à l&rsquo;assemblée générale annuelle.<br />
 Moment fort, marqué par ces témoignages, nous remercions vivement Véronique, Ron, Louise, Linda, Marise, Christine, Céline, Gilles et Marie-France !</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/cdec/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/cdec/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Aguiche &#124; StartupFest 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/startupfest-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/startupfest-2014#respond</comments>
+		<link>/portfolio-items/startupfest-2014</link>
+				<comments>/portfolio-items/startupfest-2014#respond</comments>
 				<pubDate>Tue, 10 Feb 2015 14:56:19 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -127,7 +127,7 @@ Moment fort, marqué par ces témoignages, nous remercions vivement Véronique, 
 <p>L’événement comprend des conférences, des sessions interactives, des leçons enrichissantes, et une bonne dose d&rsquo;irrévérence. Nous faisons partie des gens qui déplorent les conférences d&rsquo;affaires ennuyeuses. C&rsquo;est pour cette raison que nous avons soigneusement conçu une ambiance qui encourage l’interaction &#8211; avec des hamacs sur le site, plusieurs lieux de rencontres et un Village de tentes &#8211; tout en profitant de la délicieuse bouffe de rue, accompagnée d’une bière pour vous garder au frais dans la chaleur estivale de Montréal.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/startupfest-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/startupfest-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

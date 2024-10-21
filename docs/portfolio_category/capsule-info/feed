@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Capsule info &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/capsule-info/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/capsule-info/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Capsule info &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>SAJE : portraits d&#8217;entrepreneurs</title>
-		<link>https://racheletmichel.com/portfolio-items/saje-entrepreneurs</link>
-				<comments>https://racheletmichel.com/portfolio-items/saje-entrepreneurs#respond</comments>
+		<link>/portfolio-items/saje-entrepreneurs</link>
+				<comments>/portfolio-items/saje-entrepreneurs#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 16:38:28 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -44,13 +44,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>vidéo réalisé par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Ensemble neuf mois : extraits</title>
-		<link>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits</link>
-				<comments>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits#respond</comments>
+		<link>/portfolio-items/ensemble-neuf-mois-extraits</link>
+				<comments>/portfolio-items/ensemble-neuf-mois-extraits#respond</comments>
 				<pubDate>Tue, 02 Aug 2016 14:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -69,13 +69,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="https://www.youtube.com/embed/qF7hmwu-jFw?wmode=transparent" width="600" height="350" frameborder="0" allowfullscreen></iframe></div></div>
 <div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="https://www.youtube.com/embed/v4gqd6VRW54?wmode=transparent" width="600" height="350" frameborder="0" allowfullscreen></iframe></div></div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/ensemble-neuf-mois-extraits/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>The John Molson Executive Centre Experience – Centre de perfectionnement</title>
-		<link>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
-				<comments>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
+		<link>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
+				<comments>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:22:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -83,7 +83,7 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo pour vous faire part de leur expérience avec le Centre de perfectionnement John-Molson!</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

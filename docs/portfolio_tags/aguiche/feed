@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Aguiche &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/aguiche/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/aguiche/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,24 +22,24 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Aguiche &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>#QuartierdeNoëlW en préparation!!!</title>
-		<link>https://racheletmichel.com/portfolio-items/quartierdenoelw-en-preparation</link>
-				<comments>https://racheletmichel.com/portfolio-items/quartierdenoelw-en-preparation#respond</comments>
+		<link>/portfolio-items/quartierdenoelw-en-preparation</link>
+				<comments>/portfolio-items/quartierdenoelw-en-preparation#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:10:05 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10465</guid>
 				<description><![CDATA[Aguiche diffusée quelques jours avant le lancement du Quartier de Noël de la Promenade Wellington, à Verdun.]]></description>
 								<content:encoded><![CDATA[<p>Aguiche diffusée quelques jours avant le lancement du Quartier de Noël de la Promenade Wellington, à Verdun.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/quartierdenoelw-en-preparation/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/quartierdenoelw-en-preparation/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

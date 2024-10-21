@@ -9,7 +9,7 @@
 
 <channel>
 	<title>scrum product owner &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/scrum-product-owner/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/scrum-product-owner/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>scrum product owner &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Professional Scrum Product Owner &#8211; Formation Pyxis</title>
-		<link>https://racheletmichel.com/portfolio-items/professional-scrum-product-owner-formation-pyxis</link>
-				<comments>https://racheletmichel.com/portfolio-items/professional-scrum-product-owner-formation-pyxis#respond</comments>
+		<link>/portfolio-items/professional-scrum-product-owner-formation-pyxis</link>
+				<comments>/portfolio-items/professional-scrum-product-owner-formation-pyxis#respond</comments>
 				<pubDate>Wed, 16 Nov 2016 19:52:53 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,7 +39,7 @@
 				<description><![CDATA[Maximisez le rendement de vos investissements en produits et systèmes et optimisez le coût total de propriété de ceux-ci.]]></description>
 								<content:encoded><![CDATA[<p>Maximisez le rendement de vos investissements en produits et systèmes et optimisez le coût total de propriété de ceux-ci.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/professional-scrum-product-owner-formation-pyxis/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/professional-scrum-product-owner-formation-pyxis/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

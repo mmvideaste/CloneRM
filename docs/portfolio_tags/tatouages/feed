@@ -9,7 +9,7 @@
 
 <channel>
 	<title>tatouages &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/tatouages/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/tatouages/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,25 +22,25 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>tatouages &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Studio Artease</title>
-		<link>https://racheletmichel.com/portfolio-items/studio-artease</link>
-				<comments>https://racheletmichel.com/portfolio-items/studio-artease#respond</comments>
+		<link>/portfolio-items/studio-artease</link>
+				<comments>/portfolio-items/studio-artease#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:31:22 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10568</guid>
 				<description><![CDATA[En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012. Dans cette capsule,  Érika Doyon nous parle de sa passion pour l’art et les tatouages, de son parcours et de sa vision pour le futur de [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012.</p>
 <p style="color: #7d7d7d;">Dans cette capsule,  Érika Doyon nous parle de sa passion pour l’art et les tatouages, de son parcours et de sa vision pour le futur de son entreprise.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/studio-artease/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/studio-artease/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

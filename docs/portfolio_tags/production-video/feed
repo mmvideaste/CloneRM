@@ -9,7 +9,7 @@
 
 <channel>
 	<title>production vidéo &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/production-video/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/production-video/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,33 +22,33 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>production vidéo &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>L&#8217;arrivée du Père Noël sur la Promenade Wellington</title>
-		<link>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington</link>
-				<comments>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington#respond</comments>
+		<link>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington</link>
+				<comments>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:07:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10462</guid>
 				<description><![CDATA[Courte vidéo présentant l’arrivée du Père-Noël sur la Promenade Wellington, à Verdun. Réalisée pour la SDC Wellington.]]></description>
 								<content:encoded><![CDATA[<p>Courte vidéo présentant l’arrivée du Père-Noël sur la Promenade Wellington, à Verdun. Réalisée pour la SDC Wellington.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Rencontre avec Ana Gerhard (Le chant des oiseaux)</title>
-		<link>https://racheletmichel.com/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux</link>
-				<comments>https://racheletmichel.com/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux#respond</comments>
+		<link>/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux</link>
+				<comments>/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:14:15 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10468</guid>
 				<description><![CDATA[LIVRE-DISQUE Sélection musicale et textes explicatifs – Ana Gerhard Illustrations – Cecilia Varela Édtions La Montagne secrète Depuis toujours, les oiseaux ont captivé l’imagination des compositeurs et les ont inspirés. Des œuvres de Mozart, de Tchaïkovski, de Vivaldi et d’autres compositeurs font connaître la musique classique aux enfants par la découverte de similarités mélodiques entre [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>LIVRE-DISQUE<br />
@@ -58,36 +58,36 @@ Illustrations – Cecilia Varela<br />
 Depuis toujours, les oiseaux ont captivé l’imagination des compositeurs et les ont inspirés. Des œuvres de Mozart, de Tchaïkovski, de Vivaldi et d’autres compositeurs font connaître la musique classique aux enfants par la découverte de similarités mélodiques entre les chants des oiseaux et les notes produites par des instruments comme la flûte, l’orgue et le clavecin. Merveilleusement illustré, le livre contient également un glossaire de termes musicaux, une courte biographie des compositeurs et une brève description de chaque oiseau évoqué dans les compositions.<br />
 Réalisation de la vidéo : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>HighriseIn</title>
-		<link>https://racheletmichel.com/portfolio-items/10476</link>
-				<comments>https://racheletmichel.com/portfolio-items/10476#respond</comments>
+		<link>/portfolio-items/10476</link>
+				<comments>/portfolio-items/10476#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:27:07 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10476</guid>
 				<description><![CDATA[Vidéo présentant les services de l’entreprise HighriseIn, qui permet aux chercheurs d’emploi de publier une vidéo de leur parcours professionnel.]]></description>
 								<content:encoded><![CDATA[<p>Vidéo présentant les services de l’entreprise HighriseIn, qui permet aux chercheurs d’emploi de publier une vidéo de leur parcours professionnel.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/10476/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/10476/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>fripe fabrique &#124; boutique &#038; atelier D.I.Y.</title>
-		<link>https://racheletmichel.com/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y</link>
-				<comments>https://racheletmichel.com/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y#respond</comments>
+		<link>/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y</link>
+				<comments>/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:24:30 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10473</guid>
 				<description><![CDATA[Rachel et Michel ont récemment eu le plaisir de réaliser une courte capsule vidéo promotionnelle pour Fripe Fabrique. Cette nouvelle boutique propose des vêtements de designers indépendants et vintages ainsi qu’un atelier DIY. Pour plus de détails : fripefabrique.com]]></description>
 								<content:encoded><![CDATA[<p>Rachel et Michel ont récemment eu le plaisir de réaliser une courte capsule vidéo promotionnelle pour Fripe Fabrique. Cette nouvelle boutique propose des vêtements de designers indépendants et vintages ainsi qu’un atelier DIY.<br />
 Pour plus de détails : fripefabrique.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

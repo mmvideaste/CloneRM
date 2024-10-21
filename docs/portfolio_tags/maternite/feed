@@ -9,7 +9,7 @@
 
 <channel>
 	<title>maternité &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/maternite/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/maternite/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>maternité &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Ensemble neuf mois : extraits</title>
-		<link>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits</link>
-				<comments>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits#respond</comments>
+		<link>/portfolio-items/ensemble-neuf-mois-extraits</link>
+				<comments>/portfolio-items/ensemble-neuf-mois-extraits#respond</comments>
 				<pubDate>Tue, 02 Aug 2016 14:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -50,7 +50,7 @@
 <div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="https://www.youtube.com/embed/qF7hmwu-jFw?wmode=transparent" width="600" height="350" frameborder="0" allowfullscreen></iframe></div></div>
 <div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="https://www.youtube.com/embed/v4gqd6VRW54?wmode=transparent" width="600" height="350" frameborder="0" allowfullscreen></iframe></div></div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/ensemble-neuf-mois-extraits/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

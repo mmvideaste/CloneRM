@@ -9,7 +9,7 @@
 
 <channel>
 	<title>CLD de Verdun &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/cld-de-verdun/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/cld-de-verdun/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,70 +22,70 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>CLD de Verdun &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Studio Artease</title>
-		<link>https://racheletmichel.com/portfolio-items/studio-artease</link>
-				<comments>https://racheletmichel.com/portfolio-items/studio-artease#respond</comments>
+		<link>/portfolio-items/studio-artease</link>
+				<comments>/portfolio-items/studio-artease#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:31:22 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10568</guid>
 				<description><![CDATA[En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012. Dans cette capsule,  Érika Doyon nous parle de sa passion pour l’art et les tatouages, de son parcours et de sa vision pour le futur de [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012.</p>
 <p style="color: #7d7d7d;">Dans cette capsule,  Érika Doyon nous parle de sa passion pour l’art et les tatouages, de son parcours et de sa vision pour le futur de son entreprise.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/studio-artease/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/studio-artease/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>La Station W</title>
-		<link>https://racheletmichel.com/portfolio-items/la-station-w</link>
-				<comments>https://racheletmichel.com/portfolio-items/la-station-w#respond</comments>
+		<link>/portfolio-items/la-station-w</link>
+				<comments>/portfolio-items/la-station-w#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:24:06 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10565</guid>
 				<description><![CDATA[En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012. Dans cette capsule, Simon Defoy et Philippe Lortie nous parlent de leur café, La Station W, de la qualité de leurs produits et de l’ambiance qu’on [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012.</p>
 <p style="color: #7d7d7d;">Dans cette capsule, Simon Defoy et Philippe Lortie nous parlent de leur café, La Station W, de la qualité de leurs produits et de l’ambiance qu’on y retrouve.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/la-station-w/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/la-station-w/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Traiteur pour animaux Kabo</title>
-		<link>https://racheletmichel.com/portfolio-items/traiteur-pour-animaux-kabo</link>
-				<comments>https://racheletmichel.com/portfolio-items/traiteur-pour-animaux-kabo#respond</comments>
+		<link>/portfolio-items/traiteur-pour-animaux-kabo</link>
+				<comments>/portfolio-items/traiteur-pour-animaux-kabo#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:17:20 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10562</guid>
 				<description><![CDATA[En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012. Dans cette capsule, Chantal Brousseau nous parle de son entreprise, Traiteur pour animaux Kabo, de ses produits et sa fierté d’entrepreneur.]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012.</p>
 <p style="color: #7d7d7d;">Dans cette capsule, Chantal Brousseau nous parle de son entreprise, Traiteur pour animaux Kabo, de ses produits et sa fierté d’entrepreneur.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/traiteur-pour-animaux-kabo/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/traiteur-pour-animaux-kabo/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Kinesis Santé</title>
-		<link>https://racheletmichel.com/portfolio-items/kinesis-sante</link>
-				<comments>https://racheletmichel.com/portfolio-items/kinesis-sante#respond</comments>
+		<link>/portfolio-items/kinesis-sante</link>
+				<comments>/portfolio-items/kinesis-sante#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:15:16 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10559</guid>
 				<description><![CDATA[En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012. Dans cette capsule, Julien D’Alessio nous parle de kinésiologie, des services qu’il offre à ses clients et comment le CLD de Verdun l’a soutenu dans ses démarches.]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012.</p>
 <p style="color: #7d7d7d;">Dans cette capsule, Julien D’Alessio nous parle de kinésiologie, des services qu’il offre à ses clients et comment le CLD de Verdun l’a soutenu dans ses démarches.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/kinesis-sante/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/kinesis-sante/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

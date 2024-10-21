@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Capsule promotionnelle &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/capsule-promotionnelle/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/capsule-promotionnelle/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Capsule promotionnelle &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Les postes du futur</title>
-		<link>https://racheletmichel.com/portfolio-items/les-postes-du-futur</link>
-				<comments>https://racheletmichel.com/portfolio-items/les-postes-du-futur#respond</comments>
+		<link>/portfolio-items/les-postes-du-futur</link>
+				<comments>/portfolio-items/les-postes-du-futur#respond</comments>
 				<pubDate>Wed, 07 Jun 2017 13:39:15 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,13 +39,13 @@
 				<description><![CDATA[Imaginez recevoir dans un quart de siècle, lors du 400e anniversaire de Montréal, une carte postale originale écrite par un Montréalais témoin des festivités du 375e&#8230;]]></description>
 								<content:encoded><![CDATA[<p>Imaginez recevoir dans un quart de siècle, lors du 400e anniversaire de Montréal, une carte postale originale écrite par un Montréalais témoin des festivités du 375e&#8230;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/les-postes-du-futur/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/les-postes-du-futur/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Perfix Inc. Casiers, Vestiaires &#038; Armoires de métal</title>
-		<link>https://racheletmichel.com/portfolio-items/perfix-inc-casiers-vestiaires-armoires-de-metal</link>
-				<comments>https://racheletmichel.com/portfolio-items/perfix-inc-casiers-vestiaires-armoires-de-metal#respond</comments>
+		<link>/portfolio-items/perfix-inc-casiers-vestiaires-armoires-de-metal</link>
+				<comments>/portfolio-items/perfix-inc-casiers-vestiaires-armoires-de-metal#respond</comments>
 				<pubDate>Thu, 26 Jan 2017 15:32:54 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -53,13 +53,13 @@
 				<description><![CDATA[Vidéo promotionnelle pour Perfix, une entreprise de vestiaires et de mobilier métallique de haute qualité.]]></description>
 								<content:encoded><![CDATA[<p>Vidéo promotionnelle pour Perfix, une entreprise de vestiaires et de mobilier métallique de haute qualité.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/perfix-inc-casiers-vestiaires-armoires-de-metal/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/perfix-inc-casiers-vestiaires-armoires-de-metal/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>École des entrepreneurs de Mtl</title>
-		<link>https://racheletmichel.com/portfolio-items/11430</link>
-				<comments>https://racheletmichel.com/portfolio-items/11430#respond</comments>
+		<link>/portfolio-items/11430</link>
+				<comments>/portfolio-items/11430#respond</comments>
 				<pubDate>Wed, 30 Nov 2016 15:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -73,13 +73,13 @@
 <p>-Une vidéo réalisée par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991" data-hovercard-prefer-more-content-show="1">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11430/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11430/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Ulio 3d</title>
-		<link>https://racheletmichel.com/portfolio-items/11448</link>
-				<comments>https://racheletmichel.com/portfolio-items/11448#respond</comments>
+		<link>/portfolio-items/11448</link>
+				<comments>/portfolio-items/11448#respond</comments>
 				<pubDate>Thu, 26 Jan 2017 15:48:29 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -87,13 +87,13 @@
 				<description><![CDATA[Dessinez imprimez et assemblez ULIO dans le makerspace de votre école et du même coup équipez vos classes avec des nouvelles imprimantes 3D.]]></description>
 								<content:encoded><![CDATA[<p>Dessinez imprimez et assemblez ULIO dans le makerspace de votre école et du même coup équipez vos classes avec des nouvelles imprimantes 3D.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11448/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11448/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Clinique GO : services à domicile</title>
-		<link>https://racheletmichel.com/portfolio-items/clinique-go-services-a-domicile</link>
-				<comments>https://racheletmichel.com/portfolio-items/clinique-go-services-a-domicile#respond</comments>
+		<link>/portfolio-items/clinique-go-services-a-domicile</link>
+				<comments>/portfolio-items/clinique-go-services-a-domicile#respond</comments>
 				<pubDate>Tue, 02 Aug 2016 13:41:45 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -101,13 +101,13 @@
 				<description><![CDATA[Réalisation d&#8217;un court clip pour Clinique GO, une entreprise de Montréal qui offre des services en santé à domicile et en entreprise.]]></description>
 								<content:encoded><![CDATA[<p>Réalisation d&rsquo;un court clip pour Clinique GO, une entreprise de Montréal qui offre des services en santé à domicile et en entreprise.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/clinique-go-services-a-domicile/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/clinique-go-services-a-domicile/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Portraits d&#8217;entrepreneurs en sociofinancement</title>
-		<link>https://racheletmichel.com/portfolio-items/sociofinancement</link>
-				<comments>https://racheletmichel.com/portfolio-items/sociofinancement#respond</comments>
+		<link>/portfolio-items/sociofinancement</link>
+				<comments>/portfolio-items/sociofinancement#respond</comments>
 				<pubDate>Mon, 27 Jun 2016 17:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -122,26 +122,26 @@
 <p class="watch-title-container"><strong><span id="eow-title" class="watch-title" dir="ltr" title="Sociofinancement : le cas d'Ubios">Sociofinancement : le cas d&rsquo;Ubios</span></strong></p>
 <p><iframe src="https://www.youtube.com/embed/2Y4dZHHyv9g" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/sociofinancement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/sociofinancement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>JMSB Advanced Management Program</title>
-		<link>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program</link>
-				<comments>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program#respond</comments>
+		<link>/portfolio-items/jmsb-advanced-management-program</link>
+				<comments>/portfolio-items/jmsb-advanced-management-program#respond</comments>
 				<pubDate>Fri, 01 Apr 2016 15:14:05 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
 		<guid isPermaLink="false">/?post_type=avada_portfolio&#038;p=11198</guid>
 				<description><![CDATA[]]></description>
 								<content:encoded><![CDATA[]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/jmsb-advanced-management-program/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/jmsb-advanced-management-program/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Le Guide d&#8217;animation Relations NETtes</title>
-		<link>https://racheletmichel.com/portfolio-items/le-guide-danimation-relations-nettes</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-guide-danimation-relations-nettes#respond</comments>
+		<link>/portfolio-items/le-guide-danimation-relations-nettes</link>
+				<comments>/portfolio-items/le-guide-danimation-relations-nettes#respond</comments>
 				<pubDate>Fri, 26 Feb 2016 18:49:10 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -149,13 +149,13 @@
 				<description><![CDATA[Le Y des femmes de Montréal présente le Guide d’animation Relations NETtes, conçu pour les personnes travaillant avec les jeunes de 14 à 17 ans afin de les sensibiliser au cyberharcèlement. Ce guide, disponible en ligne gratuitement, à été élaboré par les services jeunesse pour permettre aux intervenantes et intervenants d’aider les jeunes à comprendre [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Le Y des femmes de Montréal présente le Guide d’animation Relations NETtes, conçu pour les personnes travaillant avec les jeunes de 14 à 17 ans afin de les sensibiliser au cyberharcèlement. Ce guide, disponible en ligne gratuitement, à été élaboré par les services jeunesse pour permettre aux intervenantes et intervenants d’aider les jeunes à comprendre le cyberharcèlement à l’aide d’un atelier de sensibilisation et d’un projet de groupe.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-guide-danimation-relations-nettes/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-guide-danimation-relations-nettes/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Soirée 30e anniversaire au SAJE</title>
-		<link>https://racheletmichel.com/portfolio-items/30anssaje</link>
-				<comments>https://racheletmichel.com/portfolio-items/30anssaje#respond</comments>
+		<link>/portfolio-items/30anssaje</link>
+				<comments>/portfolio-items/30anssaje#respond</comments>
 				<pubDate>Tue, 24 Nov 2015 17:38:11 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -163,13 +163,13 @@
 				<description><![CDATA[Le SAJE célébrait ses 30 ans d&#8217;accompagnement et de formation le 21 octobre 2015 avec ses partenaires, entrepreneurs et autres collaborateurs. Une belle soirée pour souligner nos réussites et parler de grands projets d&#8217;avenir!]]></description>
 								<content:encoded><![CDATA[<p>Le SAJE célébrait ses 30 ans d&rsquo;accompagnement et de formation le 21 octobre 2015 avec ses partenaires, entrepreneurs et autres collaborateurs. Une belle soirée pour souligner nos réussites et parler de grands projets d&rsquo;avenir!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/30anssaje/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/30anssaje/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Paragym présente les soirées Playnights</title>
-		<link>https://racheletmichel.com/portfolio-items/paragym</link>
-				<comments>https://racheletmichel.com/portfolio-items/paragym#respond</comments>
+		<link>/portfolio-items/paragym</link>
+				<comments>/portfolio-items/paragym#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 17:40:34 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -178,7 +178,7 @@
 								<content:encoded><![CDATA[<p>Paragym playnights are electro acrobatic party nights with Dj, performances, food, drinks and lots of fooling around!<br />
 Les soirées &laquo;&nbsp;Playnights&nbsp;&raquo; de Paragym sont des partys acrobatique, electronique avec DJ, performance, bouffe, boisson et beaucoup de niaiserie!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/paragym/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/paragym/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

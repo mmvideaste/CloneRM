@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Entrepreneuriat &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/entrepreneuriat/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/entrepreneuriat/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Entrepreneuriat &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Lancement de l&#8217;école des entrepreneurs de Montréal</title>
-		<link>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
-				<comments>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
+		<link>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
+				<comments>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
 				<pubDate>Mon, 12 Dec 2016 16:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,13 +40,13 @@
 								<content:encoded><![CDATA[<p>Le 29 novembre 2016, l&rsquo; <a class="profileLink" href="https://www.facebook.com/eemtl/" data-hovercard="/ajax/hovercard/page.php?id=335768596757308" data-hovercard-prefer-more-content-show="1">École des entrepreneurs I Mtl &#8211; EEMtl</a> était inaugurée par le SAJE et avec ses partenaires et quelques personnalités du milieu entrepreneurial montréalais.</p>
 <p>Vivez ce moment marquant comme si vous y étiez!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>École des entrepreneurs de Mtl</title>
-		<link>https://racheletmichel.com/portfolio-items/11430</link>
-				<comments>https://racheletmichel.com/portfolio-items/11430#respond</comments>
+		<link>/portfolio-items/11430</link>
+				<comments>/portfolio-items/11430#respond</comments>
 				<pubDate>Wed, 30 Nov 2016 15:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -60,13 +60,13 @@
 <p>-Une vidéo réalisée par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991" data-hovercard-prefer-more-content-show="1">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11430/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11430/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Elle faisait quoi la CDEC ? Ils racontent leur expérience&#8230;</title>
-		<link>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience</link>
-				<comments>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience#respond</comments>
+		<link>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience</link>
+				<comments>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience#respond</comments>
 				<pubDate>Wed, 16 Nov 2016 19:36:07 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -75,13 +75,13 @@
 								<content:encoded><![CDATA[<p>La CDEC a fermé ses portes en 2015 après 30 ans de travail sur le terrain. Des entrepreneurs, partenaires et employés racontent l&rsquo;expérience CDEC.<br />
 Découvrez l&rsquo;approche CDEC grâce à la publication : &nbsp;&raquo;L&rsquo; audace de développer autrement. Quand l&rsquo;économie sort de sa boîte&nbsp;&raquo; : bit.ly/2dXmCix</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>SAJE : portraits d&#8217;entrepreneurs</title>
-		<link>https://racheletmichel.com/portfolio-items/saje-entrepreneurs</link>
-				<comments>https://racheletmichel.com/portfolio-items/saje-entrepreneurs#respond</comments>
+		<link>/portfolio-items/saje-entrepreneurs</link>
+				<comments>/portfolio-items/saje-entrepreneurs#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 16:38:28 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -94,13 +94,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>vidéo réalisé par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Conférence-causerie avec Mariouche Gagné, Harricana</title>
-		<link>https://racheletmichel.com/portfolio-items/conference-mariouche-gagne-harricana</link>
-				<comments>https://racheletmichel.com/portfolio-items/conference-mariouche-gagne-harricana#respond</comments>
+		<link>/portfolio-items/conference-mariouche-gagne-harricana</link>
+				<comments>/portfolio-items/conference-mariouche-gagne-harricana#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 17:20:16 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -109,13 +109,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 								<content:encoded><![CDATA[<p>Série de conférence-causerie &laquo;&nbsp;Entrepreneurs en résidence &nbsp;&raquo; avec Mariouche Gagné, Harricana</p>
 <p>Depuis 19 ans, la Fondation aide les jeunes entrepreneurs à démarrer leur entreprise. Nous comptons donc plusieurs entrepreneurs à succès parmi nos lauréats. Pour notre premier atelier de la nouvelle série « Entrepreneurs en résidence », la Fondation a offert la chance à ses lauréats et à d&rsquo;autres entrepreneurs de rencontrer Mariouche Gagné, fondatrice de la marque Harricana et lauréate 1996. Sous le thème &laquo;&nbsp;Comment utiliser sa marque efficacement&nbsp;&raquo;, elle a présenté comment elle a démarré les activités d’exportation d’Harricana, les défis qu&rsquo;elles a rencontré et les solutions qu&rsquo;elles a mises de l&rsquo;avant.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/conference-mariouche-gagne-harricana/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/conference-mariouche-gagne-harricana/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Gala de remise de bourses du concours &#171;&#160;Entrepreneurs audacieux recherchés&#160;&#187;</title>
-		<link>https://racheletmichel.com/portfolio-items/gala-cdec</link>
-				<comments>https://racheletmichel.com/portfolio-items/gala-cdec#respond</comments>
+		<link>/portfolio-items/gala-cdec</link>
+				<comments>/portfolio-items/gala-cdec#respond</comments>
 				<pubDate>Thu, 01 Oct 2015 19:53:32 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -123,13 +123,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.]]></description>
 								<content:encoded><![CDATA[<p>C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/gala-cdec/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/gala-cdec/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Entrepreneures de demain &#8211; Automne 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/ydesfemmes</link>
-				<comments>https://racheletmichel.com/portfolio-items/ydesfemmes#respond</comments>
+		<link>/portfolio-items/ydesfemmes</link>
+				<comments>/portfolio-items/ydesfemmes#respond</comments>
 				<pubDate>Tue, 03 Mar 2015 14:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -137,13 +137,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Les services jeunesse du Y des femmes de Montréal sont fiers de présenter cette vidéo au sujet de la formation Entrepreneures de demain. Cet atelier vise à diversifier le choix de carrières des participantes et à promouvoir la place des femmes dans les métiers à majorité masculine. Réalisation : Rachel et Michel]]></description>
 								<content:encoded><![CDATA[<p>Les services jeunesse du Y des femmes de Montréal sont fiers de présenter cette vidéo au sujet de la formation Entrepreneures de demain. Cet atelier vise à diversifier le choix de carrières des participantes et à promouvoir la place des femmes dans les métiers à majorité masculine. Réalisation : Rachel et Michel</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/ydesfemmes/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/ydesfemmes/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Aguiche &#124; StartupFest 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/startupfest-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/startupfest-2014#respond</comments>
+		<link>/portfolio-items/startupfest-2014</link>
+				<comments>/portfolio-items/startupfest-2014#respond</comments>
 				<pubDate>Tue, 10 Feb 2015 14:56:19 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -154,13 +154,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>L’événement comprend des conférences, des sessions interactives, des leçons enrichissantes, et une bonne dose d&rsquo;irrévérence. Nous faisons partie des gens qui déplorent les conférences d&rsquo;affaires ennuyeuses. C&rsquo;est pour cette raison que nous avons soigneusement conçu une ambiance qui encourage l’interaction &#8211; avec des hamacs sur le site, plusieurs lieux de rencontres et un Village de tentes &#8211; tout en profitant de la délicieuse bouffe de rue, accompagnée d’une bière pour vous garder au frais dans la chaleur estivale de Montréal.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/startupfest-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/startupfest-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>RDV REM 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/rdv-rem-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/rdv-rem-2014#respond</comments>
+		<link>/portfolio-items/rdv-rem-2014</link>
+				<comments>/portfolio-items/rdv-rem-2014#respond</comments>
 				<pubDate>Fri, 07 Nov 2014 16:40:16 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -169,13 +169,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Le Rendez-vous des professionnels de l’entrepreneuriat, 6e édition. « Best of » Montréal: l’avis de nos entrepreneurs.</p>
 <p style="color: #7d7d7d;">Avec Vincent Chapdelaine (Espaces temps), Ethan Song (Frank &amp; Oak), Sophie Boulanger (Bon look), Fabrice Vil (Pour 3 points), Louis-Philippe Maurice (Busbud) et Noémie Dupuy (Budge Studios).</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/rdv-rem-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/rdv-rem-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Concours québécois en entrepreneuriat</title>
-		<link>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
-				<comments>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
+		<link>/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
+				<comments>/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:55:58 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -183,7 +183,7 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Capsule promotionnelle pour le Concours québécois en entrepreneuriat &#124; Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.]]></description>
 								<content:encoded><![CDATA[<p>Capsule promotionnelle pour le Concours québécois en entrepreneuriat | Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

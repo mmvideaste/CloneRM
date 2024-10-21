@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Clinique Go &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/clinique-go/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/clinique-go/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Clinique Go &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Clinique GO : services à domicile</title>
-		<link>https://racheletmichel.com/portfolio-items/clinique-go-services-a-domicile</link>
-				<comments>https://racheletmichel.com/portfolio-items/clinique-go-services-a-domicile#respond</comments>
+		<link>/portfolio-items/clinique-go-services-a-domicile</link>
+				<comments>/portfolio-items/clinique-go-services-a-domicile#respond</comments>
 				<pubDate>Tue, 02 Aug 2016 13:41:45 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,7 +39,7 @@
 				<description><![CDATA[Réalisation d&#8217;un court clip pour Clinique GO, une entreprise de Montréal qui offre des services en santé à domicile et en entreprise.]]></description>
 								<content:encoded><![CDATA[<p>Réalisation d&rsquo;un court clip pour Clinique GO, une entreprise de Montréal qui offre des services en santé à domicile et en entreprise.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/clinique-go-services-a-domicile/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/clinique-go-services-a-domicile/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

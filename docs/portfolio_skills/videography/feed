@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Video &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_skills/videography/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_skills/videography/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Video &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Ensemble neuf mois : extraits</title>
-		<link>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits</link>
-				<comments>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits#respond</comments>
+		<link>/portfolio-items/ensemble-neuf-mois-extraits</link>
+				<comments>/portfolio-items/ensemble-neuf-mois-extraits#respond</comments>
 				<pubDate>Tue, 02 Aug 2016 14:37:59 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -50,13 +50,13 @@
 <div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="https://www.youtube.com/embed/qF7hmwu-jFw?wmode=transparent" width="600" height="350" frameborder="0" allowfullscreen></iframe></div></div>
 <div class="fusion-video fusion-youtube" style="max-width:600px;max-height:350px;"><div class="video-shortcode"><iframe title="YouTube video player" src="https://www.youtube.com/embed/v4gqd6VRW54?wmode=transparent" width="600" height="350" frameborder="0" allowfullscreen></iframe></div></div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois-extraits/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/ensemble-neuf-mois-extraits/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Bande démo</title>
-		<link>https://racheletmichel.com/portfolio-items/demo-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/demo-2014#respond</comments>
+		<link>/portfolio-items/demo-2014</link>
+				<comments>/portfolio-items/demo-2014#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:52:38 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -64,13 +64,13 @@
 				<description><![CDATA[Voici notre démo pour l’année 2014, résumant en une minute nos projets.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Voici notre démo résumant en une minute nos projets.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/demo-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/demo-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Concours québécois en entrepreneuriat</title>
-		<link>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
-				<comments>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
+		<link>/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
+				<comments>/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:55:58 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -78,13 +78,13 @@
 				<description><![CDATA[Capsule promotionnelle pour le Concours québécois en entrepreneuriat &#124; Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.]]></description>
 								<content:encoded><![CDATA[<p>Capsule promotionnelle pour le Concours québécois en entrepreneuriat | Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>L&#8217;arrivée du Père Noël sur la Promenade Wellington</title>
-		<link>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington</link>
-				<comments>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington#respond</comments>
+		<link>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington</link>
+				<comments>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:07:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -92,13 +92,13 @@
 				<description><![CDATA[Courte vidéo présentant l’arrivée du Père-Noël sur la Promenade Wellington, à Verdun. Réalisée pour la SDC Wellington.]]></description>
 								<content:encoded><![CDATA[<p>Courte vidéo présentant l’arrivée du Père-Noël sur la Promenade Wellington, à Verdun. Réalisée pour la SDC Wellington.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Montagne-Art &#124; exposition multidisciplinaire</title>
-		<link>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire</link>
-				<comments>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire#respond</comments>
+		<link>/portfolio-items/montagne-art-exposition-multidisciplinaire</link>
+				<comments>/portfolio-items/montagne-art-exposition-multidisciplinaire#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 14:59:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -106,13 +106,13 @@
 				<description><![CDATA[Montagne-Art est une exposition multidisciplinaire qui allie les arts visuels, les métiers d’art et l’art gourmand, à St-Hyppolite. Dans un décor enchanteur et champêtre, Montagne-Art reçoit près de 30 exposants, artistes, artisans, réunis sous un immense chapiteau.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Montagne-Art est une exposition multidisciplinaire qui allie les arts visuels, les métiers d’art et l’art gourmand, à St-Hyppolite. Dans un décor enchanteur et champêtre, Montagne-Art reçoit près de 30 exposants, artistes, artisans, réunis sous un immense chapiteau.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/montagne-art-exposition-multidisciplinaire/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Rencontre avec Ana Gerhard (Le chant des oiseaux)</title>
-		<link>https://racheletmichel.com/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux</link>
-				<comments>https://racheletmichel.com/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux#respond</comments>
+		<link>/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux</link>
+				<comments>/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:14:15 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -125,7 +125,7 @@ Illustrations – Cecilia Varela<br />
 Depuis toujours, les oiseaux ont captivé l’imagination des compositeurs et les ont inspirés. Des œuvres de Mozart, de Tchaïkovski, de Vivaldi et d’autres compositeurs font connaître la musique classique aux enfants par la découverte de similarités mélodiques entre les chants des oiseaux et les notes produites par des instruments comme la flûte, l’orgue et le clavecin. Merveilleusement illustré, le livre contient également un glossaire de termes musicaux, une courte biographie des compositeurs et une brève description de chaque oiseau évoqué dans les compositions.<br />
 Réalisation de la vidéo : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/rencontre-avec-ana-gerhard-le-chant-des-oiseaux/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
