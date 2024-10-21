@@ -7916,9 +7916,6 @@ function ytVidId(url) {
 
 jQuery(document).ready(function() {
 	jQuery('.faq-tabs ').hide();
-	if(jQuery('.portfolio').length >= 1) {
-		jQuery('#content').append('<div class="loading-container"><img src="' + js_local_vars.theme_url + '/images/loading.gif' + '" alt="Loading..."><div class="loading-msg">'+js_local_vars.portfolio_loading_text+'</div>');
-	}
 	if(jQuery('.faqs').length >= 1) {
 		jQuery('#content').append('<div class="loading-container"><img src="' + js_local_vars.theme_url + '/images/loading.gif' + '" alt="Loading..."><div class="loading-msg">'+js_local_vars.faqs_loading_text+'</div>');
 	}
