@@ -1496,7 +1496,7 @@ body #sidebar .tab-hold .tabs li.active a, body #sidebar .pyre_tabs .tab-holder 
   ga('create', 'UA-27004835-1', 'auto');
   ga('send', 'pageview');
 
-</script></head>
+</script><link rel="stylesheet" href="/css/my.css?token={{ site.time | date: '%s' }}"></head>
 <body class="archive tax-portfolio_tags term-ubios term-396 no-tablet-sticky-header no-mobile-sticky-header no-mobile-totop" data-spy="scroll">
 	<div id="wrapper" class="">
 		<div id="slidingbar-area">
@@ -1543,19 +1543,7 @@ body #sidebar .tab-hold .tabs li.active a, body #sidebar .pyre_tabs .tab-holder 
 						<nav id="nav" class="nav-holder">
 							<ul class="navigation menu fusion-navbar-nav">
 	<li id="menu-item-10307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10307"><a    href="../portefolio.html">Portefolio</a></li>
-<li id="menu-item-10327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10327 fusion-megamenu-menu"><a    href="../forfaits.html">Forfaits vidéo <span class="caret"></span></a>
-<div class='fusion-megamenu-wrapper columns-3 col-span-3 container'><div class='row'>
-
-<ul class="fusion-megamenu-holder" >
-<ul class='fusion-megamenu '>
-	<li id="menu-item-11334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11334 fusion-megamenu-submenu fusion-megamenu-columns-3 col-lg-4 col-md-4 col-sm-4"><h3 class='fusion-megamenu-title'><a href="../video-de-sociofinancement.html">Vidéo de sociofinancement</a></h3></li>
-	<li id="menu-item-11153" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11153 fusion-megamenu-submenu fusion-megamenu-columns-3 col-lg-4 col-md-4 col-sm-4"><h3 class='fusion-megamenu-title'><a href="../abonnement-mensuel.html">Abonnement vidéo mensuel</a></h3></li>
-	<li id="menu-item-11186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11186 fusion-megamenu-submenu fusion-megamenu-columns-3 col-lg-4 col-md-4 col-sm-4"><h3 class='fusion-megamenu-title'><a href="../forfaits-evenementiels.html">Forfaits événementiels</a></h3></li>
-
-</ul>
-</ul><div style='clear:both;'></div>
-</div>
-</div>
+<li id="menu-item-10327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10327 fusion-megamenu-menu">{% include menu_item_forfaits.html %}
 </li>
 <li id="menu-item-10319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10319"><a    href="../formations-video.html">Formations vidéo</a></li>
 <li id="menu-item-10495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10495"><a    href="../contact.html">Contactez-nous</a></li>
@@ -1647,7 +1635,7 @@ body #sidebar .tab-hold .tabs li.active a, body #sidebar .pyre_tabs .tab-holder 
 		<div class="avada-row">
 			<div class="copyright-area-content">
 				<div class="copyright">
-					<div>© 2023 Michel et Michel, vidéaste | Tous droits réservés </div>
+					<div>© <span class="my-year"></span> Michel et Michel, vidéaste | Tous droits réservés </div>
 				</div>
 								<div class="fusion-social-links-footer">
 					<div class="fusion-social-networks"><a class="fusion-social-network-icon fusion-tooltip fusion-facebook icon-facebook" style="color:#ffffff;" href="https://www.facebook.com/Micheletmichelvideaste" target="_blank" data-placement="top" data-title="Facebook" data-toggle="tooltip"></a><a class="fusion-social-network-icon fusion-tooltip fusion-twitter icon-twitter" style="color:#ffffff;" href="https://twitter.com/deSilvaMichel1" target="_blank" data-placement="top" data-title="Twitter" data-toggle="tooltip"></a><a class="fusion-social-network-icon fusion-tooltip fusion-vimeo icon-vimeo" style="color:#ffffff;" href="https://vimeo.com/user9202571" target="_blank" data-placement="top" data-title="Vimeo" data-toggle="tooltip"></a><a class="fusion-social-network-icon fusion-tooltip fusion-youtube icon-youtube" style="color:#ffffff;" href="https://www.youtube.com/@micheletmichelvideaste" target="_blank" data-placement="top" data-title="Youtube" data-toggle="tooltip"></a><a class="fusion-social-network-icon fusion-tooltip fusion-instagram icon-instagram" style="color:#ffffff;" href="https://www.instagram.com/ulysse_33/" target="_blank" data-placement="top" data-title="Instagram" data-toggle="tooltip"></a><a class="fusion-social-network-icon fusion-tooltip fusion-linkedin icon-linkedin" style="color:#ffffff;" href="https://www.linkedin.com/in/michel-de-silva-49a73261" target="_blank" data-placement="top" data-title="Linkedin" data-toggle="tooltip"></a></div>				</div>
@@ -1684,7 +1672,7 @@ var js_local_vars = {"theme_url":"https:\/\/racheletmichel.com\/wp-content\/them
 	<!--[if lte IE 8]>
 	<script type="text/javascript" src="https://racheletmichel.com/wp-content/themes/Avada/js/respond.js"></script>
 	<![endif]-->
-</body>
+<script type='text/javascript' src='/scripts/my.js?token={{ site.time | date: '%s' }}'></script></body>
 
 <!-- Mirrored from racheletmichel.com/portfolio_tags/ubios by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 20 Oct 2023 22:09:42 GMT -->
 </html>
