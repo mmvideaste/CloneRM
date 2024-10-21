@@ -9,7 +9,7 @@
 
 <channel>
 	<title>entrepreneurs audacieux recherchés &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/entrepreneurs-audacieux-recherches/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/entrepreneurs-audacieux-recherches/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>entrepreneurs audacieux recherchés &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Gala Entrepreneurs audacieux recherchés</title>
-		<link>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches</link>
-				<comments>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches#respond</comments>
+		<link>/portfolio-items/gala-entrepreneurs-audacieux-recherches</link>
+				<comments>/portfolio-items/gala-entrepreneurs-audacieux-recherches#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 16:25:20 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -48,13 +48,13 @@ Soutenu par : Arrondissement de Ville-Marie, centre-ville, Arrondissement du Pla
 Partenaires de prix : Les Industries Poly Inc., Brouillette + Associés, Communauto</p>
 <p>Vidéo réalisée par : Rachel et Michel</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/gala-entrepreneurs-audacieux-recherches/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Gala de remise de bourses du concours &#171;&#160;Entrepreneurs audacieux recherchés&#160;&#187;</title>
-		<link>https://racheletmichel.com/portfolio-items/gala-cdec</link>
-				<comments>https://racheletmichel.com/portfolio-items/gala-cdec#respond</comments>
+		<link>/portfolio-items/gala-cdec</link>
+				<comments>/portfolio-items/gala-cdec#respond</comments>
 				<pubDate>Thu, 01 Oct 2015 19:53:32 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -62,7 +62,7 @@ Partenaires de prix : Les Industries Poly Inc., Brouillette + Associés, Communa
 				<description><![CDATA[C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.]]></description>
 								<content:encoded><![CDATA[<p>C’est au Cabaret du Lion d’Or, le 4 juin 2014, que la Corporation de développement économique communautaire (CDEC) Centre-Sud / Plateau Mont-Royal, en partenariat avec Desjardins, a officiellement clôturé la première édition du concours.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/gala-cdec/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/gala-cdec/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

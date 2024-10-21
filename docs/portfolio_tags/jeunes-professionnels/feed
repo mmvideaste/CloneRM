@@ -9,7 +9,7 @@
 
 <channel>
 	<title>jeunes professionnels &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/jeunes-professionnels/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/jeunes-professionnels/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>jeunes professionnels &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Faites-vous partie des 300 ?</title>
-		<link>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300</link>
-				<comments>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300#respond</comments>
+		<link>/portfolio-items/faites-vous-partie-des-300</link>
+				<comments>/portfolio-items/faites-vous-partie-des-300#respond</comments>
 				<pubDate>Mon, 24 Nov 2014 21:22:04 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -44,7 +44,7 @@
 Something Shiny par The Gulf Stream<br />
 http://thegulfstream.bandcamp.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/faites-vous-partie-des-300/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

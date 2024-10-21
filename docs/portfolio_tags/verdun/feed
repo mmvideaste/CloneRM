@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Verdun &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/verdun/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/verdun/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,61 +22,61 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Verdun &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Festival Marionnettes plein la Rue &#124; 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2014#respond</comments>
+		<link>/portfolio-items/festival-marionnettes-plein-la-rue-2014</link>
+				<comments>/portfolio-items/festival-marionnettes-plein-la-rue-2014#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:13:52 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10626</guid>
 				<description><![CDATA[Offert par les marchands de la Promenade Wellington, ce festival présente différentes troupes de marionnettistes professionnels ayant le plaisir d’offrir plus de 30 représentations gratuites en plein air.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Offert par les marchands de la Promenade Wellington, ce festival présente différentes troupes de marionnettistes professionnels ayant le plaisir d’offrir plus de 30 représentations gratuites en plein air.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/festival-marionnettes-plein-la-rue-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Érablière Panache et bois rond</title>
-		<link>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond</link>
-				<comments>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond#respond</comments>
+		<link>/portfolio-items/erabliere-panache-et-bois-rond</link>
+				<comments>/portfolio-items/erabliere-panache-et-bois-rond#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:06:33 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10619</guid>
 				<description><![CDATA[L’Érablière Panache et bois rond accueille une quinzaine de restaurateurs qui offrent leur interprétation de mets typiques d’une Cabane à Sucre, entre les rues De l’Église et Gordon, à Verdun.Tire sur neige et menu gastronomique, préparé spécialement pour l’occasion par les chefs de la Promenade Wellington (Blackstrap BBQ, Tripes &#38; Caviar, restaurant Wellington, Boulangerie Sweet [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #a0a0a0;">L’Érablière Panache et bois rond accueille une quinzaine de restaurateurs qui offrent leur interprétation de mets typiques d’une Cabane à Sucre, entre les rues De l’Église et Gordon, à Verdun.</span><br style="color: #a0a0a0;" /><span style="color: #a0a0a0;">Tire sur neige et menu gastronomique, préparé spécialement pour l’occasion par les chefs de la Promenade Wellington (Blackstrap BBQ, Tripes &amp; Caviar, restaurant Wellington, Boulangerie Sweet Lee’s…) et leurs invités, ont su combler les bucherons les plus affamés. Fèves et bacon confit à l’érable, sucre à la crème, cretons de bœuf Wagyu du Québec, charcuteries et moutarde à l’érable ne sont qu’un bref aperçu de la trentaine de bouchées qui ont été offertes au format dégustation pour 2$ ou 4$.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/erabliere-panache-et-bois-rond/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Caisse Desjardins de Verdun &#124; AGA</title>
-		<link>https://racheletmichel.com/portfolio-items/caisse-desjardins-de-verdun-aga</link>
-				<comments>https://racheletmichel.com/portfolio-items/caisse-desjardins-de-verdun-aga#respond</comments>
+		<link>/portfolio-items/caisse-desjardins-de-verdun-aga</link>
+				<comments>/portfolio-items/caisse-desjardins-de-verdun-aga#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:32:33 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10604</guid>
 				<description><![CDATA[Rachel et Michel ont été mandatés par la Caisse Desjardins de Verdun pour réaliser une courte capsule de leur AGA, ayant eu lieu le 23 avril dernier. Visionnez ici les faits saillants :]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Rachel et Michel ont été mandatés par la Caisse Desjardins de Verdun pour réaliser une courte capsule de leur AGA, ayant eu lieu le 23 avril dernier. Visionnez ici les faits saillants :</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/caisse-desjardins-de-verdun-aga/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/caisse-desjardins-de-verdun-aga/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Pro-Actif Santé : le personnel</title>
-		<link>https://racheletmichel.com/portfolio-items/pro-actif-sante-le-personnel</link>
-				<comments>https://racheletmichel.com/portfolio-items/pro-actif-sante-le-personnel#respond</comments>
+		<link>/portfolio-items/pro-actif-sante-le-personnel</link>
+				<comments>/portfolio-items/pro-actif-sante-le-personnel#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 17:48:16 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10588</guid>
 				<description><![CDATA[Réalisation de huit capsules présentant des membres du personnel de Pro-Actif Santé. Sonia Duquette – Zumba et cross training Aude Rioland – Pilates et yoga Jean-Pierre Saulnier, Kinesiologue – Cross Training Cynthia Desrochers – Yoga et yoga maman-bébé Francine Tremblay – Maman-Bébé Pauline St-Pierre – Pilates et yoga]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Réalisation de huit capsules présentant des membres du personnel de Pro-Actif Santé.</span></p>
@@ -93,61 +93,61 @@
 <h3>Pauline St-Pierre – Pilates et yoga<br />
 <iframe src="//www.youtube.com/embed/mjNP2WB8HRo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h3>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/pro-actif-sante-le-personnel/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/pro-actif-sante-le-personnel/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>L&#8217;arrivée du Père Noël sur la Promenade Wellington</title>
-		<link>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington</link>
-				<comments>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington#respond</comments>
+		<link>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington</link>
+				<comments>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:07:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10462</guid>
 				<description><![CDATA[Courte vidéo présentant l’arrivée du Père-Noël sur la Promenade Wellington, à Verdun. Réalisée pour la SDC Wellington.]]></description>
 								<content:encoded><![CDATA[<p>Courte vidéo présentant l’arrivée du Père-Noël sur la Promenade Wellington, à Verdun. Réalisée pour la SDC Wellington.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Studio Artease</title>
-		<link>https://racheletmichel.com/portfolio-items/studio-artease</link>
-				<comments>https://racheletmichel.com/portfolio-items/studio-artease#respond</comments>
+		<link>/portfolio-items/studio-artease</link>
+				<comments>/portfolio-items/studio-artease#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:31:22 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10568</guid>
 				<description><![CDATA[En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012. Dans cette capsule,  Érika Doyon nous parle de sa passion pour l’art et les tatouages, de son parcours et de sa vision pour le futur de [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">En collaboration avec le CLD de Verdun, Rachel et Michel ont réalisé quatre capsules présentant quatre jeunes entrepreneurs de Verdun, qui ont obtenu la bourse Jeunes Promoteurs en 2012.</p>
 <p style="color: #7d7d7d;">Dans cette capsule,  Érika Doyon nous parle de sa passion pour l’art et les tatouages, de son parcours et de sa vision pour le futur de son entreprise.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/studio-artease/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/studio-artease/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Festival Marionnettes Plein la Rue &#124; 2013</title>
-		<link>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2013</link>
-				<comments>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2013#respond</comments>
+		<link>/portfolio-items/festival-marionnettes-plein-la-rue-2013</link>
+				<comments>/portfolio-items/festival-marionnettes-plein-la-rue-2013#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 15:58:02 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10553</guid>
 				<description><![CDATA[Un aperçu de cette troisième édition haute en couleurs! Festival Marionnettes Plein la Rue 24 et 25 août 2013, Promenade Wellington, Verdun, Montréal. Réalisé par racheletmichel.com]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Un aperçu de cette troisième édition haute en couleurs!</p>
 <p style="color: #7d7d7d;">Festival Marionnettes Plein la Rue 24 et 25 août 2013, Promenade Wellington, Verdun, Montréal.</p>
 <p style="color: #7d7d7d;">Réalisé par racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2013/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/festival-marionnettes-plein-la-rue-2013/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Érablière Wellington 2013</title>
-		<link>https://racheletmichel.com/portfolio-items/erabliere-wellington-2013</link>
-				<comments>https://racheletmichel.com/portfolio-items/erabliere-wellington-2013#respond</comments>
+		<link>/portfolio-items/erabliere-wellington-2013</link>
+				<comments>/portfolio-items/erabliere-wellington-2013#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 00:48:11 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10518</guid>
 				<description><![CDATA[Les 23 et 24 mars derniers, 8000 à 10 000 personnes se sont déplacées sur la rue Wellington pour participer à la 3e édition de l’Érablière Wellington. Pour l’occasion, plusieurs activités avaient été mises sur pied : jeux et concours de bûcheron, animation, fermette et maquillage pour enfants. De plus, plusieurs restaurateurs de la rue [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Les 23 et 24 mars derniers, 8000 à 10 000 personnes se sont déplacées sur la rue Wellington pour participer à la 3e édition de l’Érablière Wellington. Pour l’occasion, plusieurs activités avaient été mises sur pied : jeux et concours de bûcheron, animation, fermette et maquillage pour enfants. De plus, plusieurs restaurateurs de la rue avaient concocté des petites bouchées inspirées de la cabane à sucre. Parmi ceux-ci nous comptons : MAS Cuisine, Tripes et Caviar, Blackstrap BBQ, Wellington, Café La Tazza, Boulangerie Rustique Sweet Lee’s, Fromagerie Copette et cie, Saint-Henri Micro-torrefacteur, Maison de thé Cha Noir. Bien sûr, la tire sur neige était au rendez-vous! Tout y était pour satisfaire les gourmands!</p>
@@ -155,7 +155,7 @@
 Musique : Patrick Bouchard</p>
 <p style="color: #7d7d7d;">Plus d’informations : www.promenadewellington.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/erabliere-wellington-2013/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/erabliere-wellington-2013/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

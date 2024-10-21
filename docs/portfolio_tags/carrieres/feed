@@ -9,7 +9,7 @@
 
 <channel>
 	<title>carrières &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/carrieres/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/carrieres/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,19 +22,19 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>carrières &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Série de capsules pour la turquoise</title>
-		<link>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise</link>
-				<comments>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise#respond</comments>
+		<link>/portfolio-items/serie-de-capsules-pour-la-turquoise</link>
+				<comments>/portfolio-items/serie-de-capsules-pour-la-turquoise#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 16:44:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10571</guid>
 				<description><![CDATA[Rachel et Michel ont été mandatés pour réaliser une série de huit capsules vidéos pour la turquoise, un cabinet en assurance de dommages œuvrant au Québec et dans l’Est de l’Ontario. Ces capsules présentent des témoignages d’employés et de clients. En voici quelques-unes. Découvrez la série complète ici. &#160; Choisir la carrière de courtier – travailler [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Rachel et Michel ont été mandatés pour réaliser une série de huit capsules vidéos pour la turquoise, un cabinet en assurance de dommages œuvrant au Québec et dans l’Est de l’Ontario.<br />
@@ -50,7 +50,7 @@ Ces capsules présentent des témoignages d’employés et de clients. En voici 
 <h2 id="watch-headline-title" style="font-weight: inherit; font-style: italic; color: #3d3d3d;">Faire carrière à la turquoise &#8211; Courtier sénior</h2>
 <p><iframe width="853" height="480" src="//www.youtube.com/embed/1xo28DBlV9A" frameborder="0" allowfullscreen></iframe></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/serie-de-capsules-pour-la-turquoise/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/serie-de-capsules-pour-la-turquoise/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

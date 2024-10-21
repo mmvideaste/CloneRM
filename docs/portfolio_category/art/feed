@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Art &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/art/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/art/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Art &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>3arts Project</title>
-		<link>https://racheletmichel.com/portfolio-items/3arts-project</link>
-				<comments>https://racheletmichel.com/portfolio-items/3arts-project#respond</comments>
+		<link>/portfolio-items/3arts-project</link>
+				<comments>/portfolio-items/3arts-project#respond</comments>
 				<pubDate>Fri, 07 Nov 2014 16:45:11 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,13 +39,13 @@
 				<description><![CDATA[3arts Project goes into schools, teaches children the skills to get along, captures all the meaningful data, while creating a collective mural. 3 years later, a digital time capsule gets sent back to each student as a reminder of what peaceful interactions meant to them.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #71767a;">3arts Project goes into schools, teaches children the skills to get along, captures all the meaningful data, while creating a collective mural. 3 years later, a digital time capsule gets sent back to each student as a reminder of what peaceful interactions meant to them.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/3arts-project/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/3arts-project/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Captations des spectacles à l&#8217;école Robert-Gravel</title>
-		<link>https://racheletmichel.com/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel</link>
-				<comments>https://racheletmichel.com/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel#respond</comments>
+		<link>/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel</link>
+				<comments>/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel#respond</comments>
 				<pubDate>Fri, 28 Nov 2014 20:57:53 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -55,13 +55,13 @@
 <p>Rachel et Michel a effectué la captation complète des spectacles.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/captations-des-spectacles-a-lecole-robert-gravel/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Performance &#124; Human Playground</title>
-		<link>https://racheletmichel.com/portfolio-items/performance-human-playground</link>
-				<comments>https://racheletmichel.com/portfolio-items/performance-human-playground#respond</comments>
+		<link>/portfolio-items/performance-human-playground</link>
+				<comments>/portfolio-items/performance-human-playground#respond</comments>
 				<pubDate>Tue, 09 Dec 2014 20:07:22 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -82,13 +82,13 @@ Danseurs : Geneviève Gagné, Emily Honegger, Joe Danny Aurélien, Jean- Fran
 Composition musicale : Thomas Pintal<br />
 Vidéo : Rachel et Michel</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/performance-human-playground/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/performance-human-playground/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Faites-vous partie des 300 ?</title>
-		<link>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300</link>
-				<comments>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300#respond</comments>
+		<link>/portfolio-items/faites-vous-partie-des-300</link>
+				<comments>/portfolio-items/faites-vous-partie-des-300#respond</comments>
 				<pubDate>Mon, 24 Nov 2014 21:22:04 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -101,13 +101,13 @@ Vidéo : Rachel et Michel</p>
 Something Shiny par The Gulf Stream<br />
 http://thegulfstream.bandcamp.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/faites-vous-partie-des-300/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Lancement du N°2 de CITTÀ MAGAZINE</title>
-		<link>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine</link>
-				<comments>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine#respond</comments>
+		<link>/portfolio-items/lancement-du-n2-de-citta-magazine</link>
+				<comments>/portfolio-items/lancement-du-n2-de-citta-magazine#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:03:14 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -117,13 +117,13 @@ http://thegulfstream.bandcamp.com</p>
 <p style="color: #7d7d7d;">Fondé en 2012, CITTÀ est un magazine imprimé photographie + culture citadine ayant pour but de mettre Montréal en parallèle avec d’autres métropoles du monde. Par le biais de collaborations inédites avec des rédacteurs, des photographes et des artistes à Montréal et à l’étranger, CITTÀ révèle de nouveaux talents et propose un regard à la fois neuf et inspirant sur le multiculturalisme.</p>
 <p style="color: #7d7d7d;"><span style="font-weight: inherit; font-style: inherit; color: #000000;">Rachel et Michel font partie des fiers partenaires.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/lancement-du-n2-de-citta-magazine/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Tangente &#124; Activité scolaire</title>
-		<link>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire</link>
-				<comments>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire#respond</comments>
+		<link>/portfolio-items/tangente-activite-scolaire</link>
+				<comments>/portfolio-items/tangente-activite-scolaire#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:28:40 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -147,13 +147,13 @@ Concepteur d’éclairage: Paul Chambers</p>
 </div>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/tangente-activite-scolaire/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Montagne-Art &#124; exposition multidisciplinaire</title>
-		<link>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire</link>
-				<comments>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire#respond</comments>
+		<link>/portfolio-items/montagne-art-exposition-multidisciplinaire</link>
+				<comments>/portfolio-items/montagne-art-exposition-multidisciplinaire#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 14:59:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -161,13 +161,13 @@ Concepteur d’éclairage: Paul Chambers</p>
 				<description><![CDATA[Montagne-Art est une exposition multidisciplinaire qui allie les arts visuels, les métiers d’art et l’art gourmand, à St-Hyppolite. Dans un décor enchanteur et champêtre, Montagne-Art reçoit près de 30 exposants, artistes, artisans, réunis sous un immense chapiteau.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Montagne-Art est une exposition multidisciplinaire qui allie les arts visuels, les métiers d’art et l’art gourmand, à St-Hyppolite. Dans un décor enchanteur et champêtre, Montagne-Art reçoit près de 30 exposants, artistes, artisans, réunis sous un immense chapiteau.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/montagne-art-exposition-multidisciplinaire/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>3² = LES DUOS</title>
-		<link>https://racheletmichel.com/portfolio-items/3%c2%b2-les-duos</link>
-				<comments>https://racheletmichel.com/portfolio-items/3%c2%b2-les-duos#respond</comments>
+		<link>/portfolio-items/3%c2%b2-les-duos</link>
+				<comments>/portfolio-items/3%c2%b2-les-duos#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 14:51:39 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -175,13 +175,13 @@ Concepteur d’éclairage: Paul Chambers</p>
 				<description><![CDATA[Aguiche réalisé pour le spectacle 3² = LES DUOS, diffusé par Tangente, laboratoire de mouvements contemporains.Réalisation de l’aguiche : racheletmichel.com3² = LES DUOSChorégraphes et interprètes : Élise Bergeron et Philippe PoirierConception musicale : Gabriel LedouxConception des éclairages : Stéphanie BeaubienetDavid PoissonRépétitrice : Christine CharlesStrictement {a}statique met en scène deux êtres, face à face, yeux dans [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Aguiche réalisé pour le spectacle 3² = LES DUOS, diffusé par Tangente, laboratoire de mouvements contemporains.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Réalisation de l’aguiche : racheletmichel.com</span><br style="color: #7d7d7d;" /><strong style="color: #7d7d7d;">3² = LES DUOS</strong><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Chorégraphes et interprètes : Élise Bergeron et Philippe Poirier</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Conception musicale : Gabriel Ledoux</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Conception des éclairages : Stéphanie BeaubienetDavid Poisson</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Répétitrice : Christine Charles</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Strictement {a}statique met en scène deux êtres, face à face, yeux dans les yeux. Deux corps apprivoisant leur proximité.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Le temps s’écoule, s’allonge, se densifie. Rien. Et tout en même temps.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">La tension monte, les pulsions se font sentir. De l’envie jaillit un sentiment d’interdit.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Le dialogue physique entre les deux êtres s’établit à partir de ce désir inassouvi.</span><br style="color: #7d7d7d;" /><span style="color: #7d7d7d;">Les mouvements, à peine perceptibles, deviennent omniprésents et font naître une tension insoutenable. Les corps s’enveloppent, se fusionnent et s’embrassent sans pour autant se toucher, alors que l’esprit se trouve confronté à la volonté de s’évader, de fuir, d’éclater dans l’espace. La symbiose hermétique et les explosions évasives s’alternent dans une proximité sans cesse changeante.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/3%c2%b2-les-duos/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/3%c2%b2-les-duos/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Pascale Dupré &#124; Artiste-peintre</title>
-		<link>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre</link>
-				<comments>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre#respond</comments>
+		<link>/portfolio-items/pascale-dupre-artiste-peintre</link>
+				<comments>/portfolio-items/pascale-dupre-artiste-peintre#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 14:46:55 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -192,13 +192,13 @@ Concepteur d’éclairage: Paul Chambers</p>
 <a style="font-weight: inherit; font-style: inherit; color: #111111;" href="http://www.pascaledupre.com/" target="_blank" rel="nofollow">pascaledupre.com</a></p>
 <p style="color: #7d7d7d;">Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/pascale-dupre-artiste-peintre/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Scent Stories</title>
-		<link>https://racheletmichel.com/portfolio-items/10535</link>
-				<comments>https://racheletmichel.com/portfolio-items/10535#respond</comments>
+		<link>/portfolio-items/10535</link>
+				<comments>/portfolio-items/10535#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 15:05:40 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -218,7 +218,7 @@ Animatrice de la soirée : Marianna Simeone</p>
 Musique : Quatuor Orphée<br />
 Vêtements : Isabelle Élie Designer</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/10535/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/10535/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

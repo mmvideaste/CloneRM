@@ -9,7 +9,7 @@
 
 <channel>
 	<title>recyclage &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/recyclage/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/recyclage/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,25 +22,25 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>recyclage &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>fripe fabrique &#124; boutique &#038; atelier D.I.Y.</title>
-		<link>https://racheletmichel.com/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y</link>
-				<comments>https://racheletmichel.com/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y#respond</comments>
+		<link>/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y</link>
+				<comments>/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:24:30 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10473</guid>
 				<description><![CDATA[Rachel et Michel ont récemment eu le plaisir de réaliser une courte capsule vidéo promotionnelle pour Fripe Fabrique. Cette nouvelle boutique propose des vêtements de designers indépendants et vintages ainsi qu’un atelier DIY. Pour plus de détails : fripefabrique.com]]></description>
 								<content:encoded><![CDATA[<p>Rachel et Michel ont récemment eu le plaisir de réaliser une courte capsule vidéo promotionnelle pour Fripe Fabrique. Cette nouvelle boutique propose des vêtements de designers indépendants et vintages ainsi qu’un atelier DIY.<br />
 Pour plus de détails : fripefabrique.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/fripe-fabrique-boutique-atelier-d-i-y/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

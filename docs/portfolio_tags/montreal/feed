@@ -9,7 +9,7 @@
 
 <channel>
 	<title>montreal &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/montreal/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/montreal/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>montreal &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Montréal, la ville la plus heureuse au monde</title>
-		<link>https://racheletmichel.com/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde</link>
-				<comments>https://racheletmichel.com/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde#respond</comments>
+		<link>/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde</link>
+				<comments>/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde#respond</comments>
 				<pubDate>Wed, 07 Jun 2017 14:40:49 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,13 +39,13 @@
 				<description><![CDATA[Capsule de sociofinancement pour le projet #Mtllaplusheureuse, qui vise à réaliser un documentaire dans lequel plusieurs personnes expliquent pourquoi elles sont heureuses à Montréal. Le but c&#8217;est de se auto-proclamer, tous ensemble, la ville la plus heureuse au monde.]]></description>
 								<content:encoded><![CDATA[<p>Capsule de sociofinancement pour le projet #Mtllaplusheureuse, qui vise à réaliser un documentaire dans lequel plusieurs personnes expliquent pourquoi elles sont heureuses à Montréal. Le but c&rsquo;est de se auto-proclamer, tous ensemble, la ville la plus heureuse au monde.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/montreal-la-ville-la-plus-heureuse-au-monde/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Le Prix Élaine-Tanguay</title>
-		<link>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay#respond</comments>
+		<link>/portfolio-items/le-prix-elaine-tanguay</link>
+				<comments>/portfolio-items/le-prix-elaine-tanguay#respond</comments>
 				<pubDate>Wed, 07 Jun 2017 13:57:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -53,13 +53,13 @@
 				<description><![CDATA[Ce prix remis aux années impaires est offert conjointement par SPORTSQUÉBEC et l’Institut national du sport du Québec (INS Québec)  en collaboration avec l’Association canadienne des entraîneurs (ACE) et le Ministère de l’Éducation, de l’Enseignement supérieur (MEES). Il est attribué pour souligner la contribution particulière d’une personne qui s’est distinguée au Québec dans la formation [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Ce prix remis aux années impaires est offert conjointement par <a href="http://www.sportsquebec.com/" target="_blank" rel="noopener noreferrer">SPORTSQUÉBEC</a> et l’<a href="https://www.insquebec.org/" target="_blank" rel="noopener noreferrer">Institut national du sport du Québec</a> (INS Québec)  en collaboration avec l’<a href="http://coach.ca/?language=fr" target="_blank" rel="noopener noreferrer">Association canadienne des entraîneurs</a> (ACE) et le <a href="http://www.education.gouv.qc.ca/" target="_blank" rel="noopener noreferrer">Ministère de l’Éducation, de l’Enseignement supérieur (MEES)</a>. Il est attribué pour souligner la contribution particulière d’une personne qui s’est distinguée au Québec dans la formation d’intervenants sportifs à divers niveaux.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-prix-elaine-tanguay/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Les postes du futur</title>
-		<link>https://racheletmichel.com/portfolio-items/les-postes-du-futur</link>
-				<comments>https://racheletmichel.com/portfolio-items/les-postes-du-futur#respond</comments>
+		<link>/portfolio-items/les-postes-du-futur</link>
+				<comments>/portfolio-items/les-postes-du-futur#respond</comments>
 				<pubDate>Wed, 07 Jun 2017 13:39:15 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -67,13 +67,13 @@
 				<description><![CDATA[Imaginez recevoir dans un quart de siècle, lors du 400e anniversaire de Montréal, une carte postale originale écrite par un Montréalais témoin des festivités du 375e&#8230;]]></description>
 								<content:encoded><![CDATA[<p>Imaginez recevoir dans un quart de siècle, lors du 400e anniversaire de Montréal, une carte postale originale écrite par un Montréalais témoin des festivités du 375e&#8230;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/les-postes-du-futur/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/les-postes-du-futur/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Lancement de l&#8217;école des entrepreneurs de Montréal</title>
-		<link>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
-				<comments>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
+		<link>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
+				<comments>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
 				<pubDate>Mon, 12 Dec 2016 16:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -82,13 +82,13 @@
 								<content:encoded><![CDATA[<p>Le 29 novembre 2016, l&rsquo; <a class="profileLink" href="https://www.facebook.com/eemtl/" data-hovercard="/ajax/hovercard/page.php?id=335768596757308" data-hovercard-prefer-more-content-show="1">École des entrepreneurs I Mtl &#8211; EEMtl</a> était inaugurée par le SAJE et avec ses partenaires et quelques personnalités du milieu entrepreneurial montréalais.</p>
 <p>Vivez ce moment marquant comme si vous y étiez!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Concours Je fais Mtl avec La Ruche</title>
-		<link>https://racheletmichel.com/portfolio-items/concours-je-fais-mtl-avec-la-ruche</link>
-				<comments>https://racheletmichel.com/portfolio-items/concours-je-fais-mtl-avec-la-ruche#respond</comments>
+		<link>/portfolio-items/concours-je-fais-mtl-avec-la-ruche</link>
+				<comments>/portfolio-items/concours-je-fais-mtl-avec-la-ruche#respond</comments>
 				<pubDate>Mon, 12 Dec 2016 16:01:59 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -104,13 +104,13 @@
 </div>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/concours-je-fais-mtl-avec-la-ruche/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/concours-je-fais-mtl-avec-la-ruche/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>École des entrepreneurs de Mtl</title>
-		<link>https://racheletmichel.com/portfolio-items/11430</link>
-				<comments>https://racheletmichel.com/portfolio-items/11430#respond</comments>
+		<link>/portfolio-items/11430</link>
+				<comments>/portfolio-items/11430#respond</comments>
 				<pubDate>Wed, 30 Nov 2016 15:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -124,13 +124,13 @@
 <p>-Une vidéo réalisée par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991" data-hovercard-prefer-more-content-show="1">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11430/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11430/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Ulio 3d</title>
-		<link>https://racheletmichel.com/portfolio-items/11448</link>
-				<comments>https://racheletmichel.com/portfolio-items/11448#respond</comments>
+		<link>/portfolio-items/11448</link>
+				<comments>/portfolio-items/11448#respond</comments>
 				<pubDate>Thu, 26 Jan 2017 15:48:29 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -138,13 +138,13 @@
 				<description><![CDATA[Dessinez imprimez et assemblez ULIO dans le makerspace de votre école et du même coup équipez vos classes avec des nouvelles imprimantes 3D.]]></description>
 								<content:encoded><![CDATA[<p>Dessinez imprimez et assemblez ULIO dans le makerspace de votre école et du même coup équipez vos classes avec des nouvelles imprimantes 3D.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11448/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11448/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Portraits d&#8217;entrepreneurs en sociofinancement</title>
-		<link>https://racheletmichel.com/portfolio-items/sociofinancement</link>
-				<comments>https://racheletmichel.com/portfolio-items/sociofinancement#respond</comments>
+		<link>/portfolio-items/sociofinancement</link>
+				<comments>/portfolio-items/sociofinancement#respond</comments>
 				<pubDate>Mon, 27 Jun 2016 17:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -159,13 +159,13 @@
 <p class="watch-title-container"><strong><span id="eow-title" class="watch-title" dir="ltr" title="Sociofinancement : le cas d'Ubios">Sociofinancement : le cas d&rsquo;Ubios</span></strong></p>
 <p><iframe src="https://www.youtube.com/embed/2Y4dZHHyv9g" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/sociofinancement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/sociofinancement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>SAJE : portraits d&#8217;entrepreneurs</title>
-		<link>https://racheletmichel.com/portfolio-items/saje-entrepreneurs</link>
-				<comments>https://racheletmichel.com/portfolio-items/saje-entrepreneurs#respond</comments>
+		<link>/portfolio-items/saje-entrepreneurs</link>
+				<comments>/portfolio-items/saje-entrepreneurs#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 16:38:28 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -178,13 +178,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>vidéo réalisé par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Paragym présente les soirées Playnights</title>
-		<link>https://racheletmichel.com/portfolio-items/paragym</link>
-				<comments>https://racheletmichel.com/portfolio-items/paragym#respond</comments>
+		<link>/portfolio-items/paragym</link>
+				<comments>/portfolio-items/paragym#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 17:40:34 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -193,7 +193,7 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 								<content:encoded><![CDATA[<p>Paragym playnights are electro acrobatic party nights with Dj, performances, food, drinks and lots of fooling around!<br />
 Les soirées &laquo;&nbsp;Playnights&nbsp;&raquo; de Paragym sont des partys acrobatique, electronique avec DJ, performance, bouffe, boisson et beaucoup de niaiserie!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/paragym/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/paragym/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

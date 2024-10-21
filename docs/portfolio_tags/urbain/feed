@@ -9,7 +9,7 @@
 
 <channel>
 	<title>urbain &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/urbain/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/urbain/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,24 +22,24 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>urbain &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Roulotte du Chic Frigo Sans Fric par Judith Portier Design</title>
-		<link>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design</link>
-				<comments>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design#respond</comments>
+		<link>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design</link>
+				<comments>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:09:50 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10623</guid>
 				<description><![CDATA[Capsule présentant l’aménagement de la roulotte du Chic Frigo Sans Fric par Judith Portier Design]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Capsule présentant l’aménagement de la roulotte du Chic Frigo Sans Fric par Judith Portier Design</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

@@ -9,7 +9,7 @@
 
 <channel>
 	<title>test_admin &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/author/test_admin/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/author/test_admin/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,16 +22,16 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>test_admin &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Bonjour tout le monde&#160;!</title>
-		<link>https://racheletmichel.com/bonjour-tout-le-monde</link>
-				<comments>https://racheletmichel.com/bonjour-tout-le-monde#respond</comments>
+		<link>/bonjour-tout-le-monde</link>
+				<comments>/bonjour-tout-le-monde#respond</comments>
 				<pubDate>Thu, 21 Aug 2014 16:49:37 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Non classé]]></category>
@@ -40,13 +40,13 @@
 				<description><![CDATA[Bienvenue dans WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis lancez-vous&#160;!]]></description>
 								<content:encoded><![CDATA[<p>Bienvenue dans WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis lancez-vous&nbsp;!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/bonjour-tout-le-monde/feed</wfw:commentRss>
+							<wfw:commentRss>/bonjour-tout-le-monde/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Praesent Et Urna Turpis</title>
-		<link>https://racheletmichel.com/praesent-et-urna-turpis-sadips</link>
-				<comments>https://racheletmichel.com/praesent-et-urna-turpis-sadips#respond</comments>
+		<link>/praesent-et-urna-turpis-sadips</link>
+				<comments>/praesent-et-urna-turpis-sadips#respond</comments>
 				<pubDate>Tue, 31 Jul 2012 17:26:20 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Audio]]></category>
@@ -63,13 +63,13 @@
 <p>Nunc tincidunt, elit non cursus euismod, lacus augue ornare metus, egestas imperdiet nulla nisl quis mauris. Suspendisse a pharetra urna. Morbi dui lectus, pharetra nec elementum eget, vulputate ut nisi. Aliquam accumsan, nulla sed feugiat vehicula, lacus justo semper libero, quis porttitor turpis odio sit amet ligula. Duis dapibus fermentum orci, nec malesuada libero vehicula ut. Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dignissim mauris dolor eget mi. Donec at mauris enim. Duis nisi tellus, adipiscing a convallis quis, tristique vitae risus. Nullam molestie gravida lobortis. Proin ut nibh quis felis auctor ornare. Cras ultricies, nibh at mollis faucibus, justo eros porttitor mi, quis auctor lectus arcu sit amet nunc. Vivamus gravida vehicula arcu, vitae vulputate augue lacinia faucibus.</p>
 <p>Ut porttitor euismod cursus. Mauris suscipit, turpis ut dapibus rhoncus, odio erat egestas orci, in sollicitudin enim erat id est. Sed auctor gravida arcu, nec fringilla orci aliquet ut. Nullam eu pretium purus. Maecenas fermentum posuere sem vel posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ornare convallis lectus a faucibus. Praesent et urna turpis. Fusce tincidunt augue in velit tincidunt sed tempor felis porta. Nunc sodales, metus ut vestibulum ornare, est magna laoreet lectus, ut adipiscing massa odio sed turpis. In nec lorem porttitor urna consequat sagittis. Nullam eget elit ante. Pellentesque justo urna, semper nec faucibus sit amet, aliquam at mi. Maecenas eget diam nec mi dignissim pharetra.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/praesent-et-urna-turpis-sadips/feed</wfw:commentRss>
+							<wfw:commentRss>/praesent-et-urna-turpis-sadips/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Donec At Mauris Enims</title>
-		<link>https://racheletmichel.com/donec-at-mauris-enim-duis-nisi-tellus</link>
-				<comments>https://racheletmichel.com/donec-at-mauris-enim-duis-nisi-tellus#respond</comments>
+		<link>/donec-at-mauris-enim-duis-nisi-tellus</link>
+				<comments>/donec-at-mauris-enim-duis-nisi-tellus#respond</comments>
 				<pubDate>Tue, 31 Jul 2012 17:25:18 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Creative]]></category>
@@ -88,13 +88,13 @@
 <p>Ut porttitor euismod cursus. Mauris suscipit, turpis ut dapibus rhoncus, odio erat egestas orci, in sollicitudin enim erat id est. Sed auctor gravida arcu, nec fringilla orci aliquet ut. Nullam eu pretium purus. Maecenas fermentum posuere sem vel posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ornare convallis lectus a faucibus. Praesent et urna turpis. Fusce tincidunt augue in velit tincidunt sed tempor felis porta. Nunc sodales, metus ut vestibulum ornare, est magna laoreet lectus, ut adipiscing massa odio sed turpis. In nec lorem porttitor urna consequat sagittis. Nullam eget elit ante. Pellentesque justo urna, semper nec faucibus sit amet, aliquam at mi. Maecenas eget diam nec mi dignissim pharetra.</p>
 <p>&nbsp;</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/donec-at-mauris-enim-duis-nisi-tellus/feed</wfw:commentRss>
+							<wfw:commentRss>/donec-at-mauris-enim-duis-nisi-tellus/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Nullam Vitae Nibh Un Odiosters</title>
-		<link>https://racheletmichel.com/nullam-vitae-nibh-un-odio</link>
-				<comments>https://racheletmichel.com/nullam-vitae-nibh-un-odio#respond</comments>
+		<link>/nullam-vitae-nibh-un-odio</link>
+				<comments>/nullam-vitae-nibh-un-odio#respond</comments>
 				<pubDate>Tue, 31 Jul 2012 17:23:43 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Creative]]></category>
@@ -108,13 +108,13 @@
 <p>Nunc tincidunt, elit non cursus euismod, lacus augue ornare metus, egestas imperdiet nulla nisl quis mauris. Suspendisse a pharetra urna. Morbi dui lectus, pharetra nec elementum eget, vulputate ut nisi. Aliquam accumsan, nulla sed feugiat vehicula, lacus justo semper libero, quis porttitor turpis odio sit amet ligula. Duis dapibus fermentum orci, nec malesuada libero vehicula ut. Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dignissim mauris dolor eget mi. Donec at mauris enim. Duis nisi tellus, adipiscing a convallis quis, tristique vitae risus. Nullam molestie gravida lobortis. Proin ut nibh quis felis auctor ornare. Cras ultricies, nibh at mollis faucibus, justo eros porttitor mi, quis auctor lectus arcu sit amet nunc. Vivamus gravida vehicula arcu, vitae vulputate augue lacinia faucibus.</p>
 <p>Ut porttitor euismod cursus. Mauris suscipit, turpis ut dapibus rhoncus, odio erat egestas orci, in sollicitudin enim erat id est. Sed auctor gravida arcu, nec fringilla orci aliquet ut. Nullam eu pretium purus. Maecenas fermentum posuere sem vel posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ornare convallis lectus a faucibus. Praesent et urna turpis. Fusce tincidunt augue in velit tincidunt sed tempor felis porta. Nunc sodales, metus ut vestibulum ornare, est magna laoreet lectus, ut adipiscing massa odio sed turpis. In nec lorem porttitor urna consequat sagittis. Nullam eget elit ante. Pellentesque justo urna, semper nec faucibus sit amet, aliquam at mi. Maecenas eget diam nec mi dignissim pharetra.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/nullam-vitae-nibh-un-odio/feed</wfw:commentRss>
+							<wfw:commentRss>/nullam-vitae-nibh-un-odio/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Proin Sodales Quam Nec Sollicit</title>
-		<link>https://racheletmichel.com/proin-sodales-quam-nec-ante-sollicits</link>
-				<comments>https://racheletmichel.com/proin-sodales-quam-nec-ante-sollicits#respond</comments>
+		<link>/proin-sodales-quam-nec-ante-sollicits</link>
+				<comments>/proin-sodales-quam-nec-ante-sollicits#respond</comments>
 				<pubDate>Tue, 31 Jul 2012 17:23:05 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Audio]]></category>
@@ -129,13 +129,13 @@
 <p>Nunc tincidunt, elit non cursus euismod, lacus augue ornare metus, egestas imperdiet nulla nisl quis mauris. Suspendisse a pharetra urna. Morbi dui lectus, pharetra nec elementum eget, vulputate ut nisi. Aliquam accumsan, nulla sed feugiat vehicula, lacus justo semper libero, quis porttitor turpis odio sit amet ligula. Duis dapibus fermentum orci, nec malesuada libero vehicula ut. Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dignissim mauris dolor eget mi. Donec at mauris enim. Duis nisi tellus, adipiscing a convallis quis, tristique vitae risus. Nullam molestie gravida lobortis. Proin ut nibh quis felis auctor ornare. Cras ultricies, nibh at mollis faucibus, justo eros porttitor mi, quis auctor lectus arcu sit amet nunc. Vivamus gravida vehicula arcu, vitae vulputate augue lacinia faucibus.</p>
 <p>Ut porttitor euismod cursus. Mauris suscipit, turpis ut dapibus rhoncus, odio erat egestas orci, in sollicitudin enim erat id est. Sed auctor gravida arcu, nec fringilla orci aliquet ut. Nullam eu pretium purus. Maecenas fermentum posuere sem vel posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ornare convallis lectus a faucibus. Praesent et urna turpis. Fusce tincidunt augue in velit tincidunt sed tempor felis porta. Nunc sodales, metus ut vestibulum ornare, est magna laoreet lectus, ut adipiscing massa odio sed turpis. In nec lorem porttitor urna consequat sagittis. Nullam eget elit ante. Pellentesque justo urna, semper nec faucibus sit amet, aliquam at mi. Maecenas eget diam nec mi dignissim pharetra.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/proin-sodales-quam-nec-ante-sollicits/feed</wfw:commentRss>
+							<wfw:commentRss>/proin-sodales-quam-nec-ante-sollicits/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Nunc Tincidunt Elit Cursus</title>
-		<link>https://racheletmichel.com/nunc-tincidunt-elit-non-cursus</link>
-				<comments>https://racheletmichel.com/nunc-tincidunt-elit-non-cursus#respond</comments>
+		<link>/nunc-tincidunt-elit-non-cursus</link>
+				<comments>/nunc-tincidunt-elit-non-cursus#respond</comments>
 				<pubDate>Tue, 31 Jul 2012 17:22:22 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Design]]></category>
@@ -150,13 +150,13 @@
 <p>Nunc tincidunt, elit non cursus euismod, lacus augue ornare metus, egestas imperdiet nulla nisl quis mauris. Suspendisse a pharetra urna. Morbi dui lectus, pharetra nec elementum eget, vulputate ut nisi. Aliquam accumsan, nulla sed feugiat vehicula, lacus justo semper libero, quis porttitor turpis odio sit amet ligula. Duis dapibus fermentum orci, nec malesuada libero vehicula ut. Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dignissim mauris dolor eget mi. Donec at mauris enim. Duis nisi tellus, adipiscing a convallis quis, tristique vitae risus. Nullam molestie gravida lobortis. Proin ut nibh quis felis auctor ornare. Cras ultricies, nibh at mollis faucibus, justo eros porttitor mi, quis auctor lectus arcu sit amet nunc. Vivamus gravida vehicula arcu, vitae vulputate augue lacinia faucibus.</p>
 <p>Ut porttitor euismod cursus. Mauris suscipit, turpis ut dapibus rhoncus, odio erat egestas orci, in sollicitudin enim erat id est. Sed auctor gravida arcu, nec fringilla orci aliquet ut. Nullam eu pretium purus. Maecenas fermentum posuere sem vel posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ornare convallis lectus a faucibus. Praesent et urna turpis. Fusce tincidunt augue in velit tincidunt sed tempor felis porta. Nunc sodales, metus ut vestibulum ornare, est magna laoreet lectus, ut adipiscing massa odio sed turpis. In nec lorem porttitor urna consequat sagittis. Nullam eget elit ante. Pellentesque justo urna, semper nec faucibus sit amet, aliquam at mi. Maecenas eget diam nec mi dignissim pharetra.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/nunc-tincidunt-elit-non-cursus/feed</wfw:commentRss>
+							<wfw:commentRss>/nunc-tincidunt-elit-non-cursus/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Class Aptent Taciti Soci Ad Litora</title>
-		<link>https://racheletmichel.com/class-aptent-taciti-sociosqu-ad-litora</link>
-				<comments>https://racheletmichel.com/class-aptent-taciti-sociosqu-ad-litora#respond</comments>
+		<link>/class-aptent-taciti-sociosqu-ad-litora</link>
+				<comments>/class-aptent-taciti-sociosqu-ad-litora#respond</comments>
 				<pubDate>Tue, 31 Jul 2012 17:24:55 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 				<category><![CDATA[Design]]></category>
@@ -174,7 +174,7 @@
 <p>Nunc tincidunt, elit non cursus euismod, lacus augue ornare metus, egestas imperdiet nulla nisl quis mauris. Suspendisse a pharetra urna. Morbi dui lectus, pharetra nec elementum eget, vulputate ut nisi. Aliquam accumsan, nulla sed feugiat vehicula, lacus justo semper libero, quis porttitor turpis odio sit amet ligula. Duis dapibus fermentum orci, nec malesuada libero vehicula ut. Integer sodales, urna eget interdum eleifend, nulla nibh laoreet nisl, quis dignissim mauris dolor eget mi. Donec at mauris enim. Duis nisi tellus, adipiscing a convallis quis, tristique vitae risus. Nullam molestie gravida lobortis. Proin ut nibh quis felis auctor ornare. Cras ultricies, nibh at mollis faucibus, justo eros porttitor mi, quis auctor lectus arcu sit amet nunc. Vivamus gravida vehicula arcu, vitae vulputate augue lacinia faucibus.</p>
 <p>Ut porttitor euismod cursus. Mauris suscipit, turpis ut dapibus rhoncus, odio erat egestas orci, in sollicitudin enim erat id est. Sed auctor gravida arcu, nec fringilla orci aliquet ut. Nullam eu pretium purus. Maecenas fermentum posuere sem vel posuere. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ornare convallis lectus a faucibus. Praesent et urna turpis. Fusce tincidunt augue in velit tincidunt sed tempor felis porta. Nunc sodales, metus ut vestibulum ornare, est magna laoreet lectus, ut adipiscing massa odio sed turpis. In nec lorem porttitor urna consequat sagittis. Nullam eget elit ante. Pellentesque justo urna, semper nec faucibus sit amet, aliquam at mi. Maecenas eget diam nec mi dignissim pharetra.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/class-aptent-taciti-sociosqu-ad-litora/feed</wfw:commentRss>
+							<wfw:commentRss>/class-aptent-taciti-sociosqu-ad-litora/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

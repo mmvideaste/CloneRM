@@ -9,7 +9,7 @@
 
 <channel>
 	<title>imprimante 3d &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/imprimante-3d/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/imprimante-3d/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>imprimante 3d &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Ulio 3d</title>
-		<link>https://racheletmichel.com/portfolio-items/11448</link>
-				<comments>https://racheletmichel.com/portfolio-items/11448#respond</comments>
+		<link>/portfolio-items/11448</link>
+				<comments>/portfolio-items/11448#respond</comments>
 				<pubDate>Thu, 26 Jan 2017 15:48:29 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,7 +39,7 @@
 				<description><![CDATA[Dessinez imprimez et assemblez ULIO dans le makerspace de votre école et du même coup équipez vos classes avec des nouvelles imprimantes 3D.]]></description>
 								<content:encoded><![CDATA[<p>Dessinez imprimez et assemblez ULIO dans le makerspace de votre école et du même coup équipez vos classes avec des nouvelles imprimantes 3D.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11448/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11448/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

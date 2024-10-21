@@ -9,7 +9,7 @@
 
 <channel>
 	<title>cyberharcèlement &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/cyberharcelement/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/cyberharcelement/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>cyberharcèlement &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Le Guide d&#8217;animation Relations NETtes</title>
-		<link>https://racheletmichel.com/portfolio-items/le-guide-danimation-relations-nettes</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-guide-danimation-relations-nettes#respond</comments>
+		<link>/portfolio-items/le-guide-danimation-relations-nettes</link>
+				<comments>/portfolio-items/le-guide-danimation-relations-nettes#respond</comments>
 				<pubDate>Fri, 26 Feb 2016 18:49:10 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,7 +39,7 @@
 				<description><![CDATA[Le Y des femmes de Montréal présente le Guide d’animation Relations NETtes, conçu pour les personnes travaillant avec les jeunes de 14 à 17 ans afin de les sensibiliser au cyberharcèlement. Ce guide, disponible en ligne gratuitement, à été élaboré par les services jeunesse pour permettre aux intervenantes et intervenants d’aider les jeunes à comprendre [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Le Y des femmes de Montréal présente le Guide d’animation Relations NETtes, conçu pour les personnes travaillant avec les jeunes de 14 à 17 ans afin de les sensibiliser au cyberharcèlement. Ce guide, disponible en ligne gratuitement, à été élaboré par les services jeunesse pour permettre aux intervenantes et intervenants d’aider les jeunes à comprendre le cyberharcèlement à l’aide d’un atelier de sensibilisation et d’un projet de groupe.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-guide-danimation-relations-nettes/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-guide-danimation-relations-nettes/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

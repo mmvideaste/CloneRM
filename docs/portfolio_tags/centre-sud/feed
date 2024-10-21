@@ -9,7 +9,7 @@
 
 <channel>
 	<title>centre-sud &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/centre-sud/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/centre-sud/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>centre-sud &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Elle faisait quoi la CDEC ? Ils racontent leur expérience&#8230;</title>
-		<link>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience</link>
-				<comments>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience#respond</comments>
+		<link>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience</link>
+				<comments>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience#respond</comments>
 				<pubDate>Wed, 16 Nov 2016 19:36:07 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,7 +40,7 @@
 								<content:encoded><![CDATA[<p>La CDEC a fermé ses portes en 2015 après 30 ans de travail sur le terrain. Des entrepreneurs, partenaires et employés racontent l&rsquo;expérience CDEC.<br />
 Découvrez l&rsquo;approche CDEC grâce à la publication : &nbsp;&raquo;L&rsquo; audace de développer autrement. Quand l&rsquo;économie sort de sa boîte&nbsp;&raquo; : bit.ly/2dXmCix</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

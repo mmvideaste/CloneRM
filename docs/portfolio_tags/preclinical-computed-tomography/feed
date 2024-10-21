@@ -9,7 +9,7 @@
 
 <channel>
 	<title>preclinical computed tomography &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/preclinical-computed-tomography/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/preclinical-computed-tomography/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>preclinical computed tomography &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>MediLumine</title>
-		<link>https://racheletmichel.com/portfolio-items/medilumine</link>
-				<comments>https://racheletmichel.com/portfolio-items/medilumine#respond</comments>
+		<link>/portfolio-items/medilumine</link>
+				<comments>/portfolio-items/medilumine#respond</comments>
 				<pubDate>Tue, 03 Mar 2015 14:31:05 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,7 +39,7 @@
 				<description><![CDATA[MediLumine, a privately held company based in Montreal, Canada, provides Fenestra® LC and Fenestra® VC nano-emulsions used for a wide array of applications in preclinical computed tomography and molecular imaging.]]></description>
 								<content:encoded><![CDATA[<p>MediLumine, a privately held company based in Montreal, Canada, provides Fenestra® LC and Fenestra® VC nano-emulsions used for a wide array of applications in preclinical computed tomography and molecular imaging.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/medilumine/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/medilumine/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

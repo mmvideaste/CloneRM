@@ -9,7 +9,7 @@
 
 <channel>
 	<title>SAJE &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/saje/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/saje/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>SAJE &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Lancement de l&#8217;école des entrepreneurs de Montréal</title>
-		<link>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
-				<comments>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
+		<link>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal</link>
+				<comments>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal#respond</comments>
 				<pubDate>Mon, 12 Dec 2016 16:14:57 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,13 +40,13 @@
 								<content:encoded><![CDATA[<p>Le 29 novembre 2016, l&rsquo; <a class="profileLink" href="https://www.facebook.com/eemtl/" data-hovercard="/ajax/hovercard/page.php?id=335768596757308" data-hovercard-prefer-more-content-show="1">École des entrepreneurs I Mtl &#8211; EEMtl</a> était inaugurée par le SAJE et avec ses partenaires et quelques personnalités du milieu entrepreneurial montréalais.</p>
 <p>Vivez ce moment marquant comme si vous y étiez!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/lancement-de-lecole-des-entrepreneurs-de-montreal/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>École des entrepreneurs de Mtl</title>
-		<link>https://racheletmichel.com/portfolio-items/11430</link>
-				<comments>https://racheletmichel.com/portfolio-items/11430#respond</comments>
+		<link>/portfolio-items/11430</link>
+				<comments>/portfolio-items/11430#respond</comments>
 				<pubDate>Wed, 30 Nov 2016 15:25:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -60,13 +60,13 @@
 <p>-Une vidéo réalisée par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991" data-hovercard-prefer-more-content-show="1">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/11430/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/11430/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Portraits d&#8217;entrepreneurs en sociofinancement</title>
-		<link>https://racheletmichel.com/portfolio-items/sociofinancement</link>
-				<comments>https://racheletmichel.com/portfolio-items/sociofinancement#respond</comments>
+		<link>/portfolio-items/sociofinancement</link>
+				<comments>/portfolio-items/sociofinancement#respond</comments>
 				<pubDate>Mon, 27 Jun 2016 17:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -81,13 +81,13 @@
 <p class="watch-title-container"><strong><span id="eow-title" class="watch-title" dir="ltr" title="Sociofinancement : le cas d'Ubios">Sociofinancement : le cas d&rsquo;Ubios</span></strong></p>
 <p><iframe src="https://www.youtube.com/embed/2Y4dZHHyv9g" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/sociofinancement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/sociofinancement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>SAJE : portraits d&#8217;entrepreneurs</title>
-		<link>https://racheletmichel.com/portfolio-items/saje-entrepreneurs</link>
-				<comments>https://racheletmichel.com/portfolio-items/saje-entrepreneurs#respond</comments>
+		<link>/portfolio-items/saje-entrepreneurs</link>
+				<comments>/portfolio-items/saje-entrepreneurs#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 16:38:28 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -100,13 +100,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>vidéo réalisé par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Soirée 30e anniversaire au SAJE</title>
-		<link>https://racheletmichel.com/portfolio-items/30anssaje</link>
-				<comments>https://racheletmichel.com/portfolio-items/30anssaje#respond</comments>
+		<link>/portfolio-items/30anssaje</link>
+				<comments>/portfolio-items/30anssaje#respond</comments>
 				<pubDate>Tue, 24 Nov 2015 17:38:11 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -114,7 +114,7 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Le SAJE célébrait ses 30 ans d&#8217;accompagnement et de formation le 21 octobre 2015 avec ses partenaires, entrepreneurs et autres collaborateurs. Une belle soirée pour souligner nos réussites et parler de grands projets d&#8217;avenir!]]></description>
 								<content:encoded><![CDATA[<p>Le SAJE célébrait ses 30 ans d&rsquo;accompagnement et de formation le 21 octobre 2015 avec ses partenaires, entrepreneurs et autres collaborateurs. Une belle soirée pour souligner nos réussites et parler de grands projets d&rsquo;avenir!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/30anssaje/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/30anssaje/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

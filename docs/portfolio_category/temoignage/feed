@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Témoignage &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_category/temoignage/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_category/temoignage/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Témoignage &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Le Prix Élaine-Tanguay</title>
-		<link>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay#respond</comments>
+		<link>/portfolio-items/le-prix-elaine-tanguay</link>
+				<comments>/portfolio-items/le-prix-elaine-tanguay#respond</comments>
 				<pubDate>Wed, 07 Jun 2017 13:57:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,13 +39,13 @@
 				<description><![CDATA[Ce prix remis aux années impaires est offert conjointement par SPORTSQUÉBEC et l’Institut national du sport du Québec (INS Québec)  en collaboration avec l’Association canadienne des entraîneurs (ACE) et le Ministère de l’Éducation, de l’Enseignement supérieur (MEES). Il est attribué pour souligner la contribution particulière d’une personne qui s’est distinguée au Québec dans la formation [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Ce prix remis aux années impaires est offert conjointement par <a href="http://www.sportsquebec.com/" target="_blank" rel="noopener noreferrer">SPORTSQUÉBEC</a> et l’<a href="https://www.insquebec.org/" target="_blank" rel="noopener noreferrer">Institut national du sport du Québec</a> (INS Québec)  en collaboration avec l’<a href="http://coach.ca/?language=fr" target="_blank" rel="noopener noreferrer">Association canadienne des entraîneurs</a> (ACE) et le <a href="http://www.education.gouv.qc.ca/" target="_blank" rel="noopener noreferrer">Ministère de l’Éducation, de l’Enseignement supérieur (MEES)</a>. Il est attribué pour souligner la contribution particulière d’une personne qui s’est distinguée au Québec dans la formation d’intervenants sportifs à divers niveaux.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-prix-elaine-tanguay/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-prix-elaine-tanguay/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Elle faisait quoi la CDEC ? Ils racontent leur expérience&#8230;</title>
-		<link>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience</link>
-				<comments>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience#respond</comments>
+		<link>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience</link>
+				<comments>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience#respond</comments>
 				<pubDate>Wed, 16 Nov 2016 19:36:07 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -54,13 +54,13 @@
 								<content:encoded><![CDATA[<p>La CDEC a fermé ses portes en 2015 après 30 ans de travail sur le terrain. Des entrepreneurs, partenaires et employés racontent l&rsquo;expérience CDEC.<br />
 Découvrez l&rsquo;approche CDEC grâce à la publication : &nbsp;&raquo;L&rsquo; audace de développer autrement. Quand l&rsquo;économie sort de sa boîte&nbsp;&raquo; : bit.ly/2dXmCix</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/elle-faisait-quoi-la-cdec-ils-racontent-leur-experience/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Portraits d&#8217;entrepreneurs en sociofinancement</title>
-		<link>https://racheletmichel.com/portfolio-items/sociofinancement</link>
-				<comments>https://racheletmichel.com/portfolio-items/sociofinancement#respond</comments>
+		<link>/portfolio-items/sociofinancement</link>
+				<comments>/portfolio-items/sociofinancement#respond</comments>
 				<pubDate>Mon, 27 Jun 2016 17:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -75,13 +75,13 @@ Découvrez l&rsquo;approche CDEC grâce à la publication : &nbsp;&raquo;L&rsquo
 <p class="watch-title-container"><strong><span id="eow-title" class="watch-title" dir="ltr" title="Sociofinancement : le cas d'Ubios">Sociofinancement : le cas d&rsquo;Ubios</span></strong></p>
 <p><iframe src="https://www.youtube.com/embed/2Y4dZHHyv9g" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/sociofinancement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/sociofinancement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>SAJE : portraits d&#8217;entrepreneurs</title>
-		<link>https://racheletmichel.com/portfolio-items/saje-entrepreneurs</link>
-				<comments>https://racheletmichel.com/portfolio-items/saje-entrepreneurs#respond</comments>
+		<link>/portfolio-items/saje-entrepreneurs</link>
+				<comments>/portfolio-items/saje-entrepreneurs#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 16:38:28 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -94,13 +94,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 <p>vidéo réalisé par <a class="profileLink" href="https://www.facebook.com/RacheletMichel/" data-hovercard="/ajax/hovercard/page.php?id=512055592144991">Rachel et Michel</a></p>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/saje-entrepreneurs/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>The John Molson Executive Centre Experience – Centre de perfectionnement</title>
-		<link>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
-				<comments>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
+		<link>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
+				<comments>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:22:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -108,13 +108,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo pour vous faire part de leur expérience avec le Centre de perfectionnement John-Molson!</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Entrepreneures de demain &#8211; Automne 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/ydesfemmes</link>
-				<comments>https://racheletmichel.com/portfolio-items/ydesfemmes#respond</comments>
+		<link>/portfolio-items/ydesfemmes</link>
+				<comments>/portfolio-items/ydesfemmes#respond</comments>
 				<pubDate>Tue, 03 Mar 2015 14:38:23 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -122,13 +122,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Les services jeunesse du Y des femmes de Montréal sont fiers de présenter cette vidéo au sujet de la formation Entrepreneures de demain. Cet atelier vise à diversifier le choix de carrières des participantes et à promouvoir la place des femmes dans les métiers à majorité masculine. Réalisation : Rachel et Michel]]></description>
 								<content:encoded><![CDATA[<p>Les services jeunesse du Y des femmes de Montréal sont fiers de présenter cette vidéo au sujet de la formation Entrepreneures de demain. Cet atelier vise à diversifier le choix de carrières des participantes et à promouvoir la place des femmes dans les métiers à majorité masculine. Réalisation : Rachel et Michel</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/ydesfemmes/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/ydesfemmes/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>RDV REM 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/rdv-rem-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/rdv-rem-2014#respond</comments>
+		<link>/portfolio-items/rdv-rem-2014</link>
+				<comments>/portfolio-items/rdv-rem-2014#respond</comments>
 				<pubDate>Fri, 07 Nov 2014 16:40:16 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -137,13 +137,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 								<content:encoded><![CDATA[<p style="color: #7d7d7d;">Le Rendez-vous des professionnels de l’entrepreneuriat, 6e édition. « Best of » Montréal: l’avis de nos entrepreneurs.</p>
 <p style="color: #7d7d7d;">Avec Vincent Chapdelaine (Espaces temps), Ethan Song (Frank &amp; Oak), Sophie Boulanger (Bon look), Fabrice Vil (Pour 3 points), Louis-Philippe Maurice (Busbud) et Noémie Dupuy (Budge Studios).</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/rdv-rem-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/rdv-rem-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>JMSB &#8211; Executive Certificate in Advanced Business Analytics</title>
-		<link>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics</link>
-				<comments>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics#respond</comments>
+		<link>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics</link>
+				<comments>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:19:10 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -151,13 +151,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[En avril 2014, l’École de gestion John-Molson de l’Université Concordia a été le premier établissement universitaire à lancer un programme de Certification pour cadres en analytique d’affaires avancée. Offert via le Centre de perfectionnement de l’École, ce programme est destiné aux gestionnaires de tous les niveaux et œuvrant dans tous les secteurs d’activité. Cette courte [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">En avril 2014, l’École de gestion John-Molson de l’Université Concordia a été le premier établissement universitaire à lancer un programme de Certification pour cadres en analytique d’affaires avancée. Offert via le Centre de perfectionnement de l’École, ce programme est destiné aux gestionnaires de tous les niveaux et œuvrant dans tous les secteurs d’activité. Cette courte vidéo résume l’expérience de ce programme enseigné par Jean-Paul Isson, un des meilleurs experts au monde en analytique d’affaires avancée.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Concours québécois en entrepreneuriat</title>
-		<link>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
-				<comments>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
+		<link>/portfolio-items/concours-quebecois-en-entrepreneuriat</link>
+				<comments>/portfolio-items/concours-quebecois-en-entrepreneuriat#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:55:58 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -165,13 +165,13 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Capsule promotionnelle pour le Concours québécois en entrepreneuriat &#124; Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.]]></description>
 								<content:encoded><![CDATA[<p>Capsule promotionnelle pour le Concours québécois en entrepreneuriat | Sud-Ouest de l’Île et Ville-Marie présentant deux gagnants de l’édition 2013, soit Hestia Thé et la Clinique de réadaptation du travailleur.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/concours-quebecois-en-entrepreneuriat/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>le plancher &#124; profil artiste</title>
-		<link>https://racheletmichel.com/portfolio-items/le-plancher-profil-artiste</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-plancher-profil-artiste#respond</comments>
+		<link>/portfolio-items/le-plancher-profil-artiste</link>
+				<comments>/portfolio-items/le-plancher-profil-artiste#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:52:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -179,7 +179,7 @@ C&rsquo;est bien de se faire parler d&rsquo;amour à sa <span class="text_expose
 				<description><![CDATA[Jasmine Catudal, codirectrice artistique de l’usine C, ainsi que Adam Kinnear, musicien et chorégraphe, nous parlent de l’espace de travail partagé Le Plancher.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Jasmine Catudal, codirectrice artistique de l’usine C, ainsi que Adam Kinnear, musicien et chorégraphe, nous parlent de l’espace de travail partagé Le Plancher.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-plancher-profil-artiste/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-plancher-profil-artiste/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

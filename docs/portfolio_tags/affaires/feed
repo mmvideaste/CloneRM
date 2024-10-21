@@ -9,7 +9,7 @@
 
 <channel>
 	<title>affaires &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/affaires/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/affaires/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>affaires &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Portraits d&#8217;entrepreneurs en sociofinancement</title>
-		<link>https://racheletmichel.com/portfolio-items/sociofinancement</link>
-				<comments>https://racheletmichel.com/portfolio-items/sociofinancement#respond</comments>
+		<link>/portfolio-items/sociofinancement</link>
+				<comments>/portfolio-items/sociofinancement#respond</comments>
 				<pubDate>Mon, 27 Jun 2016 17:41:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -46,13 +46,13 @@
 <p class="watch-title-container"><strong><span id="eow-title" class="watch-title" dir="ltr" title="Sociofinancement : le cas d'Ubios">Sociofinancement : le cas d&rsquo;Ubios</span></strong></p>
 <p><iframe src="https://www.youtube.com/embed/2Y4dZHHyv9g" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/sociofinancement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/sociofinancement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Gala Entrepreneurs audacieux recherchés</title>
-		<link>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches</link>
-				<comments>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches#respond</comments>
+		<link>/portfolio-items/gala-entrepreneurs-audacieux-recherches</link>
+				<comments>/portfolio-items/gala-entrepreneurs-audacieux-recherches#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 16:25:20 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -69,13 +69,13 @@ Soutenu par : Arrondissement de Ville-Marie, centre-ville, Arrondissement du Pla
 Partenaires de prix : Les Industries Poly Inc., Brouillette + Associés, Communauto</p>
 <p>Vidéo réalisée par : Rachel et Michel</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/gala-entrepreneurs-audacieux-recherches/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/gala-entrepreneurs-audacieux-recherches/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>The John Molson Executive Centre Experience – Centre de perfectionnement</title>
-		<link>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
-				<comments>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
+		<link>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement</link>
+				<comments>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:22:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -83,13 +83,13 @@ Partenaires de prix : Les Industries Poly Inc., Brouillette + Associés, Communa
 				<description><![CDATA[Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Le Centre de perfectionnement John-Molson de l’Université Concordia offre des programmes de formation à une grande variété d’organisations au Canada et à l’étranger. Le Centre contribue à la croissance et au développement de milliers de professionnels et cadres en offrant une expérience d’apprentissage unique et enrichissante. Instructeurs, partenaires, personnel et clients participent à cette vidéo pour vous faire part de leur expérience avec le Centre de perfectionnement John-Molson!</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/the-john-molson-executive-centre-experience-centre-de-perfectionnement/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Aguiche &#124; StartupFest 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/startupfest-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/startupfest-2014#respond</comments>
+		<link>/portfolio-items/startupfest-2014</link>
+				<comments>/portfolio-items/startupfest-2014#respond</comments>
 				<pubDate>Tue, 10 Feb 2015 14:56:19 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -100,7 +100,7 @@ Partenaires de prix : Les Industries Poly Inc., Brouillette + Associés, Communa
 <p>L’événement comprend des conférences, des sessions interactives, des leçons enrichissantes, et une bonne dose d&rsquo;irrévérence. Nous faisons partie des gens qui déplorent les conférences d&rsquo;affaires ennuyeuses. C&rsquo;est pour cette raison que nous avons soigneusement conçu une ambiance qui encourage l’interaction &#8211; avec des hamacs sur le site, plusieurs lieux de rencontres et un Village de tentes &#8211; tout en profitant de la délicieuse bouffe de rue, accompagnée d’une bière pour vous garder au frais dans la chaleur estivale de Montréal.</p>
 <p>Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/startupfest-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/startupfest-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

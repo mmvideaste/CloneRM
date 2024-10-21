@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Montagne-Art &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/montagne-art/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/montagne-art/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,24 +22,24 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Montagne-Art &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>Montagne-Art &#124; exposition multidisciplinaire</title>
-		<link>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire</link>
-				<comments>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire#respond</comments>
+		<link>/portfolio-items/montagne-art-exposition-multidisciplinaire</link>
+				<comments>/portfolio-items/montagne-art-exposition-multidisciplinaire#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 14:59:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10532</guid>
 				<description><![CDATA[Montagne-Art est une exposition multidisciplinaire qui allie les arts visuels, les métiers d’art et l’art gourmand, à St-Hyppolite. Dans un décor enchanteur et champêtre, Montagne-Art reçoit près de 30 exposants, artistes, artisans, réunis sous un immense chapiteau.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Montagne-Art est une exposition multidisciplinaire qui allie les arts visuels, les métiers d’art et l’art gourmand, à St-Hyppolite. Dans un décor enchanteur et champêtre, Montagne-Art reçoit près de 30 exposants, artistes, artisans, réunis sous un immense chapiteau.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/montagne-art-exposition-multidisciplinaire/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

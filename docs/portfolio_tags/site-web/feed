@@ -9,7 +9,7 @@
 
 <channel>
 	<title>site web &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/site-web/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/site-web/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>site web &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,17 +30,17 @@
 </image>
 	<item>
 		<title>Arrière plan pour site web : RedSix</title>
-		<link>https://racheletmichel.com/portfolio-items/arriere-plan-pour-site-web-redsix</link>
-				<comments>https://racheletmichel.com/portfolio-items/arriere-plan-pour-site-web-redsix#respond</comments>
+		<link>/portfolio-items/arriere-plan-pour-site-web-redsix</link>
+				<comments>/portfolio-items/arriere-plan-pour-site-web-redsix#respond</comments>
 				<pubDate>Fri, 01 Apr 2016 16:02:39 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
 		<guid isPermaLink="false">/?post_type=avada_portfolio&#038;p=11201</guid>
 				<description><![CDATA[Rachel et Michel ont collaboré avec RedSix afin de réaliser un arrière-plan vidéo pour leur nouveau site Web. Red Six est un studio indépendant de développement et design Web basé à Montréal, Québec et piloté par des technogeeks. Nous vous invitons à visiter leur site internet afin de découvrir le résultat : http://redsix.co/]]></description>
 								<content:encoded><![CDATA[<p class="p1">Rachel et Michel ont collaboré avec RedSix afin de réaliser un arrière-plan vidéo pour leur nouveau site Web. Red Six est un studio indépendant de développement et design Web basé à Montréal, Québec et piloté par des technogeeks. Nous vous invitons à visiter leur site internet afin de découvrir le résultat : http://redsix.co/</p>
-<p><a href="/wp-content/uploads/2016/04/RedSix_page_Web.jpg" rel="attachment wp-att-11202"><img class="aligncenter wp-image-11202 size-large" src="/wp-content/uploads/2016/04/RedSix_page_Web-1024x614.jpg" alt="RedSix_page_Web" width="669" height="401" srcset="https://racheletmichel.com/wp-content/uploads/2016/04/RedSix_page_Web-1024x614.jpg 1024w, https://racheletmichel.com/wp-content/uploads/2016/04/RedSix_page_Web-300x180.jpg 300w, https://racheletmichel.com/wp-content/uploads/2016/04/RedSix_page_Web-768x461.jpg 768w, https://racheletmichel.com/wp-content/uploads/2016/04/RedSix_page_Web.jpg 1085w" sizes="(max-width: 669px) 100vw, 669px" /></a></p>
+<p><a href="/wp-content/uploads/2016/04/RedSix_page_Web.jpg" rel="attachment wp-att-11202"><img class="aligncenter wp-image-11202 size-large" src="/wp-content/uploads/2016/04/RedSix_page_Web-1024x614.jpg" alt="RedSix_page_Web" width="669" height="401" srcset="/wp-content/uploads/2016/04/RedSix_page_Web-1024x614.jpg 1024w, /wp-content/uploads/2016/04/RedSix_page_Web-300x180.jpg 300w, /wp-content/uploads/2016/04/RedSix_page_Web-768x461.jpg 768w, /wp-content/uploads/2016/04/RedSix_page_Web.jpg 1085w" sizes="(max-width: 669px) 100vw, 669px" /></a></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/arriere-plan-pour-site-web-redsix/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/arriere-plan-pour-site-web-redsix/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

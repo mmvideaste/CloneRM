@@ -9,7 +9,7 @@
 
 <channel>
 	<title>culture &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/culture/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/culture/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>culture &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Faites-vous partie des 300 ?</title>
-		<link>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300</link>
-				<comments>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300#respond</comments>
+		<link>/portfolio-items/faites-vous-partie-des-300</link>
+				<comments>/portfolio-items/faites-vous-partie-des-300#respond</comments>
 				<pubDate>Mon, 24 Nov 2014 21:22:04 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -44,13 +44,13 @@
 Something Shiny par The Gulf Stream<br />
 http://thegulfstream.bandcamp.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/faites-vous-partie-des-300/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/faites-vous-partie-des-300/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Montagne-Art &#124; exposition multidisciplinaire</title>
-		<link>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire</link>
-				<comments>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire#respond</comments>
+		<link>/portfolio-items/montagne-art-exposition-multidisciplinaire</link>
+				<comments>/portfolio-items/montagne-art-exposition-multidisciplinaire#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 14:59:46 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -58,13 +58,13 @@ http://thegulfstream.bandcamp.com</p>
 				<description><![CDATA[Montagne-Art est une exposition multidisciplinaire qui allie les arts visuels, les métiers d’art et l’art gourmand, à St-Hyppolite. Dans un décor enchanteur et champêtre, Montagne-Art reçoit près de 30 exposants, artistes, artisans, réunis sous un immense chapiteau.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Montagne-Art est une exposition multidisciplinaire qui allie les arts visuels, les métiers d’art et l’art gourmand, à St-Hyppolite. Dans un décor enchanteur et champêtre, Montagne-Art reçoit près de 30 exposants, artistes, artisans, réunis sous un immense chapiteau.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/montagne-art-exposition-multidisciplinaire/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/montagne-art-exposition-multidisciplinaire/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Pascale Dupré &#124; Artiste-peintre</title>
-		<link>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre</link>
-				<comments>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre#respond</comments>
+		<link>/portfolio-items/pascale-dupre-artiste-peintre</link>
+				<comments>/portfolio-items/pascale-dupre-artiste-peintre#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 14:46:55 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -75,7 +75,7 @@ http://thegulfstream.bandcamp.com</p>
 <a style="font-weight: inherit; font-style: inherit; color: #111111;" href="http://www.pascaledupre.com/" target="_blank" rel="nofollow">pascaledupre.com</a></p>
 <p style="color: #7d7d7d;">Réalisation : www.racheletmichel.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/pascale-dupre-artiste-peintre/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/pascale-dupre-artiste-peintre/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

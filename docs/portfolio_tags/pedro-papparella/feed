@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Pedro Papparella &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/pedro-papparella/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/pedro-papparella/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Pedro Papparella &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Ensemble neuf mois &#124; Présentation</title>
-		<link>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois</link>
-				<comments>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois#respond</comments>
+		<link>/portfolio-items/ensemble-neuf-mois</link>
+				<comments>/portfolio-items/ensemble-neuf-mois#respond</comments>
 				<pubDate>Mon, 24 Aug 2015 14:41:17 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,7 +40,7 @@
 								<content:encoded><![CDATA[<p>Rachel et Michel ont collaboré avec Ensemble neuf mois, etc., afin de réaliser 45 capsules vidéos de formation permettant d&rsquo;accompagner les parents de la grossesse aux premiers mois suivant l&rsquo;accouchement.  D&rsquo;une durée entre 10 et 45 minutes, les vidéos abordent plusieurs thèmes, tels que l&rsquo;allaitement, le bain du bébé, le massage pour femmes enceintes ou le soulagement de la douleur sans médication.</p>
 <p>La mission de Jihane et de Pedro est d&rsquo;accompagner et d’aider les futurs parents à avoir accès à de l’information juste et actuelle, une touche de réalité, une touche d’expérience.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/ensemble-neuf-mois/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/ensemble-neuf-mois/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

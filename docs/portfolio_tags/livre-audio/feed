@@ -9,7 +9,7 @@
 
 <channel>
 	<title>livre audio &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/livre-audio/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/livre-audio/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>livre audio &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>La Montagne secrète au coeur du Plateau 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/la-montagne-secrete-au-coeur-du-plateau-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/la-montagne-secrete-au-coeur-du-plateau-2014#respond</comments>
+		<link>/portfolio-items/la-montagne-secrete-au-coeur-du-plateau-2014</link>
+				<comments>/portfolio-items/la-montagne-secrete-au-coeur-du-plateau-2014#respond</comments>
 				<pubDate>Tue, 10 Feb 2015 13:47:20 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -41,13 +41,13 @@
 <p>Nombreuses furent les familles à combiner plusieurs activités : assister à un spectacle – « Le petit ours gris de la Mauricie » avec Edgar Bori, « Pyjama Party » avec Bïa, « La mémé et la mouche » avec Thomas Hellman et Emilie Clepper ou « Un canard à New York » avec Geneviève Bilodeau, glisser dans la neige, déguster un chocolat chaud offert par L&rsquo;Espace La Fontaine tout en visitant l’exposition « Un cadeau pour Sophie », inspirée de ce merveilleux conte de Gilles Vigneault illustré par Stéphane Jorisch.</p>
 <p>www.lamontagnesecrete.com</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/la-montagne-secrete-au-coeur-du-plateau-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/la-montagne-secrete-au-coeur-du-plateau-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>L&#8217;alphabet des animaux (Thomas Hellman &#038; Emilie Clepper)</title>
-		<link>https://racheletmichel.com/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper</link>
-				<comments>https://racheletmichel.com/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper#respond</comments>
+		<link>/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper</link>
+				<comments>/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper#respond</comments>
 				<pubDate>Mon, 24 Nov 2014 21:30:45 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -58,7 +58,7 @@ L&rsquo;enregistrement en studio de cette chanson fait partie du livre-disque LA
 <p>lamontagnesecrete.com</p>
 <p>Il s&rsquo;agit d&rsquo;un hommage à l’auteur-compositeur-interprète montréalais Alan Mills (1913-1977), qui a enregistré plus de vingt disques pour Folkways Records, l’une des plus prestigieuses maisons de disques folk américaines. Des chansons pétillantes et drôles qui invitent les enfants à apprendre les chiffres, les lettres de l’alphabet, les mois de l’année, les animaux de la ferme ou encore les instruments de musique. Les interprètes Thomas Hellman et Emilie Clepper renouvellent avec panache ce répertoire intemporel qui ne manquera pas d’amuser toute la famille. Un petit trésor !</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/lalphabet-des-animaux-thomas-hellman-emilie-clepper/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
