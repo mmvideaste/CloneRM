@@ -3,12 +3,12 @@
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	
+
 	>
 <channel>
 	<title>
 	Commentaires pour Michel et Michel, vidéaste	</title>
-	<atom:link href="https://racheletmichel.com/comments/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/comments/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>

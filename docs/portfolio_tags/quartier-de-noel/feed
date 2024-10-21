@@ -9,7 +9,7 @@
 
 <channel>
 	<title>quartier de Noël &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/quartier-de-noel/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/quartier-de-noel/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,24 +22,24 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>quartier de Noël &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 	<item>
 		<title>L&#8217;arrivée du Père Noël sur la Promenade Wellington</title>
-		<link>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington</link>
-				<comments>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington#respond</comments>
+		<link>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington</link>
+				<comments>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 20:07:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
-		
+
 		<guid isPermaLink="false">http://localhost/wordpress/?post_type=avada_portfolio&#038;p=10462</guid>
 				<description><![CDATA[Courte vidéo présentant l’arrivée du Père-Noël sur la Promenade Wellington, à Verdun. Réalisée pour la SDC Wellington.]]></description>
 								<content:encoded><![CDATA[<p>Courte vidéo présentant l’arrivée du Père-Noël sur la Promenade Wellington, à Verdun. Réalisée pour la SDC Wellington.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/larrivee-du-pere-noel-sur-la-promenade-wellington/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

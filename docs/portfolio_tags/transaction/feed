@@ -9,7 +9,7 @@
 
 <channel>
 	<title>transaction &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/transaction/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/transaction/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>transaction &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>NAI &#8211; L&#8217;Équipe Poitras relocalise Lolë</title>
-		<link>https://racheletmichel.com/portfolio-items/nai-lole</link>
-				<comments>https://racheletmichel.com/portfolio-items/nai-lole#respond</comments>
+		<link>/portfolio-items/nai-lole</link>
+				<comments>/portfolio-items/nai-lole#respond</comments>
 				<pubDate>Wed, 03 Jun 2015 12:59:43 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,7 +40,7 @@
 								<content:encoded><![CDATA[<p>L’équipe Poitras de NAI Commercial Montréal relocalise le siège social de Coalision – Propriétaire de la marque de vêtement Lolë<br />
 Team Poitras of NAI Commercial Montréal Relocates Coalision &#8211; Owner of the Lolë Clothing Brand.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/nai-lole/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/nai-lole/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

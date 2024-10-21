@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Mariouche Gagné &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/mariouche-gagne/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/mariouche-gagne/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Mariouche Gagné &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Conférence-causerie avec Mariouche Gagné, Harricana</title>
-		<link>https://racheletmichel.com/portfolio-items/conference-mariouche-gagne-harricana</link>
-				<comments>https://racheletmichel.com/portfolio-items/conference-mariouche-gagne-harricana#respond</comments>
+		<link>/portfolio-items/conference-mariouche-gagne-harricana</link>
+				<comments>/portfolio-items/conference-mariouche-gagne-harricana#respond</comments>
 				<pubDate>Mon, 07 Dec 2015 17:20:16 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -40,7 +40,7 @@
 								<content:encoded><![CDATA[<p>Série de conférence-causerie &laquo;&nbsp;Entrepreneurs en résidence &nbsp;&raquo; avec Mariouche Gagné, Harricana</p>
 <p>Depuis 19 ans, la Fondation aide les jeunes entrepreneurs à démarrer leur entreprise. Nous comptons donc plusieurs entrepreneurs à succès parmi nos lauréats. Pour notre premier atelier de la nouvelle série « Entrepreneurs en résidence », la Fondation a offert la chance à ses lauréats et à d&rsquo;autres entrepreneurs de rencontrer Mariouche Gagné, fondatrice de la marque Harricana et lauréate 1996. Sous le thème &laquo;&nbsp;Comment utiliser sa marque efficacement&nbsp;&raquo;, elle a présenté comment elle a démarré les activités d’exportation d’Harricana, les défis qu&rsquo;elles a rencontré et les solutions qu&rsquo;elles a mises de l&rsquo;avant.</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/conference-mariouche-gagne-harricana/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/conference-mariouche-gagne-harricana/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>

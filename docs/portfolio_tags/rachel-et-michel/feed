@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Rachel et Michel &#8211; Michel et Michel, vidéaste</title>
-	<atom:link href="https://racheletmichel.com/portfolio_tags/rachel-et-michel/feed" rel="self" type="application/rss+xml" />
+	<atom:link href="/portfolio_tags/rachel-et-michel/feed" rel="self" type="application/rss+xml" />
 	<link>https://racheletmichel.com</link>
 	<description>Boutique de production vidéo</description>
 	<lastBuildDate>
@@ -22,7 +22,7 @@
 	<generator>https://wordpress.org/?v=5.1.17</generator>
 
 <image>
-	<url>https://racheletmichel.com/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
+	<url>/wp-content/uploads/2023/08/cropped-logomm_5_médaillon_favicon_512-1-32x32.png</url>
 	<title>Rachel et Michel &#8211; Michel et Michel, vidéaste</title>
 	<link>https://racheletmichel.com</link>
 	<width>32</width>
@@ -30,8 +30,8 @@
 </image>
 	<item>
 		<title>Bande démo</title>
-		<link>https://racheletmichel.com/portfolio-items/demo-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/demo-2014#respond</comments>
+		<link>/portfolio-items/demo-2014</link>
+				<comments>/portfolio-items/demo-2014#respond</comments>
 				<pubDate>Thu, 25 Sep 2014 19:52:38 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -39,13 +39,13 @@
 				<description><![CDATA[Voici notre démo pour l’année 2014, résumant en une minute nos projets.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Voici notre démo résumant en une minute nos projets.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/demo-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/demo-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>JMSB &#8211; Executive Certificate in Advanced Business Analytics</title>
-		<link>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics</link>
-				<comments>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics#respond</comments>
+		<link>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics</link>
+				<comments>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:19:10 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -53,13 +53,13 @@
 				<description><![CDATA[En avril 2014, l’École de gestion John-Molson de l’Université Concordia a été le premier établissement universitaire à lancer un programme de Certification pour cadres en analytique d’affaires avancée. Offert via le Centre de perfectionnement de l’École, ce programme est destiné aux gestionnaires de tous les niveaux et œuvrant dans tous les secteurs d’activité. Cette courte [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">En avril 2014, l’École de gestion John-Molson de l’Université Concordia a été le premier établissement universitaire à lancer un programme de Certification pour cadres en analytique d’affaires avancée. Offert via le Centre de perfectionnement de l’École, ce programme est destiné aux gestionnaires de tous les niveaux et œuvrant dans tous les secteurs d’activité. Cette courte vidéo résume l’expérience de ce programme enseigné par Jean-Paul Isson, un des meilleurs experts au monde en analytique d’affaires avancée.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/jmsb-executive-certificate-in-advanced-business-analytics/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Festival Marionnettes plein la Rue &#124; 2014</title>
-		<link>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2014</link>
-				<comments>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2014#respond</comments>
+		<link>/portfolio-items/festival-marionnettes-plein-la-rue-2014</link>
+				<comments>/portfolio-items/festival-marionnettes-plein-la-rue-2014#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:13:52 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -67,13 +67,13 @@
 				<description><![CDATA[Offert par les marchands de la Promenade Wellington, ce festival présente différentes troupes de marionnettistes professionnels ayant le plaisir d’offrir plus de 30 représentations gratuites en plein air.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Offert par les marchands de la Promenade Wellington, ce festival présente différentes troupes de marionnettistes professionnels ayant le plaisir d’offrir plus de 30 représentations gratuites en plein air.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/festival-marionnettes-plein-la-rue-2014/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/festival-marionnettes-plein-la-rue-2014/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Roulotte du Chic Frigo Sans Fric par Judith Portier Design</title>
-		<link>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design</link>
-				<comments>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design#respond</comments>
+		<link>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design</link>
+				<comments>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:09:50 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -81,13 +81,13 @@
 				<description><![CDATA[Capsule présentant l’aménagement de la roulotte du Chic Frigo Sans Fric par Judith Portier Design]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Capsule présentant l’aménagement de la roulotte du Chic Frigo Sans Fric par Judith Portier Design</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/roulotte-du-chic-frigo-sans-fric-par-judith-portier-design/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Érablière Panache et bois rond</title>
-		<link>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond</link>
-				<comments>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond#respond</comments>
+		<link>/portfolio-items/erabliere-panache-et-bois-rond</link>
+				<comments>/portfolio-items/erabliere-panache-et-bois-rond#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:06:33 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -95,13 +95,13 @@
 				<description><![CDATA[L’Érablière Panache et bois rond accueille une quinzaine de restaurateurs qui offrent leur interprétation de mets typiques d’une Cabane à Sucre, entre les rues De l’Église et Gordon, à Verdun.Tire sur neige et menu gastronomique, préparé spécialement pour l’occasion par les chefs de la Promenade Wellington (Blackstrap BBQ, Tripes &#38; Caviar, restaurant Wellington, Boulangerie Sweet [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #a0a0a0;">L’Érablière Panache et bois rond accueille une quinzaine de restaurateurs qui offrent leur interprétation de mets typiques d’une Cabane à Sucre, entre les rues De l’Église et Gordon, à Verdun.</span><br style="color: #a0a0a0;" /><span style="color: #a0a0a0;">Tire sur neige et menu gastronomique, préparé spécialement pour l’occasion par les chefs de la Promenade Wellington (Blackstrap BBQ, Tripes &amp; Caviar, restaurant Wellington, Boulangerie Sweet Lee’s…) et leurs invités, ont su combler les bucherons les plus affamés. Fèves et bacon confit à l’érable, sucre à la crème, cretons de bœuf Wagyu du Québec, charcuteries et moutarde à l’érable ne sont qu’un bref aperçu de la trentaine de bouchées qui ont été offertes au format dégustation pour 2$ ou 4$.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/erabliere-panache-et-bois-rond/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/erabliere-panache-et-bois-rond/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Lancement du N°2 de CITTÀ MAGAZINE</title>
-		<link>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine</link>
-				<comments>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine#respond</comments>
+		<link>/portfolio-items/lancement-du-n2-de-citta-magazine</link>
+				<comments>/portfolio-items/lancement-du-n2-de-citta-magazine#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 19:03:14 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -111,13 +111,13 @@
 <p style="color: #7d7d7d;">Fondé en 2012, CITTÀ est un magazine imprimé photographie + culture citadine ayant pour but de mettre Montréal en parallèle avec d’autres métropoles du monde. Par le biais de collaborations inédites avec des rédacteurs, des photographes et des artistes à Montréal et à l’étranger, CITTÀ révèle de nouveaux talents et propose un regard à la fois neuf et inspirant sur le multiculturalisme.</p>
 <p style="color: #7d7d7d;"><span style="font-weight: inherit; font-style: inherit; color: #000000;">Rachel et Michel font partie des fiers partenaires.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/lancement-du-n2-de-citta-magazine/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/lancement-du-n2-de-citta-magazine/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>le plancher &#124; profil professionnel créatif</title>
-		<link>https://racheletmichel.com/portfolio-items/le-plancher-profil-professionnel-creatif</link>
-				<comments>https://racheletmichel.com/portfolio-items/le-plancher-profil-professionnel-creatif#respond</comments>
+		<link>/portfolio-items/le-plancher-profil-professionnel-creatif</link>
+				<comments>/portfolio-items/le-plancher-profil-professionnel-creatif#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:49:44 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -125,13 +125,13 @@
 				<description><![CDATA[Rachel et Michel ont collaboré à l’espace de travail partagé Le Plancher pour réaliser une courte vidéo présentant des témoignages de membres ayant un profil de professionnel créatif.]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Rachel et Michel ont collaboré à l’espace de travail partagé Le Plancher pour réaliser une courte vidéo présentant des témoignages de membres ayant un profil de professionnel créatif.</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/le-plancher-profil-professionnel-creatif/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/le-plancher-profil-professionnel-creatif/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Merci et joyeuses fêtes à nos clients</title>
-		<link>https://racheletmichel.com/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients</link>
-				<comments>https://racheletmichel.com/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients#respond</comments>
+		<link>/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients</link>
+				<comments>/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients#respond</comments>
 				<pubDate>Mon, 24 Nov 2014 21:40:22 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -139,13 +139,13 @@
 				<description><![CDATA[Rachel et Michel ont voulu remercier leur clientèle de la dernière année en faisant des truffes. Une petite attention qui serait l&#8217;occasion, pour nous, de faire une activité ensemble qui n&#8217;est pas relié à la vidéo. Une nuit blanche plus tard à 6h du matin les truffes et les boîtes étaient terminées. On aurait voulu [&#8230;]]]></description>
 								<content:encoded><![CDATA[<p>Rachel et Michel ont voulu remercier leur clientèle de la dernière année en faisant des truffes. Une petite attention qui serait l&rsquo;occasion, pour nous, de faire une activité ensemble qui n&rsquo;est pas relié à la vidéo. Une nuit blanche plus tard à 6h du matin les truffes et les boîtes étaient terminées. On aurait voulu remercier tous nos clients mais déjà trop nombreux on vous offre cette petite dégustation pour les yeux. Joyeux Noël et bonne année 2014</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/merci-et-joyeuses-fetes-a-nos-clients/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Caisse Desjardins de Verdun &#124; AGA</title>
-		<link>https://racheletmichel.com/portfolio-items/caisse-desjardins-de-verdun-aga</link>
-				<comments>https://racheletmichel.com/portfolio-items/caisse-desjardins-de-verdun-aga#respond</comments>
+		<link>/portfolio-items/caisse-desjardins-de-verdun-aga</link>
+				<comments>/portfolio-items/caisse-desjardins-de-verdun-aga#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:32:33 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -153,13 +153,13 @@
 				<description><![CDATA[Rachel et Michel ont été mandatés par la Caisse Desjardins de Verdun pour réaliser une courte capsule de leur AGA, ayant eu lieu le 23 avril dernier. Visionnez ici les faits saillants :]]></description>
 								<content:encoded><![CDATA[<p><span style="color: #7d7d7d;">Rachel et Michel ont été mandatés par la Caisse Desjardins de Verdun pour réaliser une courte capsule de leur AGA, ayant eu lieu le 23 avril dernier. Visionnez ici les faits saillants :</span></p>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/caisse-desjardins-de-verdun-aga/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/caisse-desjardins-de-verdun-aga/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 		<item>
 		<title>Tangente &#124; Activité scolaire</title>
-		<link>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire</link>
-				<comments>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire#respond</comments>
+		<link>/portfolio-items/tangente-activite-scolaire</link>
+				<comments>/portfolio-items/tangente-activite-scolaire#respond</comments>
 				<pubDate>Thu, 09 Oct 2014 18:28:40 +0000</pubDate>
 		<dc:creator><![CDATA[test_admin]]></dc:creator>
 
@@ -183,7 +183,7 @@ Concepteur d’éclairage: Paul Chambers</p>
 </div>
 </div>
 ]]></content:encoded>
-							<wfw:commentRss>https://racheletmichel.com/portfolio-items/tangente-activite-scolaire/feed</wfw:commentRss>
+							<wfw:commentRss>/portfolio-items/tangente-activite-scolaire/feed</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
