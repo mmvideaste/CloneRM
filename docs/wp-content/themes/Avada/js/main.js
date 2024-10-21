@@ -1,6 +1,7 @@
 /**
  * jQuery Equal Heights
  */
+console.log(' h');
 (function($) {
 	$.fn.equalHeights = function(minHeight, maxHeight) {
 		tallest = (minHeight) ? minHeight : 0;
@@ -7914,8 +7915,6 @@ function ytVidId(url) {
 }
 
 jQuery(document).ready(function() {
-	jQuery('.portfolio-wrapper').hide();
-	jQuery('.portfolio-tabs ').hide();
 	jQuery('.faq-tabs ').hide();
 	if(jQuery('.portfolio').length >= 1) {
 		jQuery('#content').append('<div class="loading-container"><img src="' + js_local_vars.theme_url + '/images/loading.gif' + '" alt="Loading..."><div class="loading-msg">'+js_local_vars.portfolio_loading_text+'</div>');
@@ -8280,9 +8279,8 @@ jQuery(window).load(function() {
 			return ( this.masonry.cols !== prevSegments );
 		};
 
+		console.log('Calling imagesLoaded;');
 		imagesLoaded(jQuery('.portfolio-one .portfolio-wrapper'), function() {
-			jQuery('.portfolio-wrapper').fadeIn();
-			jQuery('.portfolio-tabs').fadeIn();
 			jQuery('.faq-tabs').fadeIn();
 			jQuery('.loading-container').fadeOut();
 			jQuery('.portfolio-one .portfolio-wrapper').isotope({
@@ -8297,8 +8295,6 @@ jQuery(window).load(function() {
 		});
 
 		imagesLoaded(jQuery('.portfolio-two .portfolio-wrapper, .portfolio-three .portfolio-wrapper, .portfolio-four .portfolio-wrapper'),function() {
-			jQuery('.portfolio-wrapper').fadeIn();
-			jQuery('.portfolio-tabs').fadeIn();
 			jQuery('.loading-container').fadeOut();
 			jQuery('.portfolio-two .portfolio-wrapper, .portfolio-three .portfolio-wrapper, .portfolio-four .portfolio-wrapper').isotope({
 				// options
@@ -8313,8 +8309,6 @@ jQuery(window).load(function() {
 
 		var masonryContainer = jQuery('.portfolio-masonry .portfolio-wrapper');
 		imagesLoaded(masonryContainer, function() {
-			jQuery('.portfolio-wrapper').fadeIn();
-			jQuery('.portfolio-tabs').fadeIn();
 			jQuery('.loading-container').fadeOut();
 			var gridTwo = masonryContainer.parent().hasClass('portfolio-grid-2');
 			var columns;
