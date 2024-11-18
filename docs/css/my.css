@@ -28,3 +28,8 @@ video {
     top: 106px;
   }
 }
+
+/* Sinon le menu est blanc sur blanc sur les pages internes */
+#nav ul a {
+  color: #333333 !important;
+}
