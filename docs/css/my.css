@@ -33,3 +33,70 @@ video {
 #nav ul a {
   color: #333333 !important;
 }
+
+.captation .heading {
+  text-align: center;
+}
+
+.captation .round-image {
+  border-radius: 50%;
+}
+
+.captation h1 {
+  font-weight: bold;
+}
+
+.captation .intro {
+  font-weight: bold;
+  font-size: 1.5em;
+  line-height: 2em;
+  padding: 70px 20px 20px 20px;
+}
+
+.captation .pict-wrap {
+  padding: 60px;
+}
+
+.captation .forfait {
+  font-size: 1.5em;
+  height: 300px;
+  text-align: center;
+  border: 10px solid #E78B48;
+  background: #BE3D2A;
+  color: white;
+  border-radius: 20px;
+  padding: 60px 40px;
+}
+
+.captation .forfait a {
+  color: white;
+}
+
+.captation .forfait h3 {
+  font-weight: bold;
+  font-size: 4em;
+}
+
+.captation .forfait .btn {
+  margin: 30px 0;
+  font-size: 1.3em;
+  background: #F5C45E;
+  color: #BE3D2A;
+}
+
+.captation .contact-us {
+  text-align: center;
+}
+
+.captation .contact-us .btn {
+  text-align: center;
+  font-size: 2em;
+  margin: 25px;
+  color: white;
+  font-weight: bold;
+  background: #BE3D2A;
+}
+
+.captation .contact-us .btn i {
+  margin-right: 20px;
+}
