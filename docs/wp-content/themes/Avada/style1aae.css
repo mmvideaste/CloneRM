@@ -9982,6 +9982,40 @@ html[xmlns] .flexslider .slides {
 .flex-direction-nav {
   z-index: 2;
 }
+
+
+
+
+/* Masquer navigation si un seul élément dans le carrousel (images ou vidéo)  Michel de Silva et perplexity */
+@media only screen and (max-width: 1000px) {
+  .fusion-flexslider.flexslider.post-slideshow .slides li:only-child ~ .flex-direction-nav,
+  .fusion-flexslider.flexslider.post-slideshow .slides li:only-child ~ .flex-control-nav {
+    display: none !important;
+  }
+
+  /* Forcer l'affichage du contenu unique sans cadre ou défilement */
+  .fusion-flexslider.flexslider.post-slideshow ul.slides {
+    display: block;
+    padding: 0;
+    margin: 0;
+  }
+  .fusion-flexslider.flexslider.post-slideshow ul.slides li:only-child {
+    display: block;
+    width: 100%!important;
+    margin: 0!important;
+  }
+}
+
+/* Option : Pour que chaque slide prenne toute la largeur même s'il y en a plusieurs  Michel de Silva et perplexity */
+@media only screen and (max-width: 1000px) {
+  .fusion-flexslider.flexslider.post-slideshow ul.slides li {
+    width: 100% !important;
+    margin: 0 !important;
+  }
+}
+
+
+
 /* No JavaScript Fallback */
 /* If you are not using another script, such as Modernizr, make sure you
  * include js that eliminates this class on page load */
