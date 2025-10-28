@@ -16,7 +16,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11
 /* inline-script */
 WebFontConfig = {
       	google: { families: [ "Fauna+One:400,400italic,700,700italic:latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese" ] },		custom: { families: ['FontAwesome'],
-      			  urls: 	['/wp-content/themes/Avada/fonts/fontawesome/font-awesome.css']
+      			  urls: 	['/wp-content/themes/Avada/fonts/font-awesome/css/font-awesome.css']
       			}	};
       (function() {
       	var wf = document.createElement('script');
